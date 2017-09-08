@@ -1,6 +1,6 @@
 ---
-layout: project
+layout: PI introduction
 title: All Projects
-excerpt: "A List of Projects"
+excerpt: "professor Hyunkyu, Song"
 comments: false
 ---
