@@ -34,19 +34,15 @@ Professional Experiences
   Harvard Medical School & Dana-Farber Cancer Institute, Boston, USA
 * __2004-2011 Assistant & Associate Professor__
   Division of Life Sciences, Korea University, Seoul, Korea
+* __2003- 2004 Senior Researcher__
+  Division of Basic Sciences, National Cancer Center, Ilsan, Korea
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Research
+Structural biology is the essential part of modern biology for understanding the fascinating molecular events within the cell and, moreover, for developing new therapeutic agents. We are particularly interested in the structure-function relationship of the protein complexes involved in protein degradation and autophagy pathways. A myriad of proteins and organelles in cell have their own life-span. Problems in protein and/or organelle turn-over cause defects in cellular processes and subsequently numerous diseases in general. Accordingly, to understand structure-function relationship on the target proteins and related molecule diseases, it is important to recognize protein degradation signals, activation mechanism of proteases, and molecular events in the autophagic pathways. The below three sections sketch our key research activities.
+    __1. Autophagic molecules__
+    Autophagy, a bulk degradation process of cell's own proteins by lysosomes (or vacuoles in fungi), is tightly regulated to maintain a balance between synthesis and degradation of cellular products. It is an important mechanism for recycling amino acids from cellular proteins under metabolically stressful conditions. We have expanded our research to whole autophagic pathways including several selective autophagy pathways (xenophagy - autophagy for bacterial clearance and aggrephagy - autophagy for protein aggregates), ubiquitylation-like enzymatic mechanism, and autophagosome maturation.
+    __2. Ubiquitin Biology__
+    Ubiquitin (Ub) is a small protein composed of 76 amino acids. Found only in eukaryotes, it is known as a signal for proteasome-dependent protein degradation pathway by a covalent modification of target proteins. Ub-dependent degradation regulates diverse cellular processes including cell cycle progression, muscle differentiation, and transcriptional regulation. Interestingly, proteins containing specific amino acid residues at the N-terminus are discarded within a few minutes, which is called "N-end rule". A key molecule for N-end rule is Ubr1, an Ub E3-ligase. The N-end rule possesses the hierarchical enzymatic steps to degrade the N-degron substrates. We are working on the structure-function study of proteins involved in the N-end rule pathway.
+    __3. Bacterial Degradation Signaling Recognition__
+    Intracellular protein degradation is a highly regulated process. The proteolytic machinery must select the right substrate in the right place at the right time. Unlike eukaryotes, prokaryotes utilize several protease complexes for intracellular protein degradation as they lack the ubiquitin-proteosome system. However, despite a wealth of structural information on prokaryotic proteosome homologs, the detailed mechanism for their substrate recognition is still mysterious. Against this background, we conduct research on the target selection steps by bacterial degradation machineries including ClpXP and HslVU.
+    
