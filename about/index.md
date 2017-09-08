@@ -1,24 +1,37 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Lab of Structural Biology
+tags: [PI, Research]
+date: 2017-09-08
 comments: false
 ---
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## PI introduction
+Education and Training
+* 2001-2003 Research Associate
+  Harvard Medical School & Dana-Farber Cancer Institute, Boston, USA
+* 1999-2001 Postdoctoral Fellow
+  Max-Planck-Institut für Biochemie, Martinsried, Germany
+* 1997-1999 Postdoctoral Fellow
+  Research Institute for Basic Sciences, Seoul National University
+* 1993-1997 Ph.D. in Chemistry
+  Seoul National University, Seoul, Korea
+* 1991-1993 M.S. in Chemistry
+  Seoul National University, Seoul, Korea
+* 1987-1991 B.S. in Agricultural Chemistry
+  Seoul National University, Seoul, Korea
+
+Professional Experiences
+* 2011-present Professor
+  Division of Life Sciences, Korea University, Seoul, Korea
+* 2013-2015 Division Chair
+  Division of Life Sciences, Korea University, Seoul, Korea
+* 2010- 2011 Visiting Professor
+  Harvard Medical School & Dana-Farber Cancer Institute, Boston, USA
+* 2004- 2011 Assistant & Associate Professor
+  Division of Life Sciences, Korea University, Seoul, Korea
 
 ## Preview
 
