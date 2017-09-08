@@ -37,6 +37,7 @@ Professional Experiences
 * __2003- 2004 Senior Researcher__
   Division of Basic Sciences, National Cancer Center, Ilsan, Korea
 
+
 ## Research
 Structural biology is the essential part of modern biology for understanding the fascinating molecular events within the cell and, moreover, for developing new therapeutic agents. We are particularly interested in the structure-function relationship of the protein complexes involved in protein degradation and autophagy pathways. A myriad of proteins and organelles in cell have their own life-span. Problems in protein and/or organelle turn-over cause defects in cellular processes and subsequently numerous diseases in general. Accordingly, to understand structure-function relationship on the target proteins and related molecule diseases, it is important to recognize protein degradation signals, activation mechanism of proteases, and molecular events in the autophagic pathways. The below three sections sketch our key research activities.
 
