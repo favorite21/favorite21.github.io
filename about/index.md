@@ -12,27 +12,27 @@ comments: false
 
 ## PI introduction
 Education and Training
-* 2001-2003 Research Associate
+* __2001-2003 Research Associate__
   Harvard Medical School & Dana-Farber Cancer Institute, Boston, USA
-* 1999-2001 Postdoctoral Fellow
+* __1999-2001 Postdoctoral Fellow__
   Max-Planck-Institut für Biochemie, Martinsried, Germany
-* 1997-1999 Postdoctoral Fellow
+* __1997-1999 Postdoctoral Fellow__
   Research Institute for Basic Sciences, Seoul National University
-* 1993-1997 Ph.D. in Chemistry
+* __1993-1997 Ph.D. in Chemistry__
   Seoul National University, Seoul, Korea
-* 1991-1993 M.S. in Chemistry
+* __1991-1993 M.S. in Chemistry__
   Seoul National University, Seoul, Korea
-* 1987-1991 B.S. in Agricultural Chemistry
+* __1987-1991 B.S. in Agricultural Chemistry__
   Seoul National University, Seoul, Korea
 
 Professional Experiences
-* 2011-present Professor
+* __2011-present Professor__
   Division of Life Sciences, Korea University, Seoul, Korea
-* 2013-2015 Division Chair
+* __2013-2015 Division Chair__
   Division of Life Sciences, Korea University, Seoul, Korea
-* 2010- 2011 Visiting Professor
+* __2010-2011 Visiting Professor__
   Harvard Medical School & Dana-Farber Cancer Institute, Boston, USA
-* 2004- 2011 Assistant & Associate Professor
+* __2004-2011 Assistant & Associate Professor__
   Division of Life Sciences, Korea University, Seoul, Korea
 
 ## Preview
