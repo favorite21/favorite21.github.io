@@ -8,6 +8,8 @@ comments: false
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
+![ex_screenshot](./favorite21.github.io/assets/img/prof.jpg)
+
 ## PI introduction
 Education and Training
 * 2001-2003 Research Associate
