@@ -1,7 +1,5 @@
 # Site navigation links
 
-- title: PI
-  url: /PI/
+- title: PI introduction
+  url: /pi/
   
-- title: Research
-  url: /research/
