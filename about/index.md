@@ -44,10 +44,10 @@ Structural biology is the essential part of modern biology for understanding the
 
 __1. Autophagic molecules__
     Autophagy, a bulk degradation process of cell's own proteins by lysosomes (or vacuoles in fungi), is tightly regulated to maintain a balance between synthesis and degradation of cellular products. It is an important mechanism for recycling amino acids from cellular proteins under metabolically stressful conditions. We have expanded our research to whole autophagic pathways including several selective autophagy pathways (xenophagy - autophagy for bacterial clearance and aggrephagy - autophagy for protein aggregates), ubiquitylation-like enzymatic mechanism, and autophagosome maturation.
-
+    
 __2. Ubiquitin Biology__
     Ubiquitin (Ub) is a small protein composed of 76 amino acids. Found only in eukaryotes, it is known as a signal for proteasome-dependent protein degradation pathway by a covalent modification of target proteins. Ub-dependent degradation regulates diverse cellular processes including cell cycle progression, muscle differentiation, and transcriptional regulation. Interestingly, proteins containing specific amino acid residues at the N-terminus are discarded within a few minutes, which is called "N-end rule". A key molecule for N-end rule is Ubr1, an Ub E3-ligase. The N-end rule possesses the hierarchical enzymatic steps to degrade the N-degron substrates. We are working on the structure-function study of proteins involved in the N-end rule pathway.
-
+    
 __3. Bacterial Degradation Signaling Recognition__
     Intracellular protein degradation is a highly regulated process. The proteolytic machinery must select the right substrate in the right place at the right time. Unlike eukaryotes, prokaryotes utilize several protease complexes for intracellular protein degradation as they lack the ubiquitin-proteosome system. However, despite a wealth of structural information on prokaryotic proteosome homologs, the detailed mechanism for their substrate recognition is still mysterious. Against this background, we conduct research on the target selection steps by bacterial degradation machineries including ClpXP and HslVU.
-
+    
