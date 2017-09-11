@@ -9,7 +9,7 @@ comments: false
 <center>"My X-ray is my best friend. It is my life. I must master it as I master my life. Witheout me, my X-ray machine is useless. Without my X-ray machine, I am useless. I must collect my data true. I must phase faster than my enemy who is trying to publish before me. I must shake him before he bakes me. I will......"</center>
 
 
-![ex_screenshot](/assets/img/prof.jpg) __prof. Hyunkyu Song.__
+![ex_screenshot](/assets/img/prof.jpg) <center>prof. Hyunkyu Song.</center>
 
 ## PI introduction
 Education and Training
