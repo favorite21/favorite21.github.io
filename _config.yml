@@ -1,9 +1,7 @@
 # Site
 title:              "Lab of Structural Biology"
-bio:                "School of Life Sciences and Biotechnology, Korea Univ." <br/>
-                    'Anam-Dong, Seongbuk-Gu, Seoul 136-701, Korea'
-description:        "School of Life Sciences and Biotechnology, Korea Univ." <br/>
-                    'Anam-Dong, Seongbuk-Gu, Seoul 136-701, Korea'
+bio:                "School of Life Sciences and Biotechnology, Korea Univ. <br/> Anam-Dong, Seongbuk-Gu, Seoul 136-701, Korea"
+description:        "School of Life Sciences and Biotechnology, Korea Univ. <br/> Anam-Dong, Seongbuk-Gu, Seoul 136-701, Korea"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/prof.jpg'
