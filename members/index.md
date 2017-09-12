@@ -9,7 +9,7 @@ comments: false
 ## Current Members
 
 | Picture | Name | Degree | E-mail |
-|:--------|:-------:|:--------:|:--------|
+|:--------:|:-------:|:--------:|:--------|
 | ![ex_screenshot](/assets/img/prof.jpg) | __Song, Hyun Kyu__ | Principal Investigator | hksong@korea.ac.kr |
 |----
 | ![ex_screenshot](/assets/img/yws.jpg) | __Yang, Woo Seok__ | Undergradute student | favorite21@korea.ac.kr |
