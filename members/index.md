@@ -29,8 +29,9 @@ comments: false
 |=====
 {: rules="groups"}
 
+
 ## Former Members
-| Name | <center>Until</center> | <center>Degree</center> | <center>E-mail</center> |
+| Name | Until | Degree | E-mail |
 |:--------|:-------:|--------:|--------:|
 | __Kim, Byeong-Won__ | Aug. 2017 | Ph. D. degree | kbw2010@korea.ac.kr |
 | __Kim, Min Kyung__ | Jun. 2017 | Ph. D. degree | tara86@korea.ac.kr |
