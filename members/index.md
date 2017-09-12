@@ -10,7 +10,7 @@ comments: false
 
 | Picture | Name | Degree | E-mail |
 |:--------|:-------:|--------:|--------:|
-|  | __Song, Hyun Kyu__ | Principal Investigator | hksong@korea.ac.kr |
+| ![ex_screenshot](/assets/img/prof.jpg) | __Song, Hyun Kyu__ | Principal Investigator | hksong@korea.ac.kr |
 |----
 |  | __Yang, Woo Seok__ | Undergradute student | favorite21@korea.ac.kr |
 |  | __Heo, Ji Won__ | Undergradute student | heoji94@korea.ac.kr |
