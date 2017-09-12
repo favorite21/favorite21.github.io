@@ -8,8 +8,8 @@ comments: false
 
 ## Current Members
 
-| <center>Picture</center> | Name | <center>Degree</center> | <center>E-mail</center> |
-|:--------|:-------:|--------:|--------:|
+| <center>Picture</center> | Name | Degree | E-mail |
+|:--------|:-------:|:--------|:--------|
 | ![ex_screenshot](/assets/img/prof.jpg) | __Song, Hyun Kyu__ | Principal Investigator | hksong@korea.ac.kr |
 |----
 | ![ex_screenshot](/assets/img/yws.jpg) | __Yang, Woo Seok__ | Undergradute student | favorite21@korea.ac.kr |
@@ -32,7 +32,7 @@ comments: false
 ## Former Members
 
 | Name | Until | Degree | E-mail |
-|:--------|:-------:|--------:|--------:|
+|:--------|:-------:|:--------|:--------|
 | __Kim, Byeong-Won__ | Aug. 2017 | Ph. D. degree | kbw2010@korea.ac.kr |
 | __Kim, Min Kyung__ | Jun. 2017 | Ph. D. degree | tara86@korea.ac.kr |
 | __Sung, Kwang Hoon__ | Sep. 2014 | Ph. D. degree | sternen@gmail.com |
