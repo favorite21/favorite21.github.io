@@ -30,6 +30,7 @@ comments: false
 
 
 ## Former Members
+
 | Name | Until | Degree | E-mail |
 |:--------|:-------:|--------:|--------:|
 | __Kim, Byeong-Won__ | Aug. 2017 | Ph. D. degree | kbw2010@korea.ac.kr |
