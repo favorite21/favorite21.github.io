@@ -29,3 +29,28 @@ comments: false
 |=====
 {: rules="groups"}
 
+## Former Members
+| Name | Until | <center>Degree</center> | <center>E-mail</center> |
+|:--------|:-------:|--------:|--------:|
+| __Kim, Byeong-Won__ | Aug. 2017 | Ph. D. degree | kbw2010@korea.ac.kr |
+| __Kim, Min Kyung__ | Jun. 2017 | Ph. D. degree | tara86@korea.ac.kr |
+| __Sung, Kwang Hoon__ | Sep. 2014 | Ph. D. degree | sternen@gmail.com |
+| __Hong, Seung Beom__ | Sep. 2013 | Ph. D. degree | Seungbeom.Hong@nyumc.org |
+| __Jeong, Byung-Cheon__ | Feb. 2013 | Ph. D. degree | Byung-Cheon.Jeong@UTSouthwestern.edu |
+| __Lee, Byung-Gil__ | Dec. 2012 | Ph. D. degree | blee@mrc-lmb.cam.ac.uk |
+| __Park, Eun Young__ | Feb. 2010 | Ph. D. degree | eunyoung@red.dfci.harvard.edu |
+| __Kwon, Oh Yeun__ | Feb. 2009 | Ph. D. degree | enigmakwon@khidi.or.kr |
+|----
+| __Oh, Sun Joo__ | Feb. 2017 | MS degree |  sunjoo9359@korea.ac.kr |
+| __Lee, Ji Young__ | sep. 2014 | MS degree | jiyounglee4831@gmail.com |
+| __Lee, So Yeon__ | Feb. 2013 | MS degree | soyeon.verena@gmail.com |
+| __Choi, Woo Suk__ | Aug. 2010 | MS degree | woosuk.choi@stonybrook.edu |
+| __Lee, Myeong-Ryeol__ | Feb. 2010 | MS degree | ilvanin@amorepacific.com |
+| __Ko, Jin Young__ | Aug. 2008 | MS degree | Kojy@ckdpharm.com |
+|----
+| __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77@hotmail.com |
+| __Kim, Hyung-Wook__ | Aug. 2004 | Researcher | parsons@unitel.co.kr |
+|----
+| __Stolt, Peggy C__ | Visiting student | Researcher | peggy.stolt@csf.ac.at |
+|=====
+{: rules="groups"}
