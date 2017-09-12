@@ -26,7 +26,7 @@ comments: false
 | ![ex_screenshot](/assets/img/psh.jpg) | __Park, Si Hoon__ | Ph. D. candidate | solli@korea.ac.kr |
 |----
 | ![ex_screenshot](/assets/img/jyo.jpg) | __Jung, Yang Ouk__ | Research Professor | yojung@korea.ac.kr |
-|=====
+|----
 
 
 ## Former Members
