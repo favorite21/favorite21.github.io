@@ -27,6 +27,7 @@ comments: false
 | ![ex_screenshot](/assets/img/hjw.jpg) | __Heo, Ji Won__ | Undergradute student | heoji94@korea.ac.kr |
 | ![ex_screenshot](/assets/img/yws.jpg) | __Yang, Woo Seok__ | Undergradute student | favorite21@korea.ac.kr |
 |----
+| |
 |=====
 {: rules="groups"}
 
