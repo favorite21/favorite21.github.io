@@ -32,7 +32,7 @@ comments: false
 ## Former Members
 
 | Name | Until | Degree | E-mail |
-|:--------|:-------:|:--------|:--------|
+|:--------|:-------|:--------|:--------|
 | __Kim, Byeong-Won__ | Aug. 2017 | Ph. D. degree | kbw2010@korea.ac.kr |
 | __Kim, Min Kyung__ | Jun. 2017 | Ph. D. degree | tara86@korea.ac.kr |
 | __Sung, Kwang Hoon__ | Sep. 2014 | Ph. D. degree | sternen@gmail.com |
