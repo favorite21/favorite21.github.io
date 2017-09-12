@@ -27,7 +27,6 @@ comments: false
 |----
 | ![ex_screenshot](/assets/img/jyo.jpg) | __Jung, Yang Ouk__ | Research Professor | yojung@korea.ac.kr |
 |=====
-{: rules="groups"}
 
 
 ## Former Members
