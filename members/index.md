@@ -8,7 +8,7 @@ comments: false
 
 ## Current Members
 
-| Picture | Name | Degree | E-mail |
+| Picture | Name | <center>Degree</center> | <center>E-mail</center> |
 |:--------|:-------:|--------:|--------:|
 | ![ex_screenshot](/assets/img/prof.jpg) | __Song, Hyun Kyu__ | Principal Investigator | hksong@korea.ac.kr |
 |----
