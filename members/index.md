@@ -1,6 +1,6 @@
 ---
 layout: post-list
 title: Members of LSB
-excerpt: "A List of Posts"
+excerpt: "A List of Members"
 comments: false
 ---
