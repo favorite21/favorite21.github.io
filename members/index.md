@@ -30,7 +30,7 @@ comments: false
 {: rules="groups"}
 
 ## Former Members
-| Name | Until | <center>Degree</center> | <center>E-mail</center> |
+| Name | <center>Until</center> | <center>Degree</center> | <center>E-mail</center> |
 |:--------|:-------:|--------:|--------:|
 | __Kim, Byeong-Won__ | Aug. 2017 | Ph. D. degree | kbw2010@korea.ac.kr |
 | __Kim, Min Kyung__ | Jun. 2017 | Ph. D. degree | tara86@korea.ac.kr |
@@ -51,6 +51,7 @@ comments: false
 | __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77@hotmail.com |
 | __Kim, Hyung-Wook__ | Aug. 2004 | Researcher | parsons@unitel.co.kr |
 |----
-| __Stolt, Peggy C__ | Visiting student | Researcher | peggy.stolt@csf.ac.at |
+| __Shelby Brooks__ | Oct. 2017 | Visiting student | sgbrooks@crimson.ua.edu |
+| __Peggy C. Stolt__ | Aug. 2004 | Visiting student | peggy.stolt@csf.ac.at |
 |=====
 {: rules="groups"}
