@@ -48,7 +48,7 @@ comments: false
 | __Lee, Myeong-Ryeol__ | Feb. 2010 | MS degree | ilvanin@amorepacific.com |
 | __Choi, Woo Suk__ | Aug. 2010 | MS degree | woosuk.choi@stonybrook.edu |
 | __Lee, So Yeon__ | Feb. 2013 | MS degree | soyeon.verena@gmail.com |
-| __Lee, Ji Young__ | sep. 2014 | MS degree | jiyounglee4831@gmail.com |
+| __Lee, Ji Young__ | Sep. 2014 | MS degree | jiyounglee4831@gmail.com |
 | __Oh, Sun Joo__ | Feb. 2017 | MS degree |  sunjoo9359@korea.ac.kr |
 |----
 | __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77@hotmail.com |
