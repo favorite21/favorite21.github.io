@@ -2,8 +2,8 @@
 layout: page
 title: Members of LSB
 tags: [Member]
-feature: /assets/img/lsb.png
 date: 2017-09-08
+feature: /assets/img/lsb.png
 comments: false
 ---
 
