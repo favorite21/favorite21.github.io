@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Publications"
 date: 2017-09-13
 excerpt:
