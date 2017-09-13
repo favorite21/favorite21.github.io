@@ -8,9 +8,43 @@ feature: /assets/img/sspb.png
 comments: false
 ---
 
+## 2007
+
+
+
+## 2006
+
+<a href="/assets/pdf/mskim-amsh-bbrc.pdf"> <strong>(51) Kim, M. S., Kim, J. A., Song, H. K. &amp; Jeon, H.* (2006)</strong> <br/> "STAM-AMSH interaction facilitates the deubiquitination activity in the C-terminal AMSH" <br/> Biochem. Biophys. Res. Commun. 351, 612-618. (Elsevier Inc.) </a> <br/> [* Corresponding authors]
+
+<a href="/assets/pdf/eypark-mtan-proteins.pdf"> <strong>(50) Park, E. Y., Oh, S. I., Nam, M. J., Shin, J. S., Kim, K. N. &amp; Song, H. K. (2006)</strong> <br/> "Crystal structure of 5'-methylthioadenosine nucleosidase from Arabidopsis thaliana at 1.5 A resolution" <br/> Proteins: Structure, Function and Bioinformatics 65, 519-523. (Wiley InterScience) </a>
+
+<a href="/assets/pdf/derek-fak-jbc.pdf"> <strong>(49) Ceccarelli, D. F., Song, H. K., Poy, F., Schaller, M. D. &amp; Eck, M. J. (2006)</strong> <br/> "Crystal structure of the FERM domain of focal adhesion kinase" <br/> J. Biol. Chem. 281, 252-259. (American Society for Biochemistry and Molecular Biology) </a>
+
+## 2005
+
+<a href="/assets/pdf/Azim-PS.pdf"> <strong>(48) Azim, M. K., Goehring, W., Song, H. K., Ramachandran, R., Bochtler, M. &amp; Goettig, P. (2005)</strong> <br/> "Characterization of the HslU chaperone affinity for HslV protease" <br/> Protein Sci. 14, 1357-1362. (Protein Society) </a>
+
+<a href="/assets/pdf/hks-biochemnews.pdf"> <strong>(47) Song, H. K. (2005)</strong> <br/> "An ssrA-tagging system" <br/> Biochemistry News 25, 35-41. (Korean Society for Biochemistry and Molecular Biology) </a>
+
+## 2004
+
+<a href="/assets/pdf/eyp-trbbi-jmb.pdf"> <strong>(46) Park, E. Y., Kim, J.-A., Kim, H.-W., Kim, Y. S. &amp; Song, H. K. (2004)</strong> <br/> "Crystal structure of the Bowman-Birk inhibitor from barley seeds in ternary complex with porcine trypsin" <br/> J. Mol. Biol. 343, 173-186. (Academic Press) </a> <br> <a href="JavaScript:MM_openBrWindow(theURL,winName,features)" onClick="MM_openBrWindow('pub1.htm','pop','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no, height=525, width=356')"><strong>[Cover Illustration of Oct. 8th Issue]</strong></a>
+
+<a href="/assets/pdf/bil-emboj04.pdf"> <strong>(45) Lee, B. I., Kim, K. H., Park, S. J., Eom, S. H., Song, H. K.  &amp; Suh, S. W. (2004)</strong> <br/> "Ring-shaped architecture of RecR: implications for its role in homologous recombinational DNA repair" <br/> EMBO J. 23, 2029-2038. (Nature Publishing Group) </a>
+
 ## 2003
 
+<a href="/assets/pdftowbin-jbc2003-metap.pdf"> <strong>(44) Towbin, H., Bair, K. W., DeCaprio, J. A., Eck, M. J., Kim, S., Kinder, F. R., Morollo, A., Mueller, D. R., Schindler, P., Song, H. K., van Oostrum, J., Versace, R. W., Voshol, H., Wood, J., Zabludoff, S., &amp; Phillips, P. E. (2003)</strong> <br/> "Proteomics-based target identification: Bengamide is a new class of methionine aminopeptidase inhibitors" <br/> J. Biol. Chem. 278, 52964-52971. (American Society for Biochemistry and Molecular Biology) </a>
 
+<a href="/assets/pdf/hks-mc03-sspb.pdf"> <strong>(43) Song, H. K.  &amp; Eck, M. J. (2003)</strong> <br/> "Structural basis of degradation signal recognition by SspB, a specificity-enhancing factor for the ClpXP proteolytic machine" <br/> Molecular Cell 12, 75-86. (Cell Press) </a> <br> <strong><a href="pdf/sspb-nsmb.pdf">[News & Views by Nature Struct. Mol. Biol.]</a></strong>
+
+<a href="/assets/pdf/pcs-dab1.pdf"> <strong>(42) Stolt, P. C., Jeon, H., Song, H. K., Herz, J., Eck, M. J. &amp; Blacklow, S. C. (2003)</strong> <br/> "Origins of peptide selectivity and phosphoinositide binding revealed by structures of disabled-1 PTB domain complexes" <br/> Structure 11, 569-579. (Cell Press) </a>
+
+<a href="/assets/pdf/freedman-jbc.pdf"> <strong>(41) Freedman, S. J., Song, H. K., Xu, Y., Sun, Z. Y. &amp; Eck, M. J. (2003)</strong> <br/> "Homotetrameric structure of the SNAP-23 N-terminal coiled-coil domain" <br/> J. Biol. Chem. 278, 13462-12467. (American Society for Biochemistry and Molecular Biology) </a>
+
+<a href="/assets/pdf/hks-ncb03-sap.pdf"> <strong>(40) Chan, B.*, Lanyi, A.*, Song, H. K.*, Griesbach, M., Simarro-Grande, M., Poy, F., Howie, D., Sumegi, J., Terhorst, C. &amp; Eck, M. J. (2003)</strong> <br/> "SAP couples Fyn to SLAM immune receptors" <br/> Nature Cell Biol. 5, 155-160. (Nature Publishing Group) </a> <br/> [* Co-first authors]
+
+<a href="/assets/pdf/hks-tmvu.pdf"> <strong>(39) Song, H. K., Bochtler, M., Azim, M. K., Hartmann, C., Huber, R. &amp; Ramachandran, R. (2003)</strong> <br/> "Isolation and characterization of the prokaryotic proteasome homolog HslVU (ClpQY) from Thermotoga maritima and the crystal structure of HslV" <br/> Biophysical Chemistry 100, 437-452. (Elsevier Science) </a> <br/> [Dedication to the memory of Prof. John T. Edsall]
 
 ## 2002
 
