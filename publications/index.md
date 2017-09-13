@@ -14,7 +14,7 @@ comments: false
 
 ## 2006
 
-<a href="/assets/pdf/mskim-amsh-bbrc.pdf"> <strong>(51) Kim, M. S., Kim, J. A., Song, H. K. &amp; Jeon, H.* (2006)</strong> <br/> "STAM-AMSH interaction facilitates the deubiquitination activity in the C-terminal AMSH" <br/> Biochem. Biophys. Res. Commun. 351, 612-618. (Elsevier Inc.) </a> <br/> [Corresponding authors]
+<a href="/assets/pdf/mskim-amsh-bbrc.pdf"> <strong>(51) Kim, M. S., Kim, J. A., Song, H. K. &amp; Jeon, H. (2006)</strong> <br/> "STAM-AMSH interaction facilitates the deubiquitination activity in the C-terminal AMSH" <br/> Biochem. Biophys. Res. Commun. 351, 612-618. (Elsevier Inc.) </a> <br/> [Corresponding authors]
 
 <a href="/assets/pdf/eypark-mtan-proteins.pdf"> <strong>(50) Park, E. Y., Oh, S. I., Nam, M. J., Shin, J. S., Kim, K. N. &amp; Song, H. K. (2006)</strong> <br/> "Crystal structure of 5'-methylthioadenosine nucleosidase from Arabidopsis thaliana at 1.5 A resolution" <br/> Proteins: Structure, Function and Bioinformatics 65, 519-523. (Wiley InterScience) </a>
 
@@ -42,7 +42,7 @@ comments: false
 
 <a href="/assets/pdf/freedman-jbc.pdf"> <strong>(41) Freedman, S. J., Song, H. K., Xu, Y., Sun, Z. Y. &amp; Eck, M. J. (2003)</strong> <br/> "Homotetrameric structure of the SNAP-23 N-terminal coiled-coil domain" <br/> J. Biol. Chem. 278, 13462-12467. (American Society for Biochemistry and Molecular Biology) </a>
 
-<a href="/assets/pdf/hks-ncb03-sap.pdf"> <strong>(40) Chan, B.*, Lanyi, A.*, Song, H. K.*, Griesbach, M., Simarro-Grande, M., Poy, F., Howie, D., Sumegi, J., Terhorst, C. &amp; Eck, M. J. (2003)</strong> <br/> "SAP couples Fyn to SLAM immune receptors" <br/> Nature Cell Biol. 5, 155-160. (Nature Publishing Group) </a> <br/> [Co-first authors]
+<a href="/assets/pdf/hks-ncb03-sap.pdf"> <strong>(40) Chan, B., Lanyi, A., Song, H. K., Griesbach, M., Simarro-Grande, M., Poy, F., Howie, D., Sumegi, J., Terhorst, C. &amp; Eck, M. J. (2003)</strong> <br/> "SAP couples Fyn to SLAM immune receptors" <br/> Nature Cell Biol. 5, 155-160. (Nature Publishing Group) </a> <br/> [Co-first authors]
 
 <a href="/assets/pdf/hks-tmvu.pdf"> <strong>(39) Song, H. K., Bochtler, M., Azim, M. K., Hartmann, C., Huber, R. &amp; Ramachandran, R. (2003)</strong> <br/> "Isolation and characterization of the prokaryotic proteasome homolog HslVU (ClpQY) from Thermotoga maritima and the crystal structure of HslV" <br/> Biophysical Chemistry 100, 437-452. (Elsevier Science) </a> <br/> [Dedication to the memory of Prof. John T. Edsall]
 
