@@ -55,6 +55,6 @@ comments: false
 | __Kim, Hyung-Wook__ | Aug. 2004 | Researcher | parsons@unitel.co.kr |
 |----
 | __Peggy C. Stolt__ | Aug. 2004 | Visiting student | peggy.stolt@csf.ac.at |
-| __Shelby Brooks__ | Oct. 2017 | Visiting student | sgbrooks@crimson.ua.edu |
+| __Shelby Brooks__ | Aug. 2017 | Visiting student | sgbrooks@crimson.ua.edu |
 |=====
 {: rules="groups"}
