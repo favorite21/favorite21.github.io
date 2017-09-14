@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Board
+title: Notice
 comments: True
 ---
