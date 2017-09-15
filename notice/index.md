@@ -1,6 +1,6 @@
 ---
 layout: post-list
 title: Notice
-excerpt: "A List of notice"
+excerpt: "A List of notices"
 comments: True
 ---
