@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Board
 tags: [board]
 date: 2017-09-08
