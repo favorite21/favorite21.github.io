@@ -4,7 +4,7 @@ bio:                "School of Life Sciences and Biotechnology, Korea Univ. <br/
 description:        "School of Life Sciences and Biotechnology, Korea Univ. <br/> Anam-Dong, Seongbuk-Gu, Seoul 136-701, Korea"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/prof.jpg'
+logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
