@@ -9,6 +9,7 @@ comments: false
 
 |  |  |
 |:--------:|:-------|
-| [![ex_screenshot](/assets/gallery/sspb.jpg)](/assets/gallery/g-sspb-hks.pdf) | * __SspB-ssrA complex__ </br> PDB IDs : 1OX8, 1OX9 </br> *Mol.Cell* __12__, 75-86(2003) |
+| [![ex_screenshot](/assets/gallery/sspb.jpg)](/assets/gallery/g-sspb-hks.pdf) | <strong>SspB-ssrA complex</strong> </br> PDB IDs : 1OX8, 1OX9 </br> <em>Mol.Cell</em> 12, 75-86(2003) |
 |=====
+{: .notice}
 {: rules="groups"}
