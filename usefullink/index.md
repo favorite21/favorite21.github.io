@@ -7,6 +7,7 @@ comments: false
 ---
 
 ## Journal
+
 |  |  |
 |:--------|:-------|
 | <kbd>></kbd><a href="http://journals.iucr.org/a/index.html">Acta Crystallographica Section A </a> | <kbd>></kbd><a href="http://www.sciencedirect.com/science/journal/10478477?sdc=1">Journal of Structural Biology </a> |
@@ -37,4 +38,12 @@ comments: false
 {: rules="groups"}
 
 ## Company
-| <kbd>></kbd><a href="http://genesdev.cshlp.org/">Genes & Development </a> |
+
+|  |  |
+|:--------|:-------|
+| <kbd>></kbd><a href="http://genesdev.cshlp.org/">Genes & Development </a> |  |
+|------
+|  |  |
+|=====
+{: rules="groups"}
+
