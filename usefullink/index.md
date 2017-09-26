@@ -6,4 +6,35 @@ date: 2017-09-08
 comments: false
 ---
 
-<kbd>></kbd><a href="http://journals.iucr.org/a/index.html"> Acta Crystallographica Section A </a>
+## Journal
+|  |  |
+|:--------|:-------|
+| <kbd>></kbd><a href="http://journals.iucr.org/a/index.html">Acta Crystallographica Section A </a> | <kbd>></kbd><a href="http://www.sciencedirect.com/science/journal/10478477?sdc=1">Journal of Structural Biology </a> |
+| <kbd>></kbd><a href="http://journals.iucr.org/d/index.html">Acta Crystallographica Section D </a> | <kbd>></kbd><a href="http://jvi.asm.org/">Journal of Virology </a> |
+| <kbd>></kbd><a href="http://journals.iucr.org/f/index.html">Acta Crystallographica Section F </a> | <kbd>></kbd><a href="http://mcb.asm.org/">Molecular and Cellular Biology </a> |
+| <kbd>></kbd><a href="http://www.annualreviews.org/action/showJournals">Annual Reviews </a> | <kbd>></kbd><a href="http://www.cell.com/molecular-cell/home">Molecular Cell </a> |
+| <kbd>></kbd><a href="http://www.sciencedirect.com/science/journal/0006291X?sdc=1">BBRC </a> | <kbd>></kbd><a href="https://www.nature.com/">Nature </a> |
+| <kbd>></kbd><a href="http://www.biochemj.org/">Biochemical Journal </a> | <kbd>></kbd><a href="http://www.nature.com/biotech//index.html?foxtrotcallback=true">Nature Biotechnology </a> |
+| <kbd>></kbd><a href="http://pubs.acs.org/journal/bichaw">Biochemistry </a> | <kbd>></kbd><a href="http://www.nature.com/ncb/index.html">Nature Cell Biology </a> |
+| <kbd>></kbd><a href="https://www.degruyter.com/view/j/bchm">Biological Chemistry </a> | <kbd>></kbd><a href="https://www.nature.com/subjects/genetics">Nature Genetics </a> |
+| <kbd>></kbd><a href="http://www.bloodjournal.org/?sso-checked=true">Blood </a> | <kbd>></kbd><a href="https://www.nature.com/subjects/immunology">Nature Immunology </a> |
+| <kbd>></kbd><a href="http://www.cell.com/">Cell </a> | <kbd>></kbd><a href="https://www.nature.com/subjects/medical-research">Nature Medicine </a> |
+| <kbd>></kbd><a href="http://www.cell.com/cell-chemical-biology/home">Chemical Biology </a> | <kbd>></kbd><a href="https://www.nature.com/nsmb/">Nature Structural & Molecular Biology </a> |
+| <kbd>></kbd><a href="http://www.sciencedirect.com/science/journal/0959440X?sdc=1">Current Opinion in Structural Biology </a> | <kbd>></kbd><a href="https://academic.oup.com/nar">Nucleic Acids Research </a> |
+| <kbd>></kbd><a href="http://emboj.embopress.org/">EMBO Journal </a> | <kbd>></kbd><a href="http://www.plantcell.org/">Plant Cell </a> |
+| <kbd>></kbd><a href="http://www.fasebj.org/">FASEB Journal </a> | <kbd>></kbd><a href="http://www.pnas.org/">PNAS </a> |
+| <kbd>></kbd><a href="http://www.sciencedirect.com/science/journal/00145793?sdc=1">FEBS Letter </a> | <kbd>></kbd><a href="https://academic.oup.com/peds">Protein Engineering, Design and Selection </a> |
+| <kbd>></kbd><a href="http://genesdev.cshlp.org/">Genes & Development </a> | <kbd>></kbd><a href="http://www.sciencedirect.com/science/journal/10465928?sdc=1">Protein Expression and Purification </a> |
+| <kbd>></kbd><a href="http://journals.iucr.org/j/index.html">Journal of Applied Crystallography </a> | <kbd>></kbd><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1469-896X">Protein Science </a> |
+| <kbd>></kbd><a href="http://jb.asm.org/">Journal of Bacteriology </a> | <kbd>></kbd><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0134?systemMessage=Wiley+Online+Library+will+be+unavailable+on+Saturday+7th+Oct+from+03.00+EDT+%2F+08%3A00+BST+%2F+12%3A30+IST+%2F+15.00+SGT+to+08.00+EDT+%2F+13.00+BST+%2F+17%3A30+IST+%2F+20.00+SGT+and+Sunday+8th+Oct+from+03.00+EDT+%2F+08%3A00+BST+%2F+12%3A30+IST+%2F+15.00+SGT+to+06.00+EDT+%2F+11.00+BST+%2F+15%3A30+IST+%2F+18.00+SGT+for+essential+maintenance.+Apologies+for+the+inconvenience+caused+.">Proteins: Structure, Function, and Genetics </a> |
+| <kbd>></kbd><a href="https://academic.oup.com/jb">Journal of Biochemistry </a> | <kbd>></kbd><a href="http://www.sciencemag.org/">Science </a> |
+| <kbd>></kbd><a href="http://www.jbc.org/">Journal of Biological Chemistry </a> | <kbd>></kbd><a href="http://www.cell.com/structure/home">Structure </a> |
+| <kbd>></kbd><a href="http://jcb.rupress.org/">Journal of Cell Biology </a> | <kbd>></kbd><a href="http://www.sciencedirect.com/science/journal/00426822?sdc=1">Virology </a> |
+| <kbd>></kbd><a href="http://genesdev.cshlp.org/">Journal of Molecular Biology </a> |  |
+|------
+|  |  |
+|=====
+{: rules="groups"}
+
+## Company
+| <kbd>></kbd><a href="http://genesdev.cshlp.org/">Genes & Development </a> |
