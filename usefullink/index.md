@@ -6,7 +6,7 @@ date: 2017-09-08
 comments: false
 ---
 
-## Journal
+### Journal
 
 |  |  |
 |:--------|:-------|
@@ -37,7 +37,7 @@ comments: false
 |=====
 {: rules="groups"}
 
-## Company
+### Company
 
 |  |  |
 |:--------|:-------|
