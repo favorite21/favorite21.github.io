@@ -3,6 +3,7 @@ layout: page
 title: About Lab of Structural Biology
 tags: [PI, Research]
 date: 2017-09-08
+feature: /assets/img/edm.jpg
 comments: false
 ---
     
