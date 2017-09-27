@@ -6,8 +6,9 @@ date: 2017-09-08
 comments: false
 ---
 
-### Journal
+# Journal
 
+|  |  |
 |:--------|:-------|
 | <kbd>></kbd><a href="http://journals.iucr.org/a/index.html">Acta Crystallographica Section A </a> | <kbd>></kbd><a href="http://www.sciencedirect.com/science/journal/10478477?sdc=1">Journal of Structural Biology </a> |
 | <kbd>></kbd><a href="http://journals.iucr.org/d/index.html">Acta Crystallographica Section D </a> | <kbd>></kbd><a href="http://jvi.asm.org/">Journal of Virology </a> |
@@ -36,8 +37,9 @@ comments: false
 |=====
 {: rules="groups"}
 
-### Company
+# Company
 
+|  |  |
 |:--------|:-------|
 | <kbd>></kbd><a href="http://www.thermofisher.com/kr/ko/home/brands/invitrogen/ambion.html">Ambion, Inc. - The RNA Company </a> | <kbd>></kbd><a href="https://www.jenabioscience.com/">Jena Bioscience </a> |
 | <kbd>></kbd><a href="https://www.atcc.org/">American Type Culture Collection (ATCC) </a> | <kbd>></kbd><a href="http://www.koreaits.com/new/index.htm">Korea ITS </a> |
