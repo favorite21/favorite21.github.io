@@ -1,3 +1,29 @@
+LSB homepage management notice
+
+1. Home
+- 대부분 _ config.yml에서 변경할 수 있음
+![ex_screenshot](/assets/img/hompage_management.jpg)
+
+2. About
+- About folder의 index.md에서 변경할 수 있음
+- [md(markdown) concept 관련 참조](http://sergeswin.com/1013)
+
+3. Members
+- Members folder의 index.md에서 변경
+
+4. others(publication, gallery 등등)
+- 각 폴더의 index.md에서 수정
+
+5. pdf
+assets의 pdf폴더에 업로드
+
+6. picture
+assets의 img폴더에 업로드
+
+
+
+
+
 # Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
   
 ## `Sorry guys but there will be no update until I buy a new laptop.`
