@@ -13,7 +13,7 @@ comments: false
 |:--------:|:-------:|:--------:|:--------|
 | ![ex_screenshot](/assets/img/prof.jpg) | __Song, Hyun Kyu__ | Principal Investigator | hksong@korea.ac.kr |
 |----
-| ![ex_screenshot](/assets/img/jyo.jpg) | __Jung, Yang Ouk__ | Research Professor | yojung@korea.ac.kr |
+| ![ex_screenshot](/assets/img/yoj.png) | __Jung, Yang Ouk__ | Research Professor | yojung@korea.ac.kr |
 |----
 | ![ex_screenshot](/assets/img/psh.jpg) | __Park, Si Hoon__ | Ph. D. candidate | solli@korea.ac.kr |
 | ![ex_screenshot](/assets/img/kjh.jpg) | __Kim, Jun Hoe__ | Ph. D. candidate | k-junhoi@korea.ac.kr |
