@@ -18,15 +18,13 @@ comments: false
 | ![ex_screenshot](/assets/img/psh.jpg) | __Park, Si Hoon__ | Ph. D. candidate | solli@korea.ac.kr |
 | ![ex_screenshot](/assets/img/kjh.jpg) | __Kim, Jun Hoe__ | Ph. D. candidate | k-junhoi@korea.ac.kr |
 | ![ex_screenshot](/assets/img/kdh.jpg) | __Kwon, Do Hoon__ | Ph. D. candidate | kwondohoon@korea.ac.kr |
+| ![ex_screenshot](/assets/img/klh.jpg) | __Kim, Leehyeon__ | Ph. D. student | leehyeon@korea.ac.kr |
 |----
-| ![ex_screenshot](/assets/img/kyb.jpg) | __Kuk, Yong-Boo__ | MS student | ringx9@naver.com |
-| ![ex_screenshot](/assets/img/klh.jpg) | __Kim, Leehyeon__ | MS student | leehyeon@korea.ac.kr |
 | ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | MS student | qhd0207@korea.ac.kr |
 | ![ex_screenshot](/assets/img/ksy.jpg) | __Kang, Seung Yeon__ | MS student | seungyeon_-@korea.ac.kr |
-|----
-| ![ex_screenshot](/assets/img/pmr.jpg) | __Park, Mi Rae__ | Undergradute student |  mirae1620@korea.ac.kr |
-| ![ex_screenshot](/assets/img/hjw.jpg) | __Heo, Ji Won__ | Undergradute student | heoji94@korea.ac.kr |
-| ![ex_screenshot](/assets/img/yws.jpg) | __Yang, Woo Seok__ | Undergradute student | favorite21@korea.ac.kr |
+| ![ex_screenshot](/assets/img/pmr.jpg) | __Park, Mi Rae__ | MS student |  mirae1620@korea.ac.kr |
+| ![ex_screenshot](/assets/img/hjw.jpg) | __Heo, Ji Won__ | MS student | heoji94@korea.ac.kr |
+| ![ex_screenshot](/assets/img/yws.jpg) | __Yang, Woo Seok__ | MS student | favorite21@korea.ac.kr |
 |----
 | |
 |=====
@@ -51,6 +49,7 @@ comments: false
 | __Lee, So Yeon__ | Feb. 2013 | MS degree | soyeon.verena@gmail.com |
 | __Lee, Ji Young__ | Sep. 2014 | MS degree | jiyounglee4831@gmail.com |
 | __Oh, Sun Joo__ | Feb. 2017 | MS degree |  sunjoo9359@korea.ac.kr |
+| __Kuk, Yong-Boo__ | Feb. 2018 | MS degree | ringx9@naver.com |
 |----
 | __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77@hotmail.com |
 | __Kim, Hyung-Wook__ | Aug. 2004 | Researcher | parsons@unitel.co.kr |
