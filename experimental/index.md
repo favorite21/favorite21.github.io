@@ -52,3 +52,20 @@ comments: false
 |  |  |
 |=====
 {: rules="groups"}
+
+# Database
+
+|  |  |
+|:--------|:-------|
+| <kbd>></kbd><a href="http://www.brenda-enzymes.org/">BRENDA (Enzyme information system) </a> | <kbd>></kbd><a href="https://www.ncbi.nlm.nih.gov/pubmed">PubMed </a> |
+| <kbd>></kbd><a href="http://www.jcvi.org/cms/research/past-projects/cmr/overview/?database=ghp">Helicobacter pylori </a> | <kbd>></kbd><a href="https://www.yeastgenome.org/">Saccharomyces database </a> |
+| <kbd>></kbd><a href="http://kpubs.org/index.kpubs">K-PUBS </a> | <kbd>></kbd><a href="http://xray.bmc.uu.se/embo/structdb/links.html">Structural Databases </a> |
+| <kbd>></kbd><a href="genbank.kribb.re.kr/">KUGI (Korean UniGene Information) </a> | <kbd>></kbd><a href="https://web.expasy.org/docs/swiss-prot_guideline.html">SWISS-PROT: Expasy </a> |
+| <kbd>></kbd><a href="https://www.ebi.ac.uk/merops/">MEROPS (Peptidase database) </a> | <kbd>></kbd><a href="http://www.jcvi.org/cms/home/">TIGR homepage </a> |
+| <kbd>></kbd><a href="http://www.sanger.ac.uk/resources/downloads/bacteria/mycobacterium.html">M. tuberculosis database (Sanger center) </a> | <kbd>></kbd><a href="http://www.jcvi.org/cms/research/past-projects/cmr/overview/?database=btm">Thermotoga maritimaS </a> |
+| <kbd>></kbd><a href="https://www.ncbi.nlm.nih.gov/">NCBI GenBank </a> | <kbd>></kbd><a href="http://ww1.iucr.org/wdc/index.html">World database of crystallographers </a> |
+| <kbd>></kbd><a href="http://www.rcsb.org/pdb/home/home.do">Protein Data Bank - RCSB </a> | |
+|------
+|  |  |
+|=====
+{: rules="groups"}
