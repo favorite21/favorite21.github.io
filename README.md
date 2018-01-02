@@ -2,7 +2,7 @@ LSB homepage management notice
 
 1. Home
 - 대부분 _ config.yml에서 변경할 수 있음
-![ex_screenshot](/assets/img/hompage_management.jpg)
+![ex_screenshot](/assets/img/hompage_management.png)
 
 2. About
 - About folder의 index.md에서 변경할 수 있음
