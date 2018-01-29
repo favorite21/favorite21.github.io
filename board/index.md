@@ -8,6 +8,4 @@ comments: true
 layout: board
 ---
 
-# Test
-
-This \*\*post\*\* is test.
+# 
