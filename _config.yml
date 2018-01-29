@@ -8,9 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  board:
-    title: board
-    output: true
 bio: School of Life Sciences and Biotechnology, Korea Univ. <br/> Anam-Dong, Seongbuk-Gu,
   Seoul 136-701, Korea
 description: School of Life Sciences and Biotechnology, Korea Univ. <br/> Anam-Dong,
