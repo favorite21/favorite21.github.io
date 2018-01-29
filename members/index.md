@@ -1,9 +1,10 @@
 ---
-layout: page
 title: Members of LSB
-tags: [Member]
-date: 2017-09-08
-feature: /assets/img/lsb.jpg
+date: 2017-09-08 00:00:00 Z
+layout: page
+tags:
+- Member
+feature: "/assets/img/lsb.jpg"
 comments: false
 ---
 

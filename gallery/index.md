@@ -1,11 +1,12 @@
 ---
-layout: page
 title: Gallery
-tags: [Figures]
+date: 2017-09-08 00:00:00 Z
+layout: page
+tags:
+- Figures
 excerpt: 
-date: 2017-09-08
 comments: false
----    
+---
 
 |  |  |
 |--------:|-------:|

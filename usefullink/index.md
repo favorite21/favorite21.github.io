@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Useful Link
-tags: [Link]
-date: 2017-09-08
+date: 2017-09-08 00:00:00 Z
+layout: page
+tags:
+- Link
 comments: false
 ---
 

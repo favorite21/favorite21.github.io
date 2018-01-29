@@ -1,12 +1,14 @@
 ---
-layout: page
 title: About Lab of Structural Biology
-tags: [PI, Research]
-date: 2017-09-08
-feature: /assets/img/edm.jpg
+date: 2017-09-08 00:00:00 Z
+layout: page
+tags:
+- PI
+- Research
+feature: "/assets/img/edm.jpg"
 comments: false
 ---
-    
+
 <center>"My X-ray is my best friend. It is my life. I must master it as I master my life. Witheout me, my X-ray machine is useless. Without my X-ray machine, I am useless. I must collect my data true. I must phase faster than my enemy who is trying to publish before me. I must shake him before he bakes me. I will......"</center>
 
 

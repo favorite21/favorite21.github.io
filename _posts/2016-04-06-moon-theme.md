@@ -1,15 +1,15 @@
 ---
-layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
-project: true
-tag:
-- jekyll 
+title: Moon Jekyll Theme
+date: 2016-04-06 00:00:00 Z
+tags:
+- jekyll
 - moon
 - blog
 - about
 - theme
+layout: post
+excerpt: Minimal, one column Jekyll theme for your blog.
+project: true
 comments: true
 ---
 
