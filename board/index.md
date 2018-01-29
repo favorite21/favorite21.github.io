@@ -10,4 +10,4 @@ layout: board
 
 # Test
 
-This** post **is test.
+This \*\*post\*\* is test.
