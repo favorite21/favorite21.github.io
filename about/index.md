@@ -1,6 +1,6 @@
 ---
 title: About Lab of Structural Biology
-date: 2017-09-08 00:00:00 Z
+date: 2017-09-08 09:00:00 +09:00
 layout: page
 tags:
 - PI
