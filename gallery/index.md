@@ -1,7 +1,7 @@
 ---
 title: Gallery
 date: 2017-09-08 00:00:00 Z
-layout: page
+layout: gallery
 tags:
 - Figures
 excerpt: 
