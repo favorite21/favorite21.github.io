@@ -41,19 +41,19 @@ layout: compress
                          </a>
                   </h3>
                     <hr class="hr-line">                    
-                    <p style="font-size:1.4rem;font-weight:300">Recent Post</p>
-                    <p style="text-align:left">
+                    <p style="font-size:1.4rem;font-weight:300">Recent Post</p>                    
                      {% for post in site.posts limit:3 %} 
                         {% if post.project == null %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                            <p style="text-align:left">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                            </p>
                         </li>
                     </ul>
                         {% endif %}
-                    {% endfor %}
-                    </p>
+                    {% endfor %}                   
                 </div>
                 <div class="col-5 col-5-sm">
                 <div id="slideshow">
