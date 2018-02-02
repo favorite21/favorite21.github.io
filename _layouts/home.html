@@ -16,7 +16,7 @@ layout: compress
     <header class="header flex" role="banner">
         <div class="container animated fadeIn">
             <div class="row">
-                <div class="col-6 col-6-sm">
+                <div class="col-5 col-5-sm">
                        <h3 class="title">
                          <a class="zoombtn" href="{{ site.url }}">
                          	<p style="font-size:1.7rem;font-weight:500">{{ site.title }}</p>
@@ -41,7 +41,7 @@ layout: compress
                          </a>
                   </h3>
                     <hr class="hr-line">                    
-                    <p style="font-size:1.2rem;font-weight:300">Recent Post</p>                    
+                    <p style="font-size:1.2rem;font-weight:300">Recent Posts</p>                    
                      {% for post in site.posts limit:4 %} 
                         {% if post.project == null %}
                     <ul>
@@ -57,7 +57,7 @@ layout: compress
                         {% endif %}
                     {% endfor %}                   
                 </div>
-                <div class="col-5 col-5-sm">
+                <div class="col-4 col-4-sm">
                 <div id="slideshow">
                     <div class="slide-wrapper">
                         <div class="slide"><h1 class="slide-number">1</h1></div>
