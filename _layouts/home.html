@@ -40,8 +40,9 @@ layout: compress
                          Publications
                          </a>
                   </h3>
-                    <hr class="hr-line">
+                    <hr class="hr-line">                    
                     <p style="font-size:1.4rem;font-weight:300">Recent Post</p>
+                    <p align="left">
                      {% for post in site.posts limit:3 %} 
                         {% if post.project == null %}
                     <ul>
@@ -52,6 +53,7 @@ layout: compress
                     </ul>
                         {% endif %}
                     {% endfor %}
+                    </p>
                 </div>
                 <div class="col-5 col-5-sm">
                 <div id="slideshow">
