@@ -1,8 +1,8 @@
 ---
-title: Notice
-excerpt: A List of Posts
+title: Gallery
+excerpt: Gallery
 comments: false
-layout: post-list
+layout: gallery-list
 ---
 
 # 
