@@ -28,9 +28,11 @@ layout: compress
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <div class="container">
-                              <img src="img_avatar.png" alt="Avatar" class="image">
+                              <img src="{{ gallery.figure }}" alt="{{ gallery.excerpt }}" class="image">
                               <div class="overlay">
-                                 <div class="text">Hello World</div>
+                                 <div class="text">
+                                  <p>{{ gallery.excerpt }}</p>
+                                 </div>
                               </div>
                             </div>
                         </li>
