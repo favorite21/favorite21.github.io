@@ -19,7 +19,7 @@
 슬라이드에는 사진이 총 4개까지 출력되도록 설정해 두었음.
 
 ~~~
-		           	<div class="slide"><img src="/assets/img/home1.png">Electron density map</div>
+		         <div class="slide"><img src="/assets/img/home1.png">Electron density map</div>
                         <div class="slide"><img src="/assets/img/home2.png">Chitinase</div>
                         <div class="slide"><img src="/assets/img/home3.png">HslV-HslU complex</div>
                         <div class="slide"><img src="/assets/img/home4.jpg">Protein Crystals</div>
