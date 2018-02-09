@@ -19,7 +19,7 @@
 슬라이드에는 사진이 총 4개까지 출력되도록 설정해 두었음.
 
 ~~~
-		            	<div class="slide"><img src="/assets/img/home1.png">Electron density map</div>
+		           	<div class="slide"><img src="/assets/img/home1.png">Electron density map</div>
                         <div class="slide"><img src="/assets/img/home2.png">Chitinase</div>
                         <div class="slide"><img src="/assets/img/home3.png">HslV-HslU complex</div>
                         <div class="slide"><img src="/assets/img/home4.jpg">Protein Crystals</div>
@@ -29,7 +29,7 @@
 
 - 폰트 사이즈 밑 굵기 설정
 
-  '<p style="font-size:0.9rem;font-weight:300">'
+  `<p style="font-size:0.9rem;font-weight:300">`
 
 에서 ref과 weight 수정
 
