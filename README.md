@@ -5,9 +5,11 @@
 ![ex_screenshot](/assets/img/homepage_management.png)
 
 - column 설정
+~~~
 <div class="col-숫자">
 ~
 </div>
+~~~
 까지 하나의 column
 
 현재 Home.html에는 column이 두 개 있음(좌, 우).
