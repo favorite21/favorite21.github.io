@@ -57,7 +57,7 @@
 ~~~
 
  1) 위의 코드 복붙하기(Indentation은 매우 중요하니 복붙할 때 다른 indentation과 맞춰줄것!!!)
- 2) <a href="여기에 pdf 주소 혹은 관련 사이트 url을 넣고"><img src="여기에 사진 주소를 넣을 것" alt="Avatar" class="image">
+ 2) `<a href="여기에 pdf 주소 혹은 관련 사이트 url을 넣고"><img src="여기에 사진 주소를 넣을 것" alt="Avatar" class="image">`
  3) div class="text" 밑에 사진 내용, PDB ID, journal 적기.
 
 4. Navigation 수정
