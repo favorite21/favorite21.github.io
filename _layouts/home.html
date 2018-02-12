@@ -41,14 +41,14 @@ layout: compress
                          </a>
                   </h3>
                     <hr class="hr-line">                    
-                    <p style="font-size:1.2rem;font-weight:300">Recent Posts</p>                    
+                    <p style="font-size:1.1rem;font-weight:400">Recent Posts</p>                    
                      {% for post in site.posts limit:4 %} 
                         {% if post.project == null %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <p style="text-align:left;font-size:1rem;font-weight:300">
+                            <p style="text-align:left;font-size:0.9rem;font-weight:300">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                            <a style="float:right;font-size:0.7rem;font-weight:300">{{ post.date }}</a>
+                            <a style="float:right;font-size:0.6rem;font-weight:300">{{ post.date }}</a>
                             </p>
                         </li>
                     </ul>
