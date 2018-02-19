@@ -10,7 +10,7 @@ comments: false
 
 ## Current Members
 
-| Picture | Name | Degree | E-mail |
+| Picture | Name | Job Role | E-mail |
 |:--------:|:-------:|:--------:|:--------|
 | ![ex_screenshot](/assets/img/prof.jpg) | __Song, Hyun Kyu__ | Principal Investigator | hksong(a)korea.ac.kr |
 |----
@@ -34,24 +34,24 @@ comments: false
 
 ## Former Members
 
-| Name | Until | Degree | E-mail |
+| Name | Until | Job Role | E-mail |
 |:--------|:-------:|:--------:|:--------|
-| __Kwon, Oh Yeun__ | Feb. 2009 | Ph. D. degree | enigmakwon(a)khidi.or.kr |
-| __Park, Eun Young__ | Feb. 2010 | Ph. D. degree | eunyoung(a)red.dfci.harvard.edu |
-| __Lee, Byung-Gil__ | Dec. 2012 | Ph. D. degree | blee(a)mrc-lmb.cam.ac.uk |
-| __Jeong, Byung-Cheon__ | Feb. 2013 | Ph. D. degree | Byung-Cheon.Jeong(a)UTSouthwestern.edu |
-| __Hong, Seung Beom__ | Sep. 2013 | Ph. D. degree | Seungbeom.Hong(a)nyumc.org |
-| __Sung, Kwang Hoon__ | Sep. 2014 | Ph. D. degree | sternen(a)gmail.com |
-| __Kim, Min Kyung__ | Jun. 2017 | Ph. D. degree | tara86(a)korea.ac.kr |
-| __Kim, Byeong-Won__ | Aug. 2017 | Ph. D. degree | kbw2010(a)korea.ac.kr |
+| __Kwon, Oh Yeun__ | Feb. 2009 | Ph. D. | enigmakwon(a)khidi.or.kr |
+| __Park, Eun Young__ | Feb. 2010 | Ph. D. | eunyoung(a)red.dfci.harvard.edu |
+| __Lee, Byung-Gil__ | Dec. 2012 | Ph. D. | blee(a)mrc-lmb.cam.ac.uk |
+| __Jeong, Byung-Cheon__ | Feb. 2013 | Ph. D. | Byung-Cheon.Jeong(a)UTSouthwestern.edu |
+| __Hong, Seung Beom__ | Sep. 2013 | Ph. D. | Seungbeom.Hong(a)nyumc.org |
+| __Sung, Kwang Hoon__ | Sep. 2014 | Ph. D. | sternen(a)gmail.com |
+| __Kim, Min Kyung__ | Jun. 2017 | Ph. D. | tara86(a)korea.ac.kr |
+| __Kim, Byeong-Won__ | Aug. 2017 | Ph. D. | kbw2010(a)korea.ac.kr |
 |----
-| __Ko, Jin Young__ | Aug. 2008 | MS degree | Kojy(a)ckdpharm.com |
-| __Lee, Myeong-Ryeol__ | Feb. 2010 | MS degree | ilvanin(a)amorepacific.com |
-| __Choi, Woo Suk__ | Aug. 2010 | MS degree | woosuk.choi(a)stonybrook.edu |
-| __Lee, So Yeon__ | Feb. 2013 | MS degree | soyeon.verena(a)gmail.com |
-| __Lee, Ji Young__ | Sep. 2014 | MS degree | jiyounglee4831(a)gmail.com |
-| __Oh, Sun Joo__ | Feb. 2017 | MS degree |  sunjoo9359(a)korea.ac.kr |
-| __Kuk, Yong-Boo__ | Feb. 2018 | MS degree | ringx9(a)naver.com |
+| __Ko, Jin Young__ | Aug. 2008 | MS | Kojy(a)ckdpharm.com |
+| __Lee, Myeong-Ryeol__ | Feb. 2010 | MS | ilvanin(a)amorepacific.com |
+| __Choi, Woo Suk__ | Aug. 2010 | MS | woosuk.choi(a)stonybrook.edu |
+| __Lee, So Yeon__ | Feb. 2013 | MS | soyeon.verena(a)gmail.com |
+| __Lee, Ji Young__ | Sep. 2014 | MS | jiyounglee4831(a)gmail.com |
+| __Oh, Sun Joo__ | Feb. 2017 | MS |  sunjoo9359(a)korea.ac.kr |
+| __Kuk, Yong-Boo__ | Feb. 2018 | MS | ringx9(a)naver.com |
 |----
 | __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77(a)hotmail.com |
 | __Kim, Hyung-Wook__ | Aug. 2004 | Researcher | parsons(a)unitel.co.kr |
