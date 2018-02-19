@@ -8,9 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-bio: School of Life Sciences and Biotechnology, Korea Univ. <br/> Anam-Dong, Seongbuk-Gu,
-  Seoul 136-701, Korea
-description: Hyun kyu Song's lab <br/> Tel. 02-3290-3553 <br/> hksong(a)korea.ac.kr
+bio: Rm 609, Hana Science Hall-A </br> Division of Life Sciences, College of Life Sciences and Biotechnology, Korea Univ. </br> 145 Anam-ro, Seongbuk-gu, Seoul 02841, Korea
+description: Hyun kyu Song's lab </br> Tel. 02-3290-3553 </br> hksong(a)korea.ac.kr
 reading_time: true
 words_per_minute: 200
 logo: assets/img/logo.jpg
