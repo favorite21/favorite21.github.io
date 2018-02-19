@@ -163,7 +163,7 @@ __(99) Klionsky, D. J. et al. & Song, H. K. (2016)__ <br/> "Guidelines for the u
 
 ## 2003
 
-<a href="/assets/pdftowbin-jbc2003-metap.pdf"> <strong>(44) Towbin, H., Bair, K. W., DeCaprio, J. A., Eck, M. J., Kim, S., Kinder, F. R., Morollo, A., Mueller, D. R., Schindler, P., Song, H. K., van Oostrum, J., Versace, R. W., Voshol, H., Wood, J., Zabludoff, S., &amp; Phillips, P. E. (2003)</strong> <br/> "Proteomics-based target identification: Bengamide is a new class of methionine aminopeptidase inhibitors" <br/> <em>J. Biol. Chem.</em> 278, 52964-52971. (American Society for Biochemistry and Molecular Biology) </a>
+<a href="/assets/pdf/towbin-jbc2003-metap.pdf"> <strong>(44) Towbin, H., Bair, K. W., DeCaprio, J. A., Eck, M. J., Kim, S., Kinder, F. R., Morollo, A., Mueller, D. R., Schindler, P., Song, H. K., van Oostrum, J., Versace, R. W., Voshol, H., Wood, J., Zabludoff, S., &amp; Phillips, P. E. (2003)</strong> <br/> "Proteomics-based target identification: Bengamide is a new class of methionine aminopeptidase inhibitors" <br/> <em>J. Biol. Chem.</em> 278, 52964-52971. (American Society for Biochemistry and Molecular Biology) </a>
 
 <a href="/assets/pdf/hks-mc03-sspb.pdf"> <strong>(43) Song, H. K.  &amp; Eck, M. J. (2003)</strong> <br/> "Structural basis of degradation signal recognition by SspB, a specificity-enhancing factor for the ClpXP proteolytic machine" <br/> <em>Molecular Cell</em> 12, 75-86. (Cell Press) </a> <br> <strong><a href="pdf/sspb-nsmb.pdf">[News & Views by Nature Struct. Mol. Biol.]</a></strong>
 
