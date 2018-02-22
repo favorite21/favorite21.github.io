@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2018-02-12-Mi Rae Park received the Presidential Award of KSBMB!"
+title: "Mi Rae Park received the Presidential Award of KSBMB!"
 date: 2018-02-12
 excerpt: "Mi Rae Park received the Presidential Award of KSBMB!"
 comments: true
