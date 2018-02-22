@@ -14,4 +14,4 @@ comments: true
 <br/>
 <br/>
 
-첨부파일. [발송공문03. 제8회 생화학분자생물학회장상 수상자 선정안내](/assets/PMR_KSBMB.pdf)
+`첨부파일.` [발송공문03. 제8회 생화학분자생물학회장상 수상자 선정안내](/assets/PMR_KSBMB.pdf)
