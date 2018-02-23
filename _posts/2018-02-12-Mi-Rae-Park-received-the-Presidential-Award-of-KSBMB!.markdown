@@ -6,7 +6,7 @@ excerpt: "Mi Rae Park received the Presidential Award of KSBMB!"
 comments: true
 ---
 
-![ex_screenshot](/assets/img/PMR_KSBMB.jpg) {.aligncenter}
+![ex_screenshot](/assets/img/PMR_KSBMB.jpg)
 <br/>
 ![ex_screenshot](/assets/PMR_KSBMB_Award.jpg)
 
