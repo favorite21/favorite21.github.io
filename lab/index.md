@@ -1,7 +1,7 @@
 ---
-title: Gallery
+title: Laboratory Lifes
 date: 2017-09-08 09:00:00 +09:00
-layout: gallery
+layout: lab
 tags:
 - Figures
 excerpt: 
