@@ -10,13 +10,13 @@ comments: false
 ---
 ## 2018
 
-<a href="/assets/pdf/110_2018_Mol.Cell_CSW.pdf"> <strong>(106) Seung-Won Choi, Han-Hee Park, Soyeon Kim, Jee Min Chung, Hyun-Jin Noh, Sue Kyung Kim, Hyun Kyu Song, Chang-Woo Lee Michael J.Morgan, Ho Chul Kang, You-Sun Kim (2018)</strong> </a> <br/> "PELI1 Selectively Targets Kinase-Active RIP3 for Ubiquitylation-Dependent Proteasomal Degradation" <br/> <em>Molecular Cell</em> Volume 70, Issue 5, 7 June 2018, Pages 920-935.e7
+<a href="/assets/pdf/110_2018_Mol.Cell_CSW.pdf"> <strong>(110) Seung-Won Choi, Han-Hee Park, Soyeon Kim, Jee Min Chung, Hyun-Jin Noh, Sue Kyung Kim, Hyun Kyu Song, Chang-Woo Lee Michael J.Morgan, Ho Chul Kang, You-Sun Kim (2018)</strong> </a> <br/> "PELI1 Selectively Targets Kinase-Active RIP3 for Ubiquitylation-Dependent Proteasomal Degradation" <br/> <em>Molecular Cell</em> Volume 70, Issue 5, 7 June 2018, Pages 920-935.e7
 
-<a href="/assets/pdf/109_2018_JMB_KLH.pdf"> <strong>(106) Leehyeon Kim, Do Hoon Kwon, Bong Heon Kim, Jiyeon Kim, Mi Rae Park, Zee-Yong Park, Hyun Kyu Song (2018)</strong> </a> <br/> "Structural and Biochemical Study of the Mono-ADP-Ribosyltransferase Domain of SdeA, a Ubiquitylating/Deubiquitylating Enzyme from <em>Legionella pneumophila</em>" <br/> <em>Jounal of Molecular Biology</em> Volume 430, Issue 17, 17 August 2018, Pages 2843-2856
+<a href="/assets/pdf/109_2018_JMB_KLH.pdf"> <strong>(109) Leehyeon Kim, Do Hoon Kwon, Bong Heon Kim, Jiyeon Kim, Mi Rae Park, Zee-Yong Park, Hyun Kyu Song (2018)</strong> </a> <br/> "Structural and Biochemical Study of the Mono-ADP-Ribosyltransferase Domain of SdeA, a Ubiquitylating/Deubiquitylating Enzyme from <em>Legionella pneumophila</em>" <br/> <em>Jounal of Molecular Biology</em> Volume 430, Issue 17, 17 August 2018, Pages 2843-2856
 
-<a href="/assets/pdf/108_2018_NAR_KSH.pdf"> <strong>(106) Sook Ho Kim, So-Hee Lim, Ae-Ree Lee, Do Hoon Kwon, Hyun Kyu Song, Joon-Hwa Lee, Minhaeng Cho, Albert Johner, Nam-Kyung Lee, Seok-Cheol Hong (2018)</strong> </a> <br/> "Unveiling the pathway to Z-DNA in the protein-induced B–Z transition" <br/> <em>Nucleic Acids Research</em> Volume 46, Issue 8, 4 May 2018, Pages 4129–4137
+<a href="/assets/pdf/108_2018_NAR_KSH.pdf"> <strong>(108) Sook Ho Kim, So-Hee Lim, Ae-Ree Lee, Do Hoon Kwon, Hyun Kyu Song, Joon-Hwa Lee, Minhaeng Cho, Albert Johner, Nam-Kyung Lee, Seok-Cheol Hong (2018)</strong> </a> <br/> "Unveiling the pathway to Z-DNA in the protein-induced B–Z transition" <br/> <em>Nucleic Acids Research</em> Volume 46, Issue 8, 4 May 2018, Pages 4129–4137
 
-<a href="/assets/pdf/107_2018_Mol&Cells_KDH.pdf"> <strong>(106) Do Hoon Kwon, and Hyun Kyu Song (2018)</strong> </a> <br/> "A Structural View of Xenophagy, a Battle between Host and Microbes" <br/> <em>Molelcular and Cells</em> 41(1): 27~34
+<a href="/assets/pdf/107_2018_Mol&Cells_KDH.pdf"> <strong>(107) Do Hoon Kwon, and Hyun Kyu Song (2018)</strong> </a> <br/> "A Structural View of Xenophagy, a Battle between Host and Microbes" <br/> <em>Molelcular and Cells</em> 41(1): 27~34
 
 ## 2017
 
