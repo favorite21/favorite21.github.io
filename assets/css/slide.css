@@ -18,8 +18,8 @@ body {
 
 .slide {
   float: left;
-  height: 30%;
-  width: 50%;
+  height: 15%;
+  width: 20%;
 }
 
 .slide:nth-child(1) {
