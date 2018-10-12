@@ -10,6 +10,12 @@ comments: false
 ---
 ## 2018
 
+<a href="/assets/pdf/113_2018_autophagy_KDH.pdf"> <strong>(113) Do Hoon Kwon, Leehyeon Kim, Hyun Kyu Song (2018)</strong> </a> <br/> "pH-dependent regulation of SQSTM1/p62 during autophagy" <br/> <em>autophagy</em> DOI: 10.1080/15548627.2018.1532264
+
+<a href="/assets/pdf/112_2018_ncomms_KDH.pdf"> <strong>(112) Do Hoon Kwon, Ok Hyun Park, Leehyeon Kim, Yang Ouk Jung, Yeonkyoung Park, Hyeongseop Jeong, Jaekyung Hyun, Yoon Ki Kim, Hyun Kyu Song (2018)</strong> </a> <br/> "Insights into degradation mechanism of N-end rule substrates by p62/SQSTM1 autophagy adapter" <br/> <em>Nature communications</em> 9, Article number: 3291
+
+<a href="/assets/pdf/111_2018_autophagy_KBW.pdf"> <strong>(111) Byeong-Won Kim, Yunjung Jin, Jiyea Kim, Jun Hoe Kim, Juneyoung Jung, Seongman Kang, Ick Young Kim, Joungmok Kim, Heesun Cheong, Hyun Kyu Song (2018)</strong> </a> <br/> "The C-terminal region of ATG101 bridges ULK1 and PtdIns3K complex in autophagy initiation" <br/> <em>Autophagy</em> DOI: 10.1080/15548627.2018.1504716
+
 <a href="/assets/pdf/110_2018_Mol.Cell_CSW.pdf"> <strong>(110) Seung-Won Choi, Han-Hee Park, Soyeon Kim, Jee Min Chung, Hyun-Jin Noh, Sue Kyung Kim, Hyun Kyu Song, Chang-Woo Lee Michael J.Morgan, Ho Chul Kang, You-Sun Kim (2018)</strong> </a> <br/> "PELI1 Selectively Targets Kinase-Active RIP3 for Ubiquitylation-Dependent Proteasomal Degradation" <br/> <em>Molecular Cell</em> Volume 70, Issue 5, 7 June 2018, Pages 920-935.e7
 
 <a href="/assets/pdf/109_2018_JMB_KLH.pdf"> <strong>(109) Leehyeon Kim, Do Hoon Kwon, Bong Heon Kim, Jiyeon Kim, Mi Rae Park, Zee-Yong Park, Hyun Kyu Song (2018)</strong> </a> <br/> "Structural and Biochemical Study of the Mono-ADP-Ribosyltransferase Domain of SdeA, a Ubiquitylating/Deubiquitylating Enzyme from <em>Legionella pneumophila</em>" <br/> <em>Jounal of Molecular Biology</em> Volume 430, Issue 17, 17 August 2018, Pages 2843-2856
