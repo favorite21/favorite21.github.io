@@ -7,12 +7,12 @@ body {
 #slideshow {
   overflow: hidden;
   height: auto;
-  width: 400px;
+  width: 50%;
   margin: 0 auto;
 }
 
 .slide-wrapper {
-  width: 2000px;
+  width: 500%;
   -webkit-animation: slide 18s ease infinite;
 }
 
