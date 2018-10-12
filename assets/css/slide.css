@@ -46,10 +46,10 @@ body {
 
 @-webkit-keyframes slide {
   20% {margin-left: 0px;}
-  30% {margin-left: -400px;}
-  50% {margin-left: -400px;}
-  60% {margin-left: -800px;}
-  70% {margin-left: -800px;}
-  80% {margin-left: -1200px;}
-  90% {margin-left: -1200px;}
+  30% {margin-left: -100%;}
+  50% {margin-left: -100%;}
+  60% {margin-left: -200%;}
+  70% {margin-left: -200%;}
+  80% {margin-left: -300%;}
+  90% {margin-left: -300%;}
 }
