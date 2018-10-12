@@ -6,7 +6,7 @@ body {
 
 #slideshow {
   overflow: hidden;
-  height: 300px;
+  height: auto;
   width: 400px;
   margin: 0 auto;
 }
@@ -18,8 +18,8 @@ body {
 
 .slide {
   float: left;
-  height: 300px;
-  width: 400px;
+  height: 15%;
+  width: 20%;
 }
 
 .slide:nth-child(1) {
