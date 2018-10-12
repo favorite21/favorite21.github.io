@@ -20,8 +20,8 @@ comments: false
 | ![ex_screenshot](/assets/img/kjh.jpg) | __Kim, Jun Hoe__ | Ph. D. candidate | k-junhoi(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/kdh.jpg) | __Kwon, Do Hoon__ | Ph. D. candidate | kwondohoon(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/klh.jpg) | __Kim, Leehyeon__ | Ph. D. student | leehyeon(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | Ph. D. student | qhd0207(a)korea.ac.kr |
 |----
-| ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | MS student | qhd0207(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/ksy.jpg) | __Kang, Seung Yeon__ | MS student | seungyeon_-(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/sej.png) | __Sung, Eunji__ | MS student | sung0416(a)naver.com |
 | ![ex_screenshot](/assets/img/pmr.jpg) | __Park, Mi Rae__ | MS student |  mirae1620(a)korea.ac.kr |
