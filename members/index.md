@@ -14,12 +14,10 @@ comments: false
 |:--------:|:-------:|:--------:|:--------|
 | ![ex_screenshot](/assets/img/prof.jpg) | __Song, Hyun Kyu__ | Principal Investigator | hksong(a)korea.ac.kr |
 |----
-| ![ex_screenshot](/assets/img/yoj.png) | __Jung, Yang Ouk__ | Research Professor | yojung(a)korea.ac.kr |
-|----
 | ![ex_screenshot](/assets/img/psh.jpg) | __Park, Si Hoon__ | Ph. D. candidate | solli(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/kjh.jpg) | __Kim, Jun Hoe__ | Ph. D. candidate | k-junhoi(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/kdh.jpg) | __Kwon, Do Hoon__ | Ph. D. candidate | kwondohoon(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/klh.jpg) | __Kim, Leehyeon__ | Ph. D. student | leehyeon(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/klh.jpg) | __Kim, Leehyeon__ | Ph. D. candidate | leehyeon(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | Ph. D. student | qhd0207(a)korea.ac.kr |
 |----
 | ![ex_screenshot](/assets/img/ksy.jpg) | __Kang, Seung Yeon__ | MS student | seungyeon_-(a)korea.ac.kr |
@@ -55,6 +53,7 @@ comments: false
 |----
 | __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77(a)hotmail.com |
 | __Kim, Hyung-Wook__ | Aug. 2004 | Researcher | parsons(a)unitel.co.kr |
+| __Jung, Yang Ouk__ | Oct. 2018 | Researcher | yojung(a)korea.ac.kr |
 |----
 | __Peggy C. Stolt__ | Aug. 2004 | Visiting student | peggy.stolt(a)csf.ac.at |
 | __Shelby Brooks__ | Aug. 2017 | Visiting student | sgbrooks(a)crimson.ua.edu |
