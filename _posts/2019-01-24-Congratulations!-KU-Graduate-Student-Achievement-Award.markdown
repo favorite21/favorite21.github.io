@@ -9,9 +9,8 @@ comments: true
 ![ex_screenshot](/assets/img/KDH_award.jpg)
 <br/>
 ![ex_screenshot](/assets/img/kdh.jpg)
-<br/>
-
 <center>Dr. Kwon</center>
+<br/>
 
 우리 연구실의 __권도훈 박사__ 가 __2018 KU Graduate Student Achievement Award__ 에 선정되어 영예를 안게 되었습니다.<br/>
 축하드립니다!
