@@ -10,13 +10,13 @@ comments: true
 <br/>
 ![ex_screenshot](/assets/img/kdh.jpg)
 <br/>
-Dr. Kwon
-{: .text-center }
 
-우리 연구실의 _권도훈 박사_ 가 _2018 KU Graduate Student Achievement Award_ 에 선정되어 영예를 안게 되었습니다.<br/>
+<center>Dr. Kwon</center>
+
+우리 연구실의 __권도훈 박사__ 가 __2018 KU Graduate Student Achievement Award__ 에 선정되어 영예를 안게 되었습니다.<br/>
 축하드립니다!
 
-_Dr. Kwon_ from our laboratory was selected as a winner of the _2018 KU Graduate Student Achievement Award_. <br/>
+__Dr. Kwon__ from our laboratory was selected as a winner of the __2018 KU Graduate Student Achievement Award__. <br/>
 Congratulations!
 
 <br/>
