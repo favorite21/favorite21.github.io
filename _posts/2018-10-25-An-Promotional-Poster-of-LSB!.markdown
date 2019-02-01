@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "An Promotional Poster of LSB!"
+title: "A Promotional Poster of LSB!"
 date: 2018-10-25
 excerpt: "An Promotional Poster of LSB!"
 comments: true
