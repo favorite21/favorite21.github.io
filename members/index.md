@@ -14,9 +14,9 @@ comments: false
 |:--------:|:-------:|:--------:|:--------|
 | ![ex_screenshot](/assets/img/prof.jpg) | __Song, Hyun Kyu__ | Principal Investigator | hksong(a)korea.ac.kr |
 |----
+| ![ex_screenshot](/assets/img/kjh.jpg) | __Kim, Jun Hoe__ | Researcher | k-junhoi(a)korea.ac.kr |
+|----
 | ![ex_screenshot](/assets/img/psh.jpg) | __Park, Si Hoon__ | Ph. D. candidate | solli(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/kjh.jpg) | __Kim, Jun Hoe__ | Ph. D. candidate | k-junhoi(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/kdh.jpg) | __Kwon, Do Hoon__ | Ph. D. candidate | kwondohoon(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/klh.jpg) | __Kim, Leehyeon__ | Ph. D. candidate | leehyeon(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | Ph. D. student | qhd0207(a)korea.ac.kr |
 |----
@@ -41,7 +41,8 @@ comments: false
 | __Hong, Seung Beom__ | Sep. 2013 | Ph. D. | Seungbeom.Hong(a)nyumc.org |
 | __Sung, Kwang Hoon__ | Sep. 2014 | Ph. D. | sternen(a)gmail.com |
 | __Kim, Min Kyung__ | Jun. 2017 | Ph. D. | tara86(a)korea.ac.kr |
-| __Kim, Byeong-Won__ | Aug. 2017 | Ph. D. | kbw2010(a)korea.ac.kr |
+| __Kim, Byeong-Won__ | Aug. 2017 | Ph. D. | kbw2010(a)crystal.harvard.edu |
+| __Kwon, Do Hoon__ | Feb. 2019 | Ph. D. | kwondohoon(a)duke.edu |
 |----
 | __Ko, Jin Young__ | Aug. 2008 | MS | Kojy(a)ckdpharm.com |
 | __Lee, Myeong-Ryeol__ | Feb. 2010 | MS | ilvanin(a)amorepacific.com |
