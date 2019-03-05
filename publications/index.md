@@ -10,11 +10,11 @@ comments: false
 ---
 ## 2019
 
-<a href="/assets/pdf/116_2019_iucrj_psh.pdf"> <strong>(113) Si Hoon Park, Se Won Suh and Hyun Kyu Song (2019)</strong> </a> <br/> "A cytosine modification mechanism revealed by the structure of a ternary complex of deoxycytidylate hydroxymethylase from bacteriophage T4 with its cofactor and substrate" <br/> <em>IUCrJ</em> DOI: 10.1107/S2052252518018274
+<a href="/assets/pdf/116_2019_iucrj_psh.pdf"> <strong>(116) Si Hoon Park, Se Won Suh and Hyun Kyu Song (2019)</strong> </a> <br/> "A cytosine modification mechanism revealed by the structure of a ternary complex of deoxycytidylate hydroxymethylase from bacteriophage T4 with its cofactor and substrate" <br/> <em>IUCrJ</em> DOI: 10.1107/S2052252518018274
 
-<a href="/assets/pdf/115_Mol.Cell_HKS.pdf"> <strong>(113) In Young Lee, Jane Melissa Lim, Hyunchu Cho, Eunju Kim, Yeonsil Kim, Hye-Kyung Oh, Woo Seok Yang, Kyung-Hye Roh, Hyun Woo Park, Jung-Soon Mo, Je-Hyun Yoon, Hyun KyuSong, Eui-Ju Choi (2019)</strong> </a> <br/> "MST1 Negatively Regulates TNFα-Induced NF-κB Signaling through Modulating LUBAC Activity" <br/> <em>Mol.Cell</em> DOI: 10.1016/j.molcel.2019.01.022
+<a href="/assets/pdf/115_Mol.Cell_HKS.pdf"> <strong>(115) In Young Lee, Jane Melissa Lim, Hyunchu Cho, Eunju Kim, Yeonsil Kim, Hye-Kyung Oh, Woo Seok Yang, Kyung-Hye Roh, Hyun Woo Park, Jung-Soon Mo, Je-Hyun Yoon, Hyun KyuSong, Eui-Ju Choi (2019)</strong> </a> <br/> "MST1 Negatively Regulates TNFα-Induced NF-κB Signaling through Modulating LUBAC Activity" <br/> <em>Mol.Cell</em> DOI: 10.1016/j.molcel.2019.01.022
 
-<a href="/assets/pdf/114_2019_Mol.Cells_KDH.pdf"> <strong>(113) Do Hoon Kwon, Hyun Kyu Song (2019)</strong> </a> <br/> "A Structural View of Xenophagy, a Battle between Host and Microbes" <br/> <em>Mol.Cells</em> DOI: 10.14348/molcells.2018.2274
+<a href="/assets/pdf/114_2019_Mol.Cells_KDH.pdf"> <strong>(114) Do Hoon Kwon, Hyun Kyu Song (2019)</strong> </a> <br/> "A Structural View of Xenophagy, a Battle between Host and Microbes" <br/> <em>Mol.Cells</em> DOI: 10.14348/molcells.2018.2274
 
 ## 2018
 
