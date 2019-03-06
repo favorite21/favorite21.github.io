@@ -16,7 +16,7 @@ comments: false
 
 <a href="/assets/pdf/114_2019_Mol.Cells_KDH.pdf"> <strong>(114) Do Hoon Kwon, Hyun Kyu Song (2019)</strong> </a> <br/> "A Structural View of Xenophagy, a Battle between Host and Microbes" <br/> <em>Mol.Cells</em> DOI: 10.14348/molcells.2018.2274
 
-<a href="/assets/pdf/113_2018_autophagy_KDH.pdf"> <strong>(113) Do Hoon Kwon, Leehyeon Kim, Hyun Kyu Song (2018)</strong> </a> <br/> "pH-dependent regulation of SQSTM1/p62 during autophagy" <br/> <em>autophagy</em> DOI: 10.1080/15548627.2018.1532264
+<a href="/assets/pdf/113_2018_autophagy_KDH.pdf"> <strong>(113) Do Hoon Kwon, Leehyeon Kim, Hyun Kyu Song (2019)</strong> </a> <br/> "pH-dependent regulation of SQSTM1/p62 during autophagy" <br/> <em>autophagy</em> DOI: 10.1080/15548627.2018.1532264
 
 ## 2018
 
