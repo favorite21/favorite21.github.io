@@ -42,7 +42,7 @@ comments: false
 | __Sung, Kwang Hoon__ | Sep. 2014 | Ph. D. | sternen(a)gmail.com |
 | __Kim, Min Kyung__ | Jun. 2017 | Ph. D. | tara86(a)korea.ac.kr |
 | __Kim, Byeong-Won__ | Aug. 2017 | Ph. D. | kbw2010(a)crystal.harvard.edu |
-| __Kwon, Do Hoon__ | Feb. 2019 | Ph. D. | kwondohoon(a)korea.ac.kr |
+| __Kwon, Do Hoon__ | Feb. 2019 | Ph. D. | dohoon.kwon(a)duke.edu |
 |----
 | __Ko, Jin Young__ | Aug. 2008 | MS | Kojy(a)ckdpharm.com |
 | __Lee, Myeong-Ryeol__ | Feb. 2010 | MS | ilvanin(a)amorepacific.com |
