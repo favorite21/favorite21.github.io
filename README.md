@@ -82,7 +82,7 @@ assets의 pdf폴더에 업로드
 6. picture
 assets의 img or gallery 폴더에 업로드
 
-- 사진 규격 목록
+- 사진 규격 목록(cm)
 ~~~
    gallery 용 : 정해지지 않음
 
