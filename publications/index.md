@@ -280,16 +280,16 @@ __(7) Song, H. K., Lee, K. N., Kwon, K. S., Yu, M. H. & Suh, S. W. (1995)__ <br/
 
 <a href="/assets/pdf/sheom-actaD95-taq.pdf"> <strong>(6) Eom, S. H., Song, H. K., Suh, S. W., Kim, Y. S., Steitz, T. A., Park, J. H., Kim, J. S., Kwon, S. T. & Lee, D. S. (1995)</strong> </a> <br/> "Crystallization and preliminary X-ray crystallographic analysis of DNA polymerase from Thermus aquaticus" <br/> <em>Acta Crystallogr.</em> D51, 1086-1088. (International Union of Crystallography) 
 
-__(5) Cheom, C. G., Eom, S. H., Chang, C., Shin, D. H., Song, H. K., Min, K. S. & Suh, S. W. (1995)__ <br/> "Crystallization, molecular replacement solution, and refinement of tetrameric beta-amylase from sweet potato" <br/> <em>Proteins</em> 21, 105-117. (Wiley-Liss, Inc.)
+__(5) "Crystallization, molecular replacement solution, and refinement of tetrameric beta-amylase from sweet potato"__ <br/> Cheom, C. G., Eom, S. H., Chang, C., Shin, D. H., Song, H. K., Min, K. S. & Suh, S. W. (1995) <br/> <em>Proteins</em> 21, 105-117. (Wiley-Liss, Inc.)
 
 ## 1994
 
-<a href="/assets/pdf/hks-actaD94-brip.pdf"> <strong>(4) Song, H. K., Hwang, K. Y., Kim, K. K. & Suh, S. W. (1994)</strong> </a> <br/> "Crystallization and preliminary X-ray crystallographic study of ribosome inactivating protein from barley seeds" <br/> <em>Acta Crystallogr.</em> D50, 910-912. (International Union of Crystallography) 
+<a href="/assets/pdf/hks-actaD94-brip.pdf"> <strong>(4) "Crystallization and preliminary X-ray crystallographic study of ribosome inactivating protein from barley seeds"</strong> </a> <br/> Song, H. K., Hwang, K. Y., Kim, K. K. & Suh, S. W. (1994) <br/> <em>Acta Crystallogr.</em> D50, 910-912. (International Union of Crystallography) 
 
-__(3) Song, H. K., Cha, H., Yoo, S. J., Chung, C. H., Hwang, D. S. & Suh, S. W. (1994)__ <br/> "Crystallization of Escherichia coli IciA Protein, An Inhibitor of Initiation of Chromosomal Replication" <br/> <em>Korean J. Cryst.</em> 5, 20-23. (Korean Soc. of Crystallogr. & Crystal Growth)
+__(3) "Crystallization of Escherichia coli IciA Protein, An Inhibitor of Initiation of Chromosomal Replication"__ <br/> Song, H. K., Cha, H., Yoo, S. J., Chung, C. H., Hwang, D. S. & Suh, S. W. (1994) <br/> <em>Korean J. Cryst.</em> 5, 20-23. (Korean Soc. of Crystallogr. & Crystal Growth)
 
 ## 1993
 
-__(2) Lee, J. K., Song, H. K., Hwang, K. Y., Kim, K. K. & Suh, S. W. (1993)__ <br/> "Crystallization and Preliminary X-ray Crystallographic Study of Kunitz-type Soybean Trypsin Inhibitor" <br/> <em>Mol. Cells</em> 3, 335-337. (Korean Soc. of Mol. Biol.)
+__(2) "Crystallization and Preliminary X-ray Crystallographic Study of Kunitz-type Soybean Trypsin Inhibitor"__ <br/> Lee, J. K., Song, H. K., Hwang, K. Y., Kim, K. K. & Suh, S. W. (1993) <br/> <em>Mol. Cells</em> 3, 335-337. (Korean Soc. of Mol. Biol.)
 
-__(1) Song, H. K., Hwang, K. Y., Kim, K. K. & Suh, S. W. (1993)__ <br/> "Crystallization and preliminary X-ray crystallographic analysis of chitinase from barley seeds" <br/> <em>Proteins</em> 17, 107-109. (Wiley-Liss, Inc.)
+__(1) "Crystallization and preliminary X-ray crystallographic analysis of chitinase from barley seeds"__ <br/> Song, H. K., Hwang, K. Y., Kim, K. K. & Suh, S. W. (1993) <br/> <em>Proteins</em> 17, 107-109. (Wiley-Liss, Inc.)
