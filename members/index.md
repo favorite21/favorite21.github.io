@@ -18,7 +18,6 @@ comments: false
 | ![ex_screenshot](/assets/img/klh.jpg) | __Kim, Leehyeon__ | Ph. D. candidate | leehyeon(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | Ph. D. student | qhd0207(a)korea.ac.kr |
 |----
-| ![ex_screenshot](/assets/img/ksy.jpg) | __Kang, Seung Yeon__ | MS student | seungyeon_-(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/sej.png) | __Sung, Eunji__ | MS student | sung0416(a)naver.com |
 | ![ex_screenshot](/assets/img/pmr.jpg) | __Park, Mi Rae__ | MS student |  mirae1620(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/hjw.jpg) | __Heo, Ji Won__ | MS student | heoji94(a)korea.ac.kr |
@@ -51,6 +50,7 @@ comments: false
 | __Lee, Ji Young__ | Sep. 2014 | MS | jiyounglee4831(a)gmail.com |
 | __Oh, Sun Joo__ | Feb. 2017 | MS |  sunjoo9359(a)korea.ac.kr |
 | __Kuk, Yong-Boo__ | Feb. 2018 | MS | ringx9(a)naver.com |
+| __Kang, Seung Yeon__ | Aug. 2019 | MS | seungyeon_-(a)korea.ac.kr |
 |----
 | __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77(a)hotmail.com |
 | __Kim, Hyung-Wook__ | Aug. 2004 | Researcher | parsons(a)unitel.co.kr |
