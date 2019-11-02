@@ -14,9 +14,9 @@ comments: false
 
 <a href="/assets/pdf/117_okpark_molcell.pdf"> <strong>(117) "Endoribonucleolytic Cleavage of m6A-ContainingRNAs by RNase P/MRP Complex"</strong> </a> <br/> Ok Hyun Park, Hongseok Ha, Yujin Lee, Sung Ho Boo, Do Hoon Kwon, Hyun Kyu Song, Yoon Ki Kim (2019) <br/> <em>Mol. Cell</em> Volume 74, Issue 3, 2 May 2019, Pages 494-507.e8
 
-<a href="/assets/pdf/116_2019_iucrj_psh.pdf"> <strong>(116) "A cytosine modification mechanism revealed by the structure of a ternary complex of deoxycytidylate hydroxymethylase from bacteriophage T4 with its cofactor and substrate"</strong> </a> <br/> Si Hoon Park, Se Won Suh and Hyun Kyu Song (2019) <br/> <em>IUCrJ</em> DOI: 10.1107/S2052252518018274
+<a href="/assets/pdf/116_2019_iucrj_psh.pdf"> <strong>(116) "A cytosine modification mechanism revealed by the structure of a ternary complex of deoxycytidylate hydroxymethylase from bacteriophage T4 with its cofactor and substrate"</strong> </a> <br/> Si Hoon Park, Se Won Suh and Hyun Kyu Song (2019) <br/> <em>IUCrJ</em> Jan 24;6(Pt 2):206-217
 
-<a href="/assets/pdf/115_Mol.Cell_HKS.pdf"> <strong>(115) "MST1 Negatively Regulates TNFα-Induced NF-κB Signaling through Modulating LUBAC Activity"</strong> </a> <br/> In Young Lee, Jane Melissa Lim, Hyunchu Cho, Eunju Kim, Yeonsil Kim, Hye-Kyung Oh, Woo Seok Yang, Kyung-Hye Roh, Hyun Woo Park, Jung-Soon Mo, Je-Hyun Yoon, Hyun KyuSong, Eui-Ju Choi (2019) <br/> <em>Mol.Cell</em> DOI: 10.1016/j.molcel.2019.01.022
+<a href="/assets/pdf/115_Mol.Cell_HKS.pdf"> <strong>(115) "MST1 Negatively Regulates TNFα-Induced NF-κB Signaling through Modulating LUBAC Activity"</strong> </a> <br/> In Young Lee, Jane Melissa Lim, Hyunchu Cho, Eunju Kim, Yeonsil Kim, Hye-Kyung Oh, Woo Seok Yang, Kyung-Hye Roh, Hyun Woo Park, Jung-Soon Mo, Je-Hyun Yoon, Hyun KyuSong, Eui-Ju Choi (2019) <br/> <em>Mol.Cell</em> Mar 21;73(6):1138-1149.e6
 
 ## 2018
 
