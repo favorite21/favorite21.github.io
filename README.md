@@ -110,3 +110,4 @@ assets의 img or gallery 폴더에 업로드
     ---
 ~~~
 
+ 3) title과 excerpt는 자유롭게 작성. 단 " " 는 반드시 있어야함.
