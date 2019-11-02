@@ -18,7 +18,7 @@ comments: false
 
 <a href="/assets/pdf/115_Mol.Cell_HKS.pdf"> <strong>(115) "MST1 Negatively Regulates TNFα-Induced NF-κB Signaling through Modulating LUBAC Activity"</strong> </a> <br/> In Young Lee, Jane Melissa Lim, Hyunchu Cho, Eunju Kim, Yeonsil Kim, Hye-Kyung Oh, Woo Seok Yang, Kyung-Hye Roh, Hyun Woo Park, Jung-Soon Mo, Je-Hyun Yoon, Hyun KyuSong, Eui-Ju Choi (2019) <br/> <em>Mol Cell.</em> Mar 21;73(6):1138-1149.e6
 
-<a href="/assets/pdf/113_2018_autophagy_KDH.pdf"> <strong>(114) "pH-dependent regulation of SQSTM1/p62 during autophagy"</strong> </a> <br/> Do Hoon Kwon, Leehyeon Kim, Hyun Kyu Song (2018) <br/> <em>autophagy.</em> Jan;15(1):180-181
+<a href="/assets/pdf/113_2018_autophagy_KDH.pdf"> <strong>(114) "pH-dependent regulation of SQSTM1/p62 during autophagy"</strong> </a> <br/> Do Hoon Kwon, Leehyeon Kim, Hyun Kyu Song (2018) <br/> <em>Autophagy.</em> Jan;15(1):180-181
 
 ## 2018
 
