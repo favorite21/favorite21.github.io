@@ -99,13 +99,14 @@ assets의 img or gallery 폴더에 업로드
   
  2) 포스트 설정 문단을 만들어야함.
   ex) 아래 설정 문구를 복붙한 뒤 포스트를 시작.
-  ~~~
-  ---
-  layout: post
-  title: "Mi Rae Park received the Presidential Award of KSBMB!"
-  date: 2018-02-12
-  excerpt: "Mi Rae Park received the Presidential Award of KSBMB!"
-  comments: true
-  ---
-  ~~~
+  
+~~~
+    ---
+    layout: post
+    title: "Mi Rae Park received the Presidential Award of KSBMB!"
+    date: 2018-02-12
+    excerpt: "Mi Rae Park received the Presidential Award of KSBMB!"
+    comments: true
+    ---
+~~~
 
