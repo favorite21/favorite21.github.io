@@ -96,3 +96,16 @@ assets의 img or gallery 폴더에 업로드
  1) -post에서 신규 포스트 만들 수 있음.
  - 주의 : 제목(title)은 반드시 영어로 적어야함. 띄어쓰기대신 -로 띄어쓰기
   ex)2018-06-30-ever-never.
+  
+ 2) 포스트 설정 문단을 만들어야함.
+  ex) 아래 설정 문구를 복붙한 뒤 포스트를 시작.
+  ~~~
+  ---
+  layout: post
+  title: "Mi Rae Park received the Presidential Award of KSBMB!"
+  date: 2018-02-12
+  excerpt: "Mi Rae Park received the Presidential Award of KSBMB!"
+  comments: true
+  ---
+  ~~~
+
