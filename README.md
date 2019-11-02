@@ -93,9 +93,6 @@ assets의 img or gallery 폴더에 업로드
 
 7. Posting
 
- 1) Siteleaf 가입
- 2) github repository와 연동
- 3) 좌측 상단의 posts 클릭
- 4) New post 생성
-
- - 주의 : 제목(title)은 반드시 영어로 적어야함.
+ 1) -post에서 신규 포스트 만들 수 있음.
+ - 주의 : 제목(title)은 반드시 영어로 적어야함. 띄어쓰기대신 -로 띄어쓰기
+  ex)2018-06-30-ever-never.
