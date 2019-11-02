@@ -10,35 +10,35 @@ comments: false
 ---
 ## 2019
 
-<a href="/assets/pdf/118_ykk.pdf"> <strong>(118) "eIF4A3 Phosphorylation by CDKs Affects NMD during the Cell Cycle"</strong> </a> <br/> Incheol Ryu, You-Sub Won, Hongseok Ha, Eunjin Kim, Yeonkyoung Park, Min Kyung Kim, Do Hoon Kwon, Junho Choe, Hyun Kyu Song, Hosung Jung, and Yoon Ki Kim. (2019) <br/> <em>Cell Reports</em> Volume 26, Issue 8, 19 February 2019, Pages 2126-2139.e9
+<a href="/assets/pdf/118_ykk.pdf"> <strong>(118) "eIF4A3 Phosphorylation by CDKs Affects NMD during the Cell Cycle"</strong> </a> <br/> Incheol Ryu, You-Sub Won, Hongseok Ha, Eunjin Kim, Yeonkyoung Park, Min Kyung Kim, Do Hoon Kwon, Junho Choe, Hyun Kyu Song, Hosung Jung, and Yoon Ki Kim. (2019) <br/> <em>Cell Reports.</em> Volume 26, Issue 8, 19 February 2019, Pages 2126-2139.e9
 
-<a href="/assets/pdf/117_okpark_molcell.pdf"> <strong>(117) "Endoribonucleolytic Cleavage of m6A-ContainingRNAs by RNase P/MRP Complex"</strong> </a> <br/> Ok Hyun Park, Hongseok Ha, Yujin Lee, Sung Ho Boo, Do Hoon Kwon, Hyun Kyu Song, Yoon Ki Kim (2019) <br/> <em>Mol. Cell</em> Volume 74, Issue 3, 2 May 2019, Pages 494-507.e8
+<a href="/assets/pdf/117_okpark_molcell.pdf"> <strong>(117) "Endoribonucleolytic Cleavage of m6A-ContainingRNAs by RNase P/MRP Complex"</strong> </a> <br/> Ok Hyun Park, Hongseok Ha, Yujin Lee, Sung Ho Boo, Do Hoon Kwon, Hyun Kyu Song, Yoon Ki Kim (2019) <br/> <em>Mol Cell.</em> Volume 74, Issue 3, 2 May 2019, Pages 494-507.e8
 
-<a href="/assets/pdf/116_2019_iucrj_psh.pdf"> <strong>(116) "A cytosine modification mechanism revealed by the structure of a ternary complex of deoxycytidylate hydroxymethylase from bacteriophage T4 with its cofactor and substrate"</strong> </a> <br/> Si Hoon Park, Se Won Suh and Hyun Kyu Song (2019) <br/> <em>IUCrJ</em> Jan 24;6(Pt 2):206-217
+<a href="/assets/pdf/116_2019_iucrj_psh.pdf"> <strong>(116) "A cytosine modification mechanism revealed by the structure of a ternary complex of deoxycytidylate hydroxymethylase from bacteriophage T4 with its cofactor and substrate"</strong> </a> <br/> Si Hoon Park, Se Won Suh and Hyun Kyu Song (2019) <br/> <em>IUCrJ.</em> Jan 24;6(Pt 2):206-217
 
-<a href="/assets/pdf/115_Mol.Cell_HKS.pdf"> <strong>(115) "MST1 Negatively Regulates TNFα-Induced NF-κB Signaling through Modulating LUBAC Activity"</strong> </a> <br/> In Young Lee, Jane Melissa Lim, Hyunchu Cho, Eunju Kim, Yeonsil Kim, Hye-Kyung Oh, Woo Seok Yang, Kyung-Hye Roh, Hyun Woo Park, Jung-Soon Mo, Je-Hyun Yoon, Hyun KyuSong, Eui-Ju Choi (2019) <br/> <em>Mol.Cell</em> Mar 21;73(6):1138-1149.e6
+<a href="/assets/pdf/115_Mol.Cell_HKS.pdf"> <strong>(115) "MST1 Negatively Regulates TNFα-Induced NF-κB Signaling through Modulating LUBAC Activity"</strong> </a> <br/> In Young Lee, Jane Melissa Lim, Hyunchu Cho, Eunju Kim, Yeonsil Kim, Hye-Kyung Oh, Woo Seok Yang, Kyung-Hye Roh, Hyun Woo Park, Jung-Soon Mo, Je-Hyun Yoon, Hyun KyuSong, Eui-Ju Choi (2019) <br/> <em>Mol Cell.</em> Mar 21;73(6):1138-1149.e6
+
+<a href="/assets/pdf/113_2018_autophagy_KDH.pdf"> <strong>(114) "pH-dependent regulation of SQSTM1/p62 during autophagy"</strong> </a> <br/> Do Hoon Kwon, Leehyeon Kim, Hyun Kyu Song (2018) <br/> <em>autophagy.</em> Jan;15(1):180-181
 
 ## 2018
 
-<a href="/assets/pdf/113_2018_autophagy_KDH.pdf"> <strong>(114) "pH-dependent regulation of SQSTM1/p62 during autophagy"</strong> </a> <br/> Do Hoon Kwon, Leehyeon Kim, Hyun Kyu Song (2018) <br/> <em>autophagy</em> DOI: 10.1080/15548627.2018.1532264
+<a href="/assets/pdf/112_2018_ncomms_KDH.pdf"> <strong>(113) "Insights into degradation mechanism of N-end rule substrates by p62/SQSTM1 autophagy adapter"</strong> </a> <br/> Do Hoon Kwon, Ok Hyun Park, Leehyeon Kim, Yang Ouk Jung, Yeonkyoung Park, Hyeongseop Jeong, Jaekyung Hyun, Yoon Ki Kim, Hyun Kyu Song (2018) <br/> <em>Nature communications.</em> 9, Article number: 3291
 
-<a href="/assets/pdf/112_2018_ncomms_KDH.pdf"> <strong>(113) "Insights into degradation mechanism of N-end rule substrates by p62/SQSTM1 autophagy adapter"</strong> </a> <br/> Do Hoon Kwon, Ok Hyun Park, Leehyeon Kim, Yang Ouk Jung, Yeonkyoung Park, Hyeongseop Jeong, Jaekyung Hyun, Yoon Ki Kim, Hyun Kyu Song (2018) <br/> <em>Nature communications</em> 9, Article number: 3291
+<a href="/assets/pdf/111_2018_autophagy_KBW.pdf"> <strong>(112) "The C-terminal region of ATG101 bridges ULK1 and PtdIns3K complex in autophagy initiation"</strong> </a> <br/> Byeong-Won Kim, Yunjung Jin, Jiyea Kim, Jun Hoe Kim, Juneyoung Jung, Seongman Kang, Ick Young Kim, Joungmok Kim, Heesun Cheong, Hyun Kyu Song (2018) <br/> <em>Autophagy.</em> DOI: 10.1080/15548627.2018.1504716
 
-<a href="/assets/pdf/111_2018_autophagy_KBW.pdf"> <strong>(112) "The C-terminal region of ATG101 bridges ULK1 and PtdIns3K complex in autophagy initiation"</strong> </a> <br/> Byeong-Won Kim, Yunjung Jin, Jiyea Kim, Jun Hoe Kim, Juneyoung Jung, Seongman Kang, Ick Young Kim, Joungmok Kim, Heesun Cheong, Hyun Kyu Song (2018) <br/> <em>Autophagy</em> DOI: 10.1080/15548627.2018.1504716
+<a href="/assets/pdf/110_2018_Mol.Cell_CSW.pdf"> <strong>(111) "PELI1 Selectively Targets Kinase-Active RIP3 for Ubiquitylation-Dependent Proteasomal Degradation"</strong> </a> <br/> Seung-Won Choi, Han-Hee Park, Soyeon Kim, Jee Min Chung, Hyun-Jin Noh, Sue Kyung Kim, Hyun Kyu Song, Chang-Woo Lee Michael J.Morgan, Ho Chul Kang, You-Sun Kim (2018) <br/> <em>Molecular Cell.</em> Volume 70, Issue 5, 7 June 2018, Pages 920-935.e7
 
-<a href="/assets/pdf/110_2018_Mol.Cell_CSW.pdf"> <strong>(111) "PELI1 Selectively Targets Kinase-Active RIP3 for Ubiquitylation-Dependent Proteasomal Degradation"</strong> </a> <br/> Seung-Won Choi, Han-Hee Park, Soyeon Kim, Jee Min Chung, Hyun-Jin Noh, Sue Kyung Kim, Hyun Kyu Song, Chang-Woo Lee Michael J.Morgan, Ho Chul Kang, You-Sun Kim (2018) <br/> <em>Molecular Cell</em> Volume 70, Issue 5, 7 June 2018, Pages 920-935.e7
+<a href="/assets/pdf/109_2018_JMB_KLH.pdf"> <strong>(110) "Structural and Biochemical Study of the Mono-ADP-Ribosyltransferase Domain of SdeA, a Ubiquitylating/Deubiquitylating Enzyme from <em>Legionella pneumophila</em>"</strong> </a> <br/> Leehyeon Kim, Do Hoon Kwon, Bong Heon Kim, Jiyeon Kim, Mi Rae Park, Zee-Yong Park, Hyun Kyu Song (2018) <br/> <em>Jounal of Molecular Biology.</em> Volume 430, Issue 17, 17 August 2018, Pages 2843-2856
 
-<a href="/assets/pdf/109_2018_JMB_KLH.pdf"> <strong>(110) "Structural and Biochemical Study of the Mono-ADP-Ribosyltransferase Domain of SdeA, a Ubiquitylating/Deubiquitylating Enzyme from <em>Legionella pneumophila</em>"</strong> </a> <br/> Leehyeon Kim, Do Hoon Kwon, Bong Heon Kim, Jiyeon Kim, Mi Rae Park, Zee-Yong Park, Hyun Kyu Song (2018) <br/> <em>Jounal of Molecular Biology</em> Volume 430, Issue 17, 17 August 2018, Pages 2843-2856
+<a href="/assets/pdf/108_2018_NAR_KSH.pdf"> <strong>(109) "Unveiling the pathway to Z-DNA in the protein-induced B–Z transition"</strong> </a> <br/> Sook Ho Kim, So-Hee Lim, Ae-Ree Lee, Do Hoon Kwon, Hyun Kyu Song, Joon-Hwa Lee, Minhaeng Cho, Albert Johner, Nam-Kyung Lee, Seok-Cheol Hong (2018) <br/> <em>Nucleic Acids Research.</em> Volume 46, Issue 8, 4 May 2018, Pages 4129–4137
 
-<a href="/assets/pdf/108_2018_NAR_KSH.pdf"> <strong>(109) "Unveiling the pathway to Z-DNA in the protein-induced B–Z transition"</strong> </a> <br/> Sook Ho Kim, So-Hee Lim, Ae-Ree Lee, Do Hoon Kwon, Hyun Kyu Song, Joon-Hwa Lee, Minhaeng Cho, Albert Johner, Nam-Kyung Lee, Seok-Cheol Hong (2018) <br/> <em>Nucleic Acids Research</em> Volume 46, Issue 8, 4 May 2018, Pages 4129–4137
-
-<a href="/assets/pdf/107_2018_Mol&Cells_KDH.pdf"> <strong>(108) "A Structural View of Xenophagy, a Battle between Host and Microbes"</strong> </a> <br/> Do Hoon Kwon, and Hyun Kyu Song (2018) <br/> <em>Molelcular and Cells</em> 41(1): 27~34
+<a href="/assets/pdf/107_2018_Mol&Cells_KDH.pdf"> <strong>(108) "A Structural View of Xenophagy, a Battle between Host and Microbes"</strong> </a> <br/> Do Hoon Kwon, and Hyun Kyu Song (2018) <br/> <em>Molelcular and Cells.</em> 41(1): 27-34
 
 ## 2017
 
 <a href="/assets/pdf/bksc.pdf"> <strong>(107) "Structural Characterization of RNA Recognition Motif-2 Domain of SART3"</strong> </a> <br/> Bang, K. M., Cho, N. Y., Kim, W. J., Kim, A. R., Song, H. K., Kim, E. E. K. & Kim, N. K. (2017) <br/> <em>Bulletin of the Korean Chemical Society.</em> 38, 4, p. 444-447 4 p.
 
-<a href="/assets/pdf/106_2017_BBRC_KDH.pdf"> <strong>(106) "A novel conformation of the LC3-interacting region motif revealed by the structure of a complex between LC3B and RavZ"</strong> </a> <br/> Do Hoon Kwon, Leehyeon Kim, Byeong-Won Kim, Jun Hoe Kim, Kyung-Hye Roh, Eui-Ju Choi, Hyun Kyu Song (2017) <br/> <em>Biochemical and Biophysical Research Communications</em> 490 3 1093-1099 
+<a href="/assets/pdf/106_2017_BBRC_KDH.pdf"> <strong>(106) "A novel conformation of the LC3-interacting region motif revealed by the structure of a complex between LC3B and RavZ"</strong> </a> <br/> Do Hoon Kwon, Leehyeon Kim, Byeong-Won Kim, Jun Hoe Kim, Kyung-Hye Roh, Eui-Ju Choi, Hyun Kyu Song (2017) <br/> <em>Biochemical and Biophysical Research Communications.</em> 490(3) 1093-1099 
 
 <a href="/assets/pdf/105_2017_Biodesign_PSH.pdf"> <strong>(105) "Structure determination of the C-terminal fragment of yeast Ski7 using twinned crystal data"</strong> </a> <br/> Si Hoon Park, Yong-Boo Kuk, Ji-Young Lee, Byeong-Cheon Jeong, Hyun Kyu Song (2017) <br/> <em>BioDesign.</em> 5 1 12-23
 
