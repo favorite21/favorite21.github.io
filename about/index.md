@@ -14,31 +14,31 @@ comments: false
 
 ![ex_screenshot](/assets/img/prof.jpg) <center>Prof. Hyun Kyu Song</center>
 
-## PI introduction
+## PI Introduction
 Education and Training
-* __2001-2003 Research Associate__
+* __2001-2003, Research Associate__
   Harvard Medical School & Dana-Farber Cancer Institute, Boston, USA
-* __1999-2001 Postdoctoral Fellow__
+* __1999-2001, Postdoctoral Fellow__
   Max-Planck-Institut für Biochemie, Martinsried, Germany
-* __1997-1999 Postdoctoral Fellow__
+* __1997-1999, Postdoctoral Fellow__
   Research Institute for Basic Sciences, Seoul National University
-* __1993-1997 Ph.D. in Chemistry__
+* __1993-1997, Ph.D. in Chemistry__
   Seoul National University, Seoul, Korea
-* __1991-1993 M.S. in Chemistry__
+* __1991-1993, M.S. in Chemistry__
   Seoul National University, Seoul, Korea
-* __1987-1991 B.S. in Agricultural Chemistry__
+* __1987-1991, B.S. in Agricultural Chemistry__
   Seoul National University, Seoul, Korea
 
 Professional Experiences
-* __2011-Present Professor__
+* __2011-Present, Professor__
   Division of Life Sciences, Korea University, Seoul, Korea
-* __2013-2015 Division Chair__
+* __2013-2015, Division Chair__
   Division of Life Sciences, Korea University, Seoul, Korea
-* __2010-2011 Visiting Professor__
+* __2010-2011, Visiting Professor__
   Harvard Medical School & Dana-Farber Cancer Institute, Boston, USA
-* __2004-2011 Assistant & Associate Professor__
+* __2004-2011, Assistant & Associate Professor__
   Division of Life Sciences, Korea University, Seoul, Korea
-* __2003- 2004 Senior Researcher__
+* __2003-2004, Senior Researcher__
   Division of Basic Sciences, National Cancer Center, Ilsan, Korea
 
 
@@ -51,6 +51,6 @@ __1. Autophagic molecules__
 __2. Ubiquitin Biology__
     Ubiquitin (Ub) is a small protein composed of 76 amino acids found only in eukaryotes. It plays as a key signal for proteasome-dependent protein degradation pathway by a covalent modification of target proteins. Ub-dependent degradation regulates diverse cellular processes including cell cycle progression, muscle differentiation, and transcriptional regulation. Interestingly, proteins containing specific amino acid residues at the N-terminus are discarded within a few minutes, which is called "N-degron pathway" mediated by N-recognins including the first characterized Ub E3-ligase, Ubr1. The N-degron pathway, especially Arg/N-degron pathway possesses the hierarchical enzymatic steps to degrade the N-degron substrates. We are working on the structure-function study of proteins involved in the N-degron pathway.
     
-__3. Bacterial Degradation Signaling Recognition__
+__3. Bacterial Degradation Signal Recognition__
     Intracellular protein degradation is a highly regulated process. The proteolytic machinery must select the right substrate in the right place at the right time. Unlike eukaryotes, prokaryotes utilize several protease complexes for intracellular protein degradation as they lack the ubiquitin-proteosome system. However, despite a wealth of structural information on prokaryotic proteosome homologs, the detailed mechanism for their substrate recognition is still mysterious. For unveiling it, we conduct research on the target selection steps by bacterial degradation machineries including ClpXP and HslVU.
     
