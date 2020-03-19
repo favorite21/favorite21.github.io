@@ -14,9 +14,9 @@ comments: false
 |:--------:|:-------:|:--------:|:--------|
 | ![ex_screenshot](/assets/img/prof.jpg) | __Song, Hyun Kyu__ | Principal Investigator | hksong(a)korea.ac.kr |
 |----
-| ![ex_screenshot](/assets/img/psh.jpg) | __Park, Si Hoon__ | Ph. D. candidate | solli(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/psh.jpg) | __Park, Si Hoon__ | Researcher | solli(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/klh.jpg) | __Kim, Leehyeon__ | Ph. D. candidate | leehyeon(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | Ph. D. student | qhd0207(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | Ph. D. candidate | qhd0207(a)korea.ac.kr |
 |----
 | ![ex_screenshot](/assets/img/hjw.jpg) | __Heo, Ji Won__ | MS student | heoji94(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/yws.jpg) | __Yang, Woo Seok__ | MS student | favorite21(a)korea.ac.kr |
