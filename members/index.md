@@ -14,7 +14,7 @@ comments: false
 |:--------:|:-------:|:--------:|:--------|
 | ![ex_screenshot](/assets/img/prof.jpg) | __Song, Hyun Kyu__ | Principal Investigator | hksong(a)korea.ac.kr |
 |----
-| ![ex_screenshot](/assets/img/psh.jpg) | __Park, Si Hoon__ | Researcher | solli(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/psh.jpg) | __Park, Si Hoon__ | Ph. D. | solli(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/klh.jpg) | __Kim, Leehyeon__ | Ph. D. candidate | leehyeon(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | Ph. D. candidate | qhd0207(a)korea.ac.kr |
 |----
@@ -29,7 +29,7 @@ comments: false
 
 ## Alumnis
 
-| Name | Until | Job Role | E-mail |
+| Name | Until | Degree | E-mail |
 |:--------|:-------:|:--------:|:--------|
 | __Kwon, Oh Yeun__ | Feb. 2009 | Ph. D. | enigmakwon(a)khidi.or.kr |
 | __Park, Eun Young__ | Feb. 2010 | Ph. D. | eunyoung(a)red.dfci.harvard.edu |
