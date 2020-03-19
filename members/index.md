@@ -21,7 +21,7 @@ comments: false
 | ![ex_screenshot](/assets/img/hjw.jpg) | __Heo, Ji Won__ | MS student | heoji94(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/yws.jpg) | __Yang, Woo Seok__ | MS student | favorite21(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/lhy.png) | __Lee, Ha Yeong__ | MS student | vvetha75(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/kmk.png) | __Kim, Min ki__ | Undergraduate student | viva2kmg(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/kmk.png) | __Kim, Min Ki__ | Undergraduate student | viva2kmg(a)korea.ac.kr |
 |----
 | |
 |=====
