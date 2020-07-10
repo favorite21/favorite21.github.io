@@ -14,13 +14,15 @@ comments: false
 |:--------:|:-------:|:--------:|:--------|
 | ![ex_screenshot](/assets/img/prof.jpg) | __Song, Hyun Kyu__ | Principal Investigator | hksong(a)korea.ac.kr |
 |----
-| ![ex_screenshot](/assets/img/psh.jpg) | __Park, Si Hoon__ | Ph. D. | solli(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/psh.jpg) | __Park, Si Hoon__ | Researcher | solli(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/sjs.jpg) | __Shin, Jin Seok__ | Researcher | faceofblack89(a)gmail.com |
+|----
 | ![ex_screenshot](/assets/img/klh.jpg) | __Kim, Leehyeon__ | Ph. D. candidate | leehyeon(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | Ph. D. candidate | qhd0207(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/yws.jpg) | __Yang, Woo Seok__ | Ph. D. student | favorite21(a)korea.ac.kr |
 |----
-| ![ex_screenshot](/assets/img/hjw.jpg) | __Heo, Ji Won__ | MS student | heoji94(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/yws.jpg) | __Yang, Woo Seok__ | MS student | favorite21(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/lhy.png) | __Lee, Ha Yeong__ | MS student | vvetha75(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/kbk.png) | __Kim, Bokyung__ | MS student | bkim7513(a)gmail.com |
 | ![ex_screenshot](/assets/img/kmk.png) | __Kim, Min Ki__ | Undergraduate student | viva2kmg(a)korea.ac.kr |
 |----
 | |
@@ -52,6 +54,7 @@ comments: false
 | __Kang, Seung Yeon__ | Aug. 2019 | MS | seungyeon_-(a)korea.ac.kr |
 | __Sung, Eunji__ | Jan. 2020 | MS | sung0416(a)naver.com |
 | __Park, Mi Rae__ | Jan. 2020 | MS |  mirae1620(a)korea.ac.kr |
+| __Heo, Ji Won__ | Jun. 2020 | MS | heoji94(a)korea.ac.kr |
 |----
 | __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77(a)hotmail.com |
 | __Kim, Hyung-Wook__ | Aug. 2004 | Researcher | parsons(a)unitel.co.kr |
