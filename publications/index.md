@@ -11,7 +11,7 @@ comments: false
 
 ## 2020
 
-<a href="/assets/pdf/124_HSC.pdf"> <strong>(125) "Enhancing protein crystallization under a magnetic field"</strong> </a> <br/> Sun Young Ryu, In Hwan Oh, Sang Jin Cho, Shin Ae Kim, Hyun Kyu Song. (2020) <br/> <em> Crystals</em> 10, 821. https://doi.org/10.3390/cryst10090821
+<a href="/assets/pdf/125_SYR_CRY.pdf"> <strong>(125) "Enhancing protein crystallization under a magnetic field"</strong> </a> <br/> Sun Young Ryu, In Hwan Oh, Sang Jin Cho, Shin Ae Kim, Hyun Kyu Song. (2020) <br/> <em> Crystals</em> 10, 821. https://doi.org/10.3390/cryst10090821
 
 <a href="/assets/pdf/124_HSC.pdf"> <strong>(124) "Metabolic engineering of Escherichia coli to produce a monophosphoryl lipid A adjuvant"</strong> </a> <br/> Yuhyun Ji, Jinsu An, Dohyeon Hwang, Da Hui Ha, Sang Min Lim, Chankyu Lee, Jinshi Zhao, Hyun Kyu Song, Eun Gyeong Yang, Pei Zhou, Hak Suk Chung. (2020) <br/> <em> Metabolic Engineering</em> 57, pp. 193-202. https://doi.org/10.1016/j.ymben.2019.11.009
 
