@@ -113,5 +113,10 @@ assets의 img or gallery 폴더에 업로드
  3) title과 excerpt는 자유롭게 작성. 단 " " 는 반드시 있어야함.
 
 8. Popup
+~~~
  - assets/js/popup.js 파일 생성하였음.
- -_layouts/home.html에서 헤드부분의 "<script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>"과 헤드터미널에 <script src="assets/js/popup.js"></script>을 활성화/불활성화를 통해 조절가능.
+ -_layouts/home.html에서 헤드부분의 "<script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>"과 
+ 헤드터미널에 <script src="assets/js/popup.js"></script>을 활성화/불활성화를 통해 조절가능.
+~~~
+
+끝.
