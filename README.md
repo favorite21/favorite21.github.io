@@ -117,6 +117,9 @@ assets의 img or gallery 폴더에 업로드
  - assets/js/popup.js 파일 생성하였음.
  -_layouts/home.html에서 헤드부분의 "<script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>"과 
  헤드터미널에 <script src="assets/js/popup.js"></script>을 활성화/불활성화를 통해 조절가능.
+ 
+ 어법 비활성화 방법
+ <!-- 과 --->사이에 넣으면 됨.
 ~~~
 
 끝.
