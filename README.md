@@ -88,7 +88,7 @@ assets의 img or gallery 폴더에 업로드
 
    Slide 용 : 폭 - 133.12, 높이 - 92.49, 해상도 - 300
 
-   Member : 폭 - 1.08, 높이 - 1.44, 해상도 - 300
+   Member : 폭 - 1.08, 높이 - 1.44, 해상도 - 300(photoshop) / 폭 128, 높이 170 px(gimp)
 ~~~
 
 7. Posting
