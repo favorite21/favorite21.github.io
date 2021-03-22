@@ -22,7 +22,7 @@ comments: false
 | ![ex_screenshot](/assets/img/yws.jpg) | __Yang, Woo Seok__ | Ph. D. student | favorite21(a)korea.ac.kr |
 |----
 | ![ex_screenshot](/assets/img/lhy.png) | __Lee, Ha Yeong__ | MS student | vvetha75(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/kbk.jpg) | __Kim, Bokyung__ | MS student | bkim7513(a)gmail.com |
+| ![ex_screenshot](/assets/img/kbk.jpg) | __Kim, Bokyung__ | MS student | bkim7513(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/kmk.png) | __Kim, Min Ki__ | MS student | viva2kmg(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/hjh.jpg) | __Han, Juhyun__ | MS student | hanju828(a)korea.ac.kr |
 |----
