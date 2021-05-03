@@ -6,7 +6,8 @@ excerpt: "Congratulations! KCS 'Park In Won' academic award"
 comments: true
 ---
 
-![ex_screenshot](/assets/img/park_award.jpg)
+![ex_screenshot](/assets/img/KCS.jpg)
+
 <br/>
 구조생물학 연구실의 송현규 교수님이 대한화학회 생명화학분과의 박인원 학술상을 수상하셨습니다. 축하드립니다!
 Prof. Song won 'Park In Won' academic awards at Korean chemitry society. Congratulation!
