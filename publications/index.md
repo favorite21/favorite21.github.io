@@ -9,7 +9,24 @@ feature: "/assets/img/sspb.png"
 comments: false
 ---
 
+## 2021
+
+<a href="/assets/pdf/132_HKS_Natcom.pdf"> <strong>(132) "UXT chaperone prevents proteotoxicity by acting as an autophagy adaptor for p62-dependent aggrephagy"</strong> </a> <br/> Min Ji Yoon, Boyoon Choi, Eun Jin Kim, Jiyeon Ohk, Chansik Yang, Yeon-Gil Choi, Jinyoung Lee, Chanhee Kang, Hyun Kyu Song, Yoon Ki Kim, Jae-Sung Woo, Yongcheol Cho, Eui-Ju Choi, Hosung Jung & Chungho Kim. (2021) <br/> <em> Nat Commun.</em> 12, 1955. https://doi.org/10.1038/s41467-021-22252-7
+
+<a href="/assets/pdf/131_KLH_PS.pdf"> <strong>(131) "Structural basis for the N-degron specificity of ClpS1 from
+Arabidopsis thaliana"</strong> </a> <br/> Leehyeon Kim, Jiwon Heo, Do Hoon Kwon, Jin Seok Shin, Se Hwan Jang, Zee‐Yong Park, Hyun Kyu Song. (2021) <br/> <em> Protein Science.</em> 30, 3, 700-708. https://doi.org/10.1002/pro.4018
+
+<a href="/assets/pdf/130_HKS_CML.pdf"> <strong>(130) "TRAF6-mediated ubiquitination of MST1/STK4 attenuates the TLR4-NF-κB signaling pathway in macrophages"</strong> </a> <br/> Kyung-Hye Roh, Yeojin Lee, Je-Hyun Yoon, Danbi Lee, Eunju Kim, Eunchong Park, In Young Lee, Tae Sung Kim, Hyun Kyu Song, Jaekyoon Shin, Dae-Sik Lim & Eui-Ju Choi. (2021) <br/> <em> Cell. Mol. Life Sci.</em> 78, 2315–2328. https://doi.org/10.1007/s00018-020-03650-4
+
+<strong>(129) "Development of new tools to study lipidated mammalian ATG8"</strong> </a> <br/> Sang-Won Park, Pureum Jeon, Akinori Yamasaki, Hye Eun Lee, Ji Young Mun, Yong-Woo Jun, Ju-Hui Park, Seung-Hwan Lee, Soo-Kyeong Lee, Hyun Kyu Song, You-Kyung Lee, Michael Lazarou, Dong-Hyung Cho, Masaaki Komatsu, Nobuo Noda, Deok-Jin Jang, Jin-A Lee. (2021) <br/> <em> Research Square.</em> https://doi.org/10.21203/rs.3.rs-221701/v1
+
+<a href="/assets/pdf/128_HKS_Aut.pdf"> <strong>(128) "Guidelines for the use and interpretation of assays for monitoring autophagy 1"</strong> </a> <br/> Daniel J Klionsky, Hyun Kyu Song et. al. (2021) <br/> <em> Autophagy.</em> 17, 1, 1-382. https://doi.org/10.1080/15548627.2020.1797280
+
+<a href="/assets/pdf/127_HKS_ACS.pdf"> <strong>(127) "Tyrosyltyrosylcysteine-Directed Synthesis of Chiral Cobalt Oxide Nanoparticles and Peptide Conformation Analysis"</strong> </a> <br/> Hyeohn Kim, Kyeong-Mi Bang, Heonjin Ha, Nam Heon Cho, Seok Daniel Namgung, Sang Won Im, Kang Hee Cho, Ryeong Myeong Kim, Won Il Choi, Yae-Chan Lim, Ji-Yeon Shin, Hyun Kyu Song, Nak-Kyoon Kim, Ki Tae Nam. (2021) <br/> <em> ACS nano.</em> 15, 1, 979–988. https://doi.org/10.1021/acsnano.0c07655
+
 ## 2020
+
+<a href="/assets/pdf/126_HKS_AC.pdf"> <strong>(126) "Targeted Degradation of Transcription Coactivator SRC‐1 through the N‐Degron Pathway"</strong> </a> <br/> Yeongju Lee, Jiwon Heo, Hoibin Jeong, Kyung Tae Hong, Do Hoon Kwon, Min Hyeon Shin, Misook Oh, Ganesh A Sable, G‐One Ahn, Jun‐Seok Lee, Hyun Kyu Song, Hyun‐Suk Lim. (2020) <br/> <em> Angewandte Chemie.</em> 132, 40, 17701-17708. https://doi.org/10.1002/anie.202005004.
 
 <a href="/assets/pdf/125_SYR_CRY.pdf"> <strong>(125) "Enhancing protein crystallization under a magnetic field"</strong> </a> <br/> Sun Young Ryu, In Hwan Oh, Sang Jin Cho, Shin Ae Kim, Hyun Kyu Song. (2020) <br/> <em> Crystals.</em> 10, 821. https://doi.org/10.3390/cryst10090821
 
