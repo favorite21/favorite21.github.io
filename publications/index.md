@@ -26,11 +26,11 @@ Arabidopsis thaliana"</strong> </a> <br/> Leehyeon Kim, Jiwon Heo, Do Hoon Kwon,
 
 ## 2020
 
-<a href="/assets/pdf/126_HKS_AC.pdf"> <strong>(126) "Targeted Degradation of Transcription Coactivator SRC‐1 through the N‐Degron Pathway"</strong> </a> <br/> Yeongju Lee, Jiwon Heo, Hoibin Jeong, Kyung Tae Hong, Do Hoon Kwon, Min Hyeon Shin, Misook Oh, Ganesh A Sable, G‐One Ahn, Jun‐Seok Lee, Hyun Kyu Song, Hyun‐Suk Lim. (2020) <br/> <em> Angewandte Chemie.</em> 132, 40, 17701-17708. https://doi.org/10.1002/anie.202005004.
+<a href="/assets/pdf/126_HKS_AC.pdf"> <strong>(126) "Targeted Degradation of Transcription Coactivator SRC‐1 through the N‐Degron Pathway"</strong> </a> <br/> Yeongju Lee, Jiwon Heo, Hoibin Jeong, Kyung Tae Hong, Do Hoon Kwon, Min Hyeon Shin, Misook Oh, Ganesh A Sable, G‐One Ahn, Jun‐Seok Lee, Hyun Kyu Song, Hyun‐Suk Lim. (2020) <br/> <em> Angewandte Chemie.</em> 132, 40, 17701-17708. <br/> https://doi.org/10.1002/anie.202005004.
 
 <a href="/assets/pdf/125_SYR_CRY.pdf"> <strong>(125) "Enhancing protein crystallization under a magnetic field"</strong> </a> <br/> Sun Young Ryu, In Hwan Oh, Sang Jin Cho, Shin Ae Kim, Hyun Kyu Song. (2020) <br/> <em> Crystals.</em> 10, 821. https://doi.org/10.3390/cryst10090821
 
-<a href="/assets/pdf/124_HSC.pdf"> <strong>(124) "Metabolic engineering of Escherichia coli to produce a monophosphoryl lipid A adjuvant"</strong> </a> <br/> Yuhyun Ji, Jinsu An, Dohyeon Hwang, Da Hui Ha, Sang Min Lim, Chankyu Lee, Jinshi Zhao, Hyun Kyu Song, Eun Gyeong Yang, Pei Zhou, Hak Suk Chung. (2020) <br/> <em> Metabolic Engineering.</em> 57, pp. 193-202. https://doi.org/10.1016/j.ymben.2019.11.009
+<a href="/assets/pdf/124_HSC.pdf"> <strong>(124) "Metabolic engineering of Escherichia coli to produce a monophosphoryl lipid A adjuvant"</strong> </a> <br/> Yuhyun Ji, Jinsu An, Dohyeon Hwang, Da Hui Ha, Sang Min Lim, Chankyu Lee, Jinshi Zhao, Hyun Kyu Song, Eun Gyeong Yang, Pei Zhou, Hak Suk Chung. (2020) <br/> <em> Metabolic Engineering.</em> 57, pp. 193-202. <br/> https://doi.org/10.1016/j.ymben.2019.11.009
 
 <a href="/assets/pdf/123_HSL.pdf"> <strong>(123) "Targeted Degradation of Transcription Coactivator SRC-1 through the N-Degron Pathway"</strong> </a> <br/> Yeongju Lee, Jiwon Heo, Hoibin Jeong, Kyung Tae Hong, Do Hoon Kwon, Min Hyeon Shin, Misook Oh, Ganesh A. Sable, G. One Ahn, Jun Seok Lee, Hyun Kyu Song, Hyun Suk Lim. (2020) <br/> <em> Angew. Chem. Int. Ed.</em> 59, 17548. https://doi.org/10.1002/anie.202005004 
 
