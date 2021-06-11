@@ -20,7 +20,7 @@ Arabidopsis thaliana"</strong> </a> <br/> Leehyeon Kim, Jiwon Heo, Do Hoon Kwon,
 
 <strong>(129) "Development of new tools to study lipidated mammalian ATG8"</strong> <br/> Sang-Won Park, Pureum Jeon, Akinori Yamasaki, Hye Eun Lee, Ji Young Mun, Yong-Woo Jun, Ju-Hui Park, Seung-Hwan Lee, Soo-Kyeong Lee, Hyun Kyu Song, You-Kyung Lee, Michael Lazarou, Dong-Hyung Cho, Masaaki Komatsu, Nobuo Noda, Deok-Jin Jang, Jin-A Lee. (2021) <br/> <em> Research Square.</em> https://doi.org/10.21203/rs.3.rs-221701/v1
 
-<a href="/assets/pdf/128_HKS_Aut.pdf"> <strong>(128) "Guidelines for the use and interpretation of assays for monitoring autophagy 1"</strong> </a> <br/> Daniel J Klionsky, Hyun Kyu Song et. al. (2021) <br/> <em> Autophagy.</em> 17, 1, 1-382. https://doi.org/10.1080/15548627.2020.1797280
+<strong>(128) "Guidelines for the use and interpretation of assays for monitoring autophagy 1"</strong> <br/> Daniel J Klionsky, Hyun Kyu Song et. al. (2021) <br/> <em> Autophagy.</em> 17, 1, 1-382. https://doi.org/10.1080/15548627.2020.1797280
 
 <a href="/assets/pdf/127_HKS_ACS.pdf"> <strong>(127) "Tyrosyltyrosylcysteine-Directed Synthesis of Chiral Cobalt Oxide Nanoparticles and Peptide Conformation Analysis"</strong> </a> <br/> Hyeohn Kim, Kyeong-Mi Bang, Heonjin Ha, Nam Heon Cho, Seok Daniel Namgung, Sang Won Im, Kang Hee Cho, Ryeong Myeong Kim, Won Il Choi, Yae-Chan Lim, Ji-Yeon Shin, Hyun Kyu Song, Nak-Kyoon Kim, Ki Tae Nam. (2021) <br/> <em> ACS nano.</em> 15, 1, 979–988. https://doi.org/10.1021/acsnano.0c07655
 
