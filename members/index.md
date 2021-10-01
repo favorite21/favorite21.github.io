@@ -23,7 +23,7 @@ comments: false
 | ![ex_screenshot](/assets/img/kbk.jpg) | __Kim, Bokyung__ | MS student | bkim7513(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/kmk.png) | __Kim, Min Ki__ | MS/Ph. D. student | viva2kmg(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/hjh.jpg) | __Han, Juhyun__ | MS/Ph. D. student | hanju828(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/kms.jpg) | __Kim, Min Sang__ | Undergraduate student | mandufignting(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/kms.jpg) | __Kim, Min Sang__ | Undergraduate student | mandufighting(a)korea.ac.kr |
 |----
 | |
 |=====
