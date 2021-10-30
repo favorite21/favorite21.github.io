@@ -11,46 +11,50 @@ comments: false
 
 ## 2021
 
-<a href="/assets/pdf/132_HKS_Natcom.pdf"> <strong>(132) "UXT chaperone prevents proteotoxicity by acting as an autophagy adaptor for p62-dependent aggrephagy"</strong> </a> <br/> Min Ji Yoon, Boyoon Choi, Eun Jin Kim, Jiyeon Ohk, Chansik Yang, Yeon-Gil Choi, Jinyoung Lee, Chanhee Kang, Hyun Kyu Song, Yoon Ki Kim, Jae-Sung Woo, Yongcheol Cho, Eui-Ju Choi, Hosung Jung & Chungho Kim. (2021) <br/> <em> Nat Commun.</em> 12, 1955. https://doi.org/10.1038/s41467-021-22252-7
+<a href="/assets/pdf/134_jss_BBRC.pdf"> <strong>(134) "Crystal structure of yeast Gid10 in complex with Pro/N-degron"</strong> </a> <br/> Jin Seok Shin, Si Hoon Park, Lee hyeon Kim, Jiwon Heo, Hyun Kyu Song. (2021) <br/> <em> Biochem Biophys Res Commun.</em> Volume 582, 10 December 2021, Pages 86-92. https://doi.org/10.1016/j.bbrc.2021.10.007
 
-<a href="/assets/pdf/131_KLH_PS.pdf"> <strong>(131) "Structural basis for the N-degron specificity of ClpS1 from
+<a href="/assets/pdf/133_pnas_hks.pdf"> <strong>(133) "Aminopeptidases trim Xaa-Pro proteins, initiating their degradation by the Pro/N-degron pathway"</strong> </a> <br/> Shun-Jia Chen, Leehyeon Kim, Hyun Kyu Song, and Alexander Varshavsky. (2021) <br/> <em> Proc Natl Acad Sci USA.</em> 26, 118 (43) e2115430118. https://doi.org/10.1073/pnas.2115430118
+
+<a href="/assets/pdf/132_NAR_ykk.pdf"> <strong>(132) "Translation mediated by the nuclear cap-binding complex is confined to the perinuclear region via a CTIF–DDX19B interaction"</strong> </a> <br/> Yeonkyoung Park, Joori Park, Hyun Jung Hwang, Leehyeon Kim, Kwon Jeong, Hyun Kyu Song, Simone C Rufener, Oliver Mühlemann, Yoon Ki Kim. (2021) <br/> <em> Nucleic Acids Research.</em> Volume 49, Issue 14, Pages 8261–8276.
+
+<a href="/assets/pdf/131_EMBO_hks.pdf"> <strong>(131) "Phospholipid transfer function of PTPIP51 at mitochondria-associated ER membranes"</strong> </a> <br/> Hyun Ku Yeo, Tae Hyun Park, Hee Yeon Kim, Hyonchol Jang, Jueun Lee, Geum-Sook Hwang, Seong Eon Ryu, Si Hoon Park, Hyun Kyu Song, Hyun Seung Ban, Hye-Jin Yoon, Byung Il Lee. (2021) <br/> <em> EMBO Rep.</em> 22, e51323.
+
+<a href="/assets/pdf/132_HKS_Natcom.pdf"> <strong>(130) "UXT chaperone prevents proteotoxicity by acting as an autophagy adaptor for p62-dependent aggrephagy"</strong> </a> <br/> Min Ji Yoon, Boyoon Choi, Eun Jin Kim, Jiyeon Ohk, Chansik Yang, Yeon-Gil Choi, Jinyoung Lee, Chanhee Kang, Hyun Kyu Song, Yoon Ki Kim, Jae-Sung Woo, Yongcheol Cho, Eui-Ju Choi, Hosung Jung & Chungho Kim. (2021) <br/> <em> Nat Commun.</em> 12, 1955. https://doi.org/10.1038/s41467-021-22252-7
+
+<strong>(129) "Guidelines for the use and interpretation of assays for monitoring autophagy 1"</strong> <br/> Daniel J Klionsky, Hyun Kyu Song et. al. (2021) <br/> <em> Autophagy.</em> 17, 1, 1-382. https://doi.org/10.1080/15548627.2020.1797280
+
+<a href="/assets/pdf/131_KLH_PS.pdf"> <strong>(128) "Structural basis for the N-degron specificity of ClpS1 from
 Arabidopsis thaliana"</strong> </a> <br/> Leehyeon Kim, Jiwon Heo, Do Hoon Kwon, Jin Seok Shin, Se Hwan Jang, Zee‐Yong Park, Hyun Kyu Song. (2021) <br/> <em> Protein Science.</em> 30, 3, 700-708. https://doi.org/10.1002/pro.4018
 
-<a href="/assets/pdf/130_HKS_CML.pdf"> <strong>(130) "TRAF6-mediated ubiquitination of MST1/STK4 attenuates the TLR4-NF-κB signaling pathway in macrophages"</strong> </a> <br/> Kyung-Hye Roh, Yeojin Lee, Je-Hyun Yoon, Danbi Lee, Eunju Kim, Eunchong Park, In Young Lee, Tae Sung Kim, Hyun Kyu Song, Jaekyoon Shin, Dae-Sik Lim & Eui-Ju Choi. (2021) <br/> <em> Cell. Mol. Life Sci.</em> 78, 2315–2328. https://doi.org/10.1007/s00018-020-03650-4
-
-<strong>(129) "Development of new tools to study lipidated mammalian ATG8"</strong> <br/> Sang-Won Park, Pureum Jeon, Akinori Yamasaki, Hye Eun Lee, Ji Young Mun, Yong-Woo Jun, Ju-Hui Park, Seung-Hwan Lee, Soo-Kyeong Lee, Hyun Kyu Song, You-Kyung Lee, Michael Lazarou, Dong-Hyung Cho, Masaaki Komatsu, Nobuo Noda, Deok-Jin Jang, Jin-A Lee. (2021) <br/> <em> Research Square.</em> https://doi.org/10.21203/rs.3.rs-221701/v1
-
-<strong>(128) "Guidelines for the use and interpretation of assays for monitoring autophagy 1"</strong> <br/> Daniel J Klionsky, Hyun Kyu Song et. al. (2021) <br/> <em> Autophagy.</em> 17, 1, 1-382. https://doi.org/10.1080/15548627.2020.1797280
-
-<a href="/assets/pdf/127_HKS_ACS.pdf"> <strong>(127) "Tyrosyltyrosylcysteine-Directed Synthesis of Chiral Cobalt Oxide Nanoparticles and Peptide Conformation Analysis"</strong> </a> <br/> Hyeohn Kim, Kyeong-Mi Bang, Heonjin Ha, Nam Heon Cho, Seok Daniel Namgung, Sang Won Im, Kang Hee Cho, Ryeong Myeong Kim, Won Il Choi, Yae-Chan Lim, Ji-Yeon Shin, Hyun Kyu Song, Nak-Kyoon Kim, Ki Tae Nam. (2021) <br/> <em> ACS nano.</em> 15, 1, 979–988. https://doi.org/10.1021/acsnano.0c07655
+<strong>(127) "Development of new tools to study lipidated mammalian ATG8"</strong> <br/> Sang-Won Park, Pureum Jeon, Akinori Yamasaki, Hye Eun Lee, Ji Young Mun, Yong-Woo Jun, Ju-Hui Park, Seung-Hwan Lee, Soo-Kyeong Lee, Hyun Kyu Song, You-Kyung Lee, Michael Lazarou, Dong-Hyung Cho, Masaaki Komatsu, Nobuo Noda, Deok-Jin Jang, Jin-A Lee. (2021) <br/> <em> Research Square.</em> https://doi.org/10.21203/rs.3.rs-221701/v1
 
 ## 2020
 
-<a href="/assets/pdf/126_HKS_AC.pdf"> <strong>(126) "Targeted Degradation of Transcription Coactivator SRC‐1 through the N‐Degron Pathway"</strong> </a> <br/> Yeongju Lee, Jiwon Heo, Hoibin Jeong, Kyung Tae Hong, Do Hoon Kwon, Min Hyeon Shin, Misook Oh, Ganesh A Sable, G‐One Ahn, Jun‐Seok Lee, Hyun Kyu Song, Hyun‐Suk Lim. (2020) <br/> <em> Angewandte Chemie.</em> 132, 40, 17701-17708. <br/> https://doi.org/10.1002/anie.202005004.
+<a href="/assets/pdf/127_HKS_ACS.pdf"> <strong>(126) "Tyrosyltyrosylcysteine-Directed Synthesis of Chiral Cobalt Oxide Nanoparticles and Peptide Conformation Analysis"</strong> </a> <br/> Hyeohn Kim, Kyeong-Mi Bang, Heonjin Ha, Nam Heon Cho, Seok Daniel Namgung, Sang Won Im, Kang Hee Cho, Ryeong Myeong Kim, Won Il Choi, Yae-Chan Lim, Ji-Yeon Shin, Hyun Kyu Song, Nak-Kyoon Kim, Ki Tae Nam. (2020) <br/> <em> ACS nano.</em> 15, 1, 979–988. https://doi.org/10.1021/acsnano.0c07655
 
 <a href="/assets/pdf/125_SYR_CRY.pdf"> <strong>(125) "Enhancing protein crystallization under a magnetic field"</strong> </a> <br/> Sun Young Ryu, In Hwan Oh, Sang Jin Cho, Shin Ae Kim, Hyun Kyu Song. (2020) <br/> <em> Crystals.</em> 10, 821. https://doi.org/10.3390/cryst10090821
 
-<a href="/assets/pdf/124_HSC.pdf"> <strong>(124) "Metabolic engineering of Escherichia coli to produce a monophosphoryl lipid A adjuvant"</strong> </a> <br/> Yuhyun Ji, Jinsu An, Dohyeon Hwang, Da Hui Ha, Sang Min Lim, Chankyu Lee, Jinshi Zhao, Hyun Kyu Song, Eun Gyeong Yang, Pei Zhou, Hak Suk Chung. (2020) <br/> <em> Metabolic Engineering.</em> 57, pp. 193-202. <br/> https://doi.org/10.1016/j.ymben.2019.11.009
+<a href="/assets/pdf/123_HSL.pdf"> <strong>(124) "Targeted Degradation of Transcription Coactivator SRC-1 through the N-Degron Pathway"</strong> </a> <br/> Yeongju Lee, Jiwon Heo, Hoibin Jeong, Kyung Tae Hong, Do Hoon Kwon, Min Hyeon Shin, Misook Oh, Ganesh A. Sable, G. One Ahn, Jun Seok Lee, Hyun Kyu Song, Hyun Suk Lim. (2020) <br/> <em> Angew. Chem. Int. Ed.</em> 59, 17548. https://doi.org/10.1002/anie.202005004 
 
-<a href="/assets/pdf/123_HSL.pdf"> <strong>(123) "Targeted Degradation of Transcription Coactivator SRC-1 through the N-Degron Pathway"</strong> </a> <br/> Yeongju Lee, Jiwon Heo, Hoibin Jeong, Kyung Tae Hong, Do Hoon Kwon, Min Hyeon Shin, Misook Oh, Ganesh A. Sable, G. One Ahn, Jun Seok Lee, Hyun Kyu Song, Hyun Suk Lim. (2020) <br/> <em> Angew. Chem. Int. Ed.</em> 59, 17548. https://doi.org/10.1002/anie.202005004 
+<a href="/assets/pdf/122_EJC.pdf"> <strong>(123) "TRAF6-mediated ubiquitination of MST1/STK4 attenuates the TLR4-NF-κB signaling pathway in macrophages"</strong> </a> <br/> Kyung Hye Roh, Yeojin Lee, Je Hyun Yoon, Danbi Lee, Eunju Kim, Eunchong Park, In Young Lee, Tae Sung Kim, Hyun Kyu Song, Jaekyoon Shin, Dae Sik Lim, Eui Ju Choi. (2020) <br/> <em>Cell. Mol. Life Sci.</em> https://doi.org/10.1007/s00018-020-03650-4 
 
-<a href="/assets/pdf/122_EJC.pdf"> <strong>(122) "TRAF6-mediated ubiquitination of MST1/STK4 attenuates the TLR4-NF-κB signaling pathway in macrophages"</strong> </a> <br/> Kyung Hye Roh, Yeojin Lee, Je Hyun Yoon, Danbi Lee, Eunju Kim, Eunchong Park, In Young Lee, Tae Sung Kim, Hyun Kyu Song, Jaekyoon Shin, Dae Sik Lim, Eui Ju Choi. (2020) <br/> <em>Cell. Mol. Life Sci.</em> https://doi.org/10.1007/s00018-020-03650-4 
+<a href="/assets/pdf/121_KLH_JBC.pdf"> <strong>(122) "Use of the LC3B-fusion technique for biochemical and structural studies of proteins involved in the N-degron pathway"</strong> </a> <br/> Leehyeon Kim, Do Hoon Kwon, Jiwon Heo, Mi Rae Park, Hyun Kyu Song. (2020) <br/> <em>J. Biol. Chem.</em> 295 (9) , pp. 2590-2600. doi:10.1074/jbc.RA119.010912
 
-<a href="/assets/pdf/121_KLH_JBC.pdf"> <strong>(121) "Use of the LC3B-fusion technique for biochemical and structural studies of proteins involved in the N-degron pathway"</strong> </a> <br/> Leehyeon Kim, Do Hoon Kwon, Jiwon Heo, Mi Rae Park, Hyun Kyu Song. (2020) <br/> <em>J. Biol. Chem.</em> 295 (9) , pp. 2590-2600. doi:10.1074/jbc.RA119.010912
+<a href="/assets/pdf/124_HSC.pdf"> <strong>(121) "Metabolic engineering of Escherichia coli to produce a monophosphoryl lipid A adjuvant"</strong> </a> <br/> Yuhyun Ji, Jinsu An, Dohyeon Hwang, Da Hui Ha, Sang Min Lim, Chankyu Lee, Jinshi Zhao, Hyun Kyu Song, Eun Gyeong Yang, Pei Zhou, Hak Suk Chung. (2020) <br/> <em>Metab Eng.</em> Volume 57, pp. 193-202. https://doi.org/10.1016/j.ymben.2019.11.009
 
 ## 2019
 
-<a href="/assets/pdf/120_SHP_ICU.pdf"> <strong>(120) "A cytosine modification mechanism revealed by the structure of a ternary complex of deoxycytidylate hydroxymethylase from bacteriophage T4 with its cofactor and substrate"</strong> </a> <br/> Si Hoon Park, Se Won Suh, Hyun Kyu Song. (2019) <br/> <em>IUCrJ.</em> Volume 6, pp. 206-217. https://doi.org/10.1107/S2052252518018274
+<a href="/assets/pdf/119_SHP_NSR.pdf"> <strong>(120) "A host dTMP-bound structure of T4 phage dCMP hydroxymethylase mutant using an X-ray free electron laser"</strong> </a> <br/> Si Hoon Park, Jaehyun Park, Sang Jae Lee, Woo Seok Yang, Sehan Park, Kyungdo Kim, Zee-Yong Park & Hyun Kyu Song. (2019) <br/> <em>Sci Rep.</em> 9, 16316. https://doi.org/10.1038/s41598-019-52825-y
 
-<a href="/assets/pdf/119_SHP_NSR.pdf"> <strong>(119) "A host dTMP-bound structure of T4 phage dCMP hydroxymethylase mutant using an X-ray free electron laser"</strong> </a> <br/> Si Hoon Park, Jaehyun Park, Sang Jae Lee, Woo Seok Yang, Sehan Park, Kyungdo Kim, Zee-Yong Park & Hyun Kyu Song. (2019) <br/> <em>Sci Rep.</em> 9, 16316. https://doi.org/10.1038/s41598-019-52825-y
+<a href="/assets/pdf/jmb_jhk.pdf"> <strong>(119) "Structural and Mechanistic Insightsinto Caffeine Degradation by theBacterialN-Demethylase ComplexJun"</strong> </a> <br/> Jun Hoe Kim, Bong Heon Kim, Shelby Brooks, Seung Yeon Kang, Ryan M.Summers, Hyun Kyu Song (2019) <br/> <em>Jounal of Molecular Biology.</em> Volume 431, Issue 19, 6 Sep 2019, Pages 3647-3661. https://doi.org/10.1016/j.jmb.2019.08.004
 
-<a href="/assets/pdf/118_ykk.pdf"> <strong>(118) "eIF4A3 Phosphorylation by CDKs Affects NMD during the Cell Cycle"</strong> </a> <br/> Incheol Ryu, You-Sub Won, Hongseok Ha, Eunjin Kim, Yeonkyoung Park, Min Kyung Kim, Do Hoon Kwon, Junho Choe, Hyun Kyu Song, Hosung Jung, and Yoon Ki Kim. (2019) <br/> <em>Cell Reports.</em> Volume 26, Issue 8, 19 February 2019, Pages 2126-2139.e9
+<a href="/assets/pdf/117_okpark_molcell.pdf"> <strong>(118) "Endoribonucleolytic Cleavage of m6A-ContainingRNAs by RNase P/MRP Complex"</strong> </a> <br/> Ok Hyun Park, Hongseok Ha, Yujin Lee, Sung Ho Boo, Do Hoon Kwon, Hyun Kyu Song, Yoon Ki Kim (2019) <br/> <em>Mol Cell.</em> Volume 74, Issue 3, 2 May 2019, Pages 494-507.e8
 
-<a href="/assets/pdf/117_okpark_molcell.pdf"> <strong>(117) "Endoribonucleolytic Cleavage of m6A-ContainingRNAs by RNase P/MRP Complex"</strong> </a> <br/> Ok Hyun Park, Hongseok Ha, Yujin Lee, Sung Ho Boo, Do Hoon Kwon, Hyun Kyu Song, Yoon Ki Kim (2019) <br/> <em>Mol Cell.</em> Volume 74, Issue 3, 2 May 2019, Pages 494-507.e8
+<a href="/assets/pdf/115_Mol.Cell_HKS.pdf"> <strong>(117) "MST1 Negatively Regulates TNFα-Induced NF-κB Signaling through Modulating LUBAC Activity"</strong> </a> <br/> In Young Lee, Jane Melissa Lim, Hyunchu Cho, Eunju Kim, Yeonsil Kim, Hye-Kyung Oh, Woo Seok Yang, Kyung-Hye Roh, Hyun Woo Park, Jung-Soon Mo, Je-Hyun Yoon, Hyun KyuSong, Eui-Ju Choi (2019) <br/> <em>Mol Cell.</em> Mar 21;73(6):1138-1149.e6
 
 <a href="/assets/pdf/116_2019_iucrj_psh.pdf"> <strong>(116) "A cytosine modification mechanism revealed by the structure of a ternary complex of deoxycytidylate hydroxymethylase from bacteriophage T4 with its cofactor and substrate"</strong> </a> <br/> Si Hoon Park, Se Won Suh and Hyun Kyu Song (2019) <br/> <em>IUCrJ.</em> Jan 24;6(Pt 2):206-217
 
-<a href="/assets/pdf/115_Mol.Cell_HKS.pdf"> <strong>(115) "MST1 Negatively Regulates TNFα-Induced NF-κB Signaling through Modulating LUBAC Activity"</strong> </a> <br/> In Young Lee, Jane Melissa Lim, Hyunchu Cho, Eunju Kim, Yeonsil Kim, Hye-Kyung Oh, Woo Seok Yang, Kyung-Hye Roh, Hyun Woo Park, Jung-Soon Mo, Je-Hyun Yoon, Hyun KyuSong, Eui-Ju Choi (2019) <br/> <em>Mol Cell.</em> Mar 21;73(6):1138-1149.e6
+<a href="/assets/pdf/118_ykk.pdf"> <strong>(115) "eIF4A3 Phosphorylation by CDKs Affects NMD during the Cell Cycle"</strong> </a> <br/> Incheol Ryu, You-Sub Won, Hongseok Ha, Eunjin Kim, Yeonkyoung Park, Min Kyung Kim, Do Hoon Kwon, Junho Choe, Hyun Kyu Song, Hosung Jung, and Yoon Ki Kim. (2019) <br/> <em>Cell Reports.</em> Volume 26, Issue 8, 19 February 2019, Pages 2126-2139.e9
 
 <a href="/assets/pdf/113_2018_autophagy_KDH.pdf"> <strong>(114) "pH-dependent regulation of SQSTM1/p62 during autophagy"</strong> </a> <br/> Do Hoon Kwon, Leehyeon Kim, Hyun Kyu Song (2018) <br/> <em>Autophagy.</em> Jan;15(1):180-181
 
@@ -84,7 +88,7 @@ Arabidopsis thaliana"</strong> </a> <br/> Leehyeon Kim, Jiwon Heo, Do Hoon Kwon,
 
 <a href="/assets/pdf/102_2016_Nucleic_Acids_Res_KDH.pdf"> <strong>(102) "The structure of the pleiotropic transcription regulator CodY provides insight into its GTP-sensing mechanism"</strong> </a> <br/> Ah-reum Han, Hye-Ri Kang, Jonghyeon Son, Do Hoon Kwon, Sulhee Kim, Woo Cheol Lee, Hyun Kyu Song, Moon Jung Song, Kwang Yeon Hwang (2016) <br/> <em>Nucleic acids res.</em> 44 19 9483-9493 
 
-<a href="/assets/pdf/101_2016_PNAS_KMK.pdf"> <strong>(101) "Structural basis for dual specificity of yeast N-terminal amidase in the N-end rule pathway"</strong> </a> <br/> Min Kyung Kim, Sun Joo Oh, Byung-Gil Lee, Hyun Kyu Song (2016) <br/> <em>PNAS.</em> 201612620
+<a href="/assets/pdf/101_2016_PNAS_KMK.pdf"> <strong>(101) "Structural basis for dual specificity of yeast N-terminal amidase in the N-end rule pathway"</strong> </a> <br/> Min Kyung Kim, Sun Joo Oh, Byung-Gil Lee, Hyun Kyu Song (2016) <br/> <em>Proc Natl Acad Sci USA.</em> 201612620
 
 <a href="/assets/pdf/100_2016_Protein_Expr_Purif_KSA.pdf"> <strong>(100) "A facile method to prepare large quantities of active caspase-3 overexpressed by auto-induction in the C41(DE3) strain"</strong> </a> <br/> Hwang, D., Kim, S. A., Yang, E. G., Song, H. K. & Chung, H. S. (2016) <br/> <em>Protein Expr Purif.</em> 126 104-108
 
@@ -110,7 +114,7 @@ __(99) "Guidelines for the use and interpretation of assays for monitoring autop
 
 ## 2014
 
-<a href="/assets/pdf/90_PNAS.pdf"> <strong>(90) "eIF4AIII enhances translation of nuclear cap-binding complex-bound mRNAs by promoting disruption of secondary structures in 5'UTR"</strong> </a> <br/> Choe, J., Ryu, I., Park, O. H., Park, J., Cho, H., Yoo, J. S., Chi, S. W., Kim, M. K., Song, H. K. & Kim, Y. K. (2014) <br/> <em>Proc Natl Acad Sci U S A. </em>43, e4577-86
+<a href="/assets/pdf/90_PNAS.pdf"> <strong>(90) "eIF4AIII enhances translation of nuclear cap-binding complex-bound mRNAs by promoting disruption of secondary structures in 5'UTR"</strong> </a> <br/> Choe, J., Ryu, I., Park, O. H., Park, J., Cho, H., Yoo, J. S., Chi, S. W., Kim, M. K., Song, H. K. & Kim, Y. K. (2014) <br/> <em>Proc Natl Acad Sci USA. </em>43, e4577-86
 
 <a href="/assets/pdf/89_BBRC.pdf"> <strong>(89) "Direct recognition of the C-terminal polylysine residues of nonstop protein by Ltn1, an E3 ubiquitin ligase"</strong> </a> <br/> Sung K. H., Song, H. K. (2014) <br/> <em>Biochem Biophys Res Commun. </em>453, 642-647
 
@@ -238,7 +242,7 @@ __(99) "Guidelines for the use and interpretation of assays for monitoring autop
 
 ## 2002
 
-<a href="/assets/pdf/ravi-hslvu.pdf"> <strong>(38) "Functional interactions of HslV (ClpQ) with the ATPase HslU (ClpY)"</strong> </a> <br/> Ramachandran, R., Hartmann, C., Song, H. K., Huber, R. &amp; Bochtler, M. (2002) <br/> <em>Proc. Natl. Acad. Sci. USA</em> 99, 7396-7401. (National Academy of Sciences, USA)
+<a href="/assets/pdf/ravi-hslvu.pdf"> <strong>(38) "Functional interactions of HslV (ClpQ) with the ATPase HslU (ClpY)"</strong> </a> <br/> Ramachandran, R., Hartmann, C., Song, H. K., Huber, R. &amp; Bochtler, M. (2002) <br/> <em>Proc Natl Acad Sci USA.</em> 99, 7396-7401. (National Academy of Sciences, USA)
 
 <a href="/assets/pdf/ndk-pro.pdf"> <strong>(37) "Crystal structure of human nucleoside diphosphate kinase A, a metastasis suppressor"</strong> </a> <br/> Min, K., Song, H. K., Chang, C., Kim, S. Y., Lee, K.-J. &amp; Suh, S. W. (2002) <br/> <em>Proteins</em> 46, 340-342. (Wiley-Liss, Inc.)
 
@@ -252,13 +256,13 @@ __(99) "Guidelines for the use and interpretation of assays for monitoring autop
 
 ## 2000
 
-<a href="/assets/pdf/hks-hsluv-pnas.pdf"> <strong>(33) "Mutational studies on HslU and its docking mode with HslV"</strong> </a> <br/> Song, H. K., Hartmann, C., Ramachandran, R., Bochtler, M., Behrendt, R., Moroder, L. &amp; Huber, R. (2000) <br/> <em>Proc. Natl. Acad. Sci. USA</em> 97, 14103-14108. (National Academy of Sciences, USA)
+<a href="/assets/pdf/hks-hsluv-pnas.pdf"> <strong>(33) "Mutational studies on HslU and its docking mode with HslV"</strong> </a> <br/> Song, H. K., Hartmann, C., Ramachandran, R., Bochtler, M., Behrendt, R., Moroder, L. &amp; Huber, R. (2000) <br/> <em>Proc Natl Acad Sci USA.</em> 97, 14103-14108. (National Academy of Sciences, USA)
 
 <a href="/assets/pdf/nature-reply.pdf"> <strong>(32) "Docking of components in a bacterial complex - Reply"</strong> </a> <br/> Bochtler, M., Hartmann, C., Song, H. K., Ramachandran, R. &amp; Huber, R (2000) <br/> <em>Nature</em> 408, 668. (Nature Publishing Group) 
 
 <a href="/assets/pdf/ksm-mndk-x.pdf"> <strong>(31) "Nucleoside diphosphate kinase from the hyperthermophilic archaeon Methanococcus jannaschii : overexpression, crystallization and preliminary X-ray crystallographic analysis"</strong> </a> <br/> Min, K., Song, H. K., Chang, C., Lee, J. Y., Eom, S. H., Kim, K. K., Yu, Y. G. &amp; Suh, S. W. (2000) <br/> <em>Acta Crystallogr.</em> D56, 1485-1487. (International Union of Crystallogrphy)
 
-<a href="/assets/pdf/sjc-cyay.pdf"> <strong>(30) "Crystal structure of Escherichia coli CyaY protein reveals a previously unidentified fold for the evolutionarily conserved frataxin family"</strong> </a> <br/> Cho, S.-J., Lee, M. G., Yang, J. K., Lee, J. Y., Song, H. K. &amp; Suh, S. W. (2000) <br/> <em>Proc. Natl. Acad. Sci. USA</em> 97, 8932-8937. (National Academy of Sciences, USA)
+<a href="/assets/pdf/sjc-cyay.pdf"> <strong>(30) "Crystal structure of Escherichia coli CyaY protein reveals a previously unidentified fold for the evolutionarily conserved frataxin family"</strong> </a> <br/> Cho, S.-J., Lee, M. G., Yang, J. K., Lee, J. Y., Song, H. K. &amp; Suh, S. W. (2000) <br/> <em>Proc Natl Acad Sci USA.</em> 97, 8932-8937. (National Academy of Sciences, USA)
 
 <a href="/assets/pdf/mgl-cyay-x.pdf"> <strong>(29) "Crystallization and preliminary X-ray crystallographic analysis of Escherichia coli CyaY, a structural homologue of human frataxin"</strong> </a> <br/> Lee, M. G., Cho, S.-J., Yang, J. K. Song, H. K. &amp; Suh, S. W. (2000) <br/> <em>Acta Crystallogr.</em> D56, 920-921. (International Union of Crystallography)
 
