@@ -11,7 +11,7 @@ comments: false
 
 ## 2021
 
-<a href="/assets/pdf/134_jss_BBRC.pdf"> <strong>(134) "Crystal structure of yeast Gid10 in complex with Pro/N-degron"</strong> </a> <br/> Jin Seok Shin, Si Hoon Park, Lee hyeon Kim, Jiwon Heo, Hyun Kyu Song. (2021) <br/> <em> Biochem Biophys Res Commun.</em> Volume 582, 10 December 2021, Pages 86-92. https://doi.org/10.1016/j.bbrc.2021.10.007
+<a href="/assets/pdf/134_jss_BBRC.pdf"> <strong>(134) "Crystal structure of yeast Gid10 in complex with Pro/N-degron"</strong> </a> <br/> Jin Seok Shin, Si Hoon Park, Leehyeon Kim, Jiwon Heo, Hyun Kyu Song. (2021) <br/> <em> Biochem Biophys Res Commun.</em> Volume 582, 10 December 2021, Pages 86-92. https://doi.org/10.1016/j.bbrc.2021.10.007
 
 <a href="/assets/pdf/133_pnas_hks.pdf"> <strong>(133) "Aminopeptidases trim Xaa-Pro proteins, initiating their degradation by the Pro/N-degron pathway"</strong> </a> <br/> Shun-Jia Chen, Leehyeon Kim, Hyun Kyu Song, and Alexander Varshavsky. (2021) <br/> <em> Proc Natl Acad Sci USA.</em> 26, 118 (43) e2115430118. https://doi.org/10.1073/pnas.2115430118
 
