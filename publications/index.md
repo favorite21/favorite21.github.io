@@ -9,9 +9,17 @@ feature: "/assets/img/sspb.png"
 comments: false
 ---
 
+## 2022
+
+<a href="/assets/pdf/137_KLH_EMBO.pdf"> <strong>(137) "Structural insights into ClpP protease side exit pore‐opening by a pH drop coupled with substrate hydrolysis"</strong> </a> <br/> Leehyeon Kim, Byung‐Gil Lee, Minki Kim, Min Kyung Kim, Do Hoon Kwon, Hyunmin Kim, Heike Brötz‐Oesterhelt, Soung‐Hun Roh, Hyun Kyu Song. (2022) <br/> <em> EMBO J.</em> Pages e109755. https://doi.org/10.15252/embj.2021109755
+
+<strong>(136) "Mitochondrial protease ClpP supplementation ameliorates diet-induced NASH in mice"</strong> </a> <br/> Sung-E Choi, Yoonjung Hwang, Soo-Jin Lee, Hyunkyung Jung, Tae Hwan Shin, Youngho Son, Seokho Park, Seung Jin Han, Hae Jin Kim, Kwan Woo Lee, Gwang Lee, Jongsook Kim Kemper, Hyun Kyu Song, Yup Kang. (2022) <br/> <em> Journal of Hepatology.</em> ISSN 0168-8278. https://doi.org/10.1016/j.jhep.2022.03.034
+
+<strong>(135) "LC3B is an RNA-binding protein to trigger rapid mRNA degradation during autophagy"</strong> </a> <br/> Hyun Jung Hwang, Hongseok Ha, Ban Seok Lee, Bong Heon Kim, Hyun Kyu Song & Yoon Ki Kim. (2022) <br/> <em> Nature Communications.</em> Vol. 13, 1436, Pages 1-17. https://doi.org/10.1038/s41467-022-29139-1
+
 ## 2021
 
-<a href="/assets/pdf/134_jss_BBRC.pdf"> <strong>(134) "Crystal structure of yeast Gid10 in complex with Pro/N-degron"</strong> </a> <br/> Jin Seok Shin, Si Hoon Park, Leehyeon Kim, Jiwon Heo, Hyun Kyu Song. (2021) <br/> <em> Biochem Biophys Res Commun.</em> Volume 582, 10 December 2021, Pages 86-92. https://doi.org/10.1016/j.bbrc.2021.10.007
+<a href="/assets/pdf/134_jss_BBRC.pdf"> <strong>(134) "Crystal structure of yeast Gid10 in complex with Pro/N-degron"</strong> </a> <br/> Jin Seok Shin, Si Hoon Park, Leehyeon Kim, Jiwon Heo, Hyun Kyu Song. (2021) <br/> <em> Biochem Biophys Res Commun.</em> Volume 582, 10, Pages 86-92. https://doi.org/10.1016/j.bbrc.2021.10.007
 
 <a href="/assets/pdf/133_pnas_hks.pdf"> <strong>(133) "Aminopeptidases trim Xaa-Pro proteins, initiating their degradation by the Pro/N-degron pathway"</strong> </a> <br/> Shun-Jia Chen, Leehyeon Kim, Hyun Kyu Song, and Alexander Varshavsky. (2021) <br/> <em> Proc Natl Acad Sci USA.</em> 26, 118 (43) e2115430118. https://doi.org/10.1073/pnas.2115430118
 
