@@ -16,15 +16,16 @@ comments: false
 |----
 | ![ex_screenshot](/assets/img/psh.jpg) | __Park, Si Hoon__ | Post doc. | solli(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/sjs.jpg) | __Shin, Jin Seok__ | Post doc. | faceofblack89(a)gmail.com |
-| ![ex_screenshot](/assets/img/klh.jpg) | __Kim, Leehyeon__ | Post doc. | leehyeon(a)korea.ac.kr |
 |----
 | ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | MS/Ph. D. candidate | qhd0207(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/yws.jpg) | __Yang, Woo Seok__ | Ph. D. student | favorite21(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/kbk.jpg) | __Kim, Bokyung__ | MS student | bkim7513(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/kmk.jpg) | __Kim, Min Ki__ | MS/Ph. D. student | viva2kmg(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/hjh.jpg) | __Han, Juhyun__ | MS/Ph. D. student | hanju828(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/kms.jpg) | __Kim, Min Sang__ | Undergraduate student | mandufighting(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/lhj.jpg) | __Lee, Hyeon Jeong__ | Undergraduate student | hyeon4867(a)naver.com |
+| ![ex_screenshot](/assets/img/kms.jpg) | __Kim, Min Sang__ | MS student | mandufighting(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/lhj.jpg) | __Lee, Hyeon Jeong__ | MS/Ph. D. student | hyeon4867(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/shj.jpg) | __Shin, He Jeong__ | MS/Ph. D. student | shinhj-1014(a)naver.com |
+| ![ex_screenshot](/assets/img/lsh.jpg) | __Lee, So Hae__ | Undergraduated student | 99shhanmail(a)naver.com |
 |----
 | |
 |=====
@@ -44,6 +45,7 @@ comments: false
 | __Kim, Byeong-Won__ | Aug. 2017 | Ph. D. | kbw2010(a)crystal.harvard.edu |
 | __Kwon, Do Hoon__ | Feb. 2019 | Ph. D. | dohoon.kwon(a)duke.edu |
 | __Kim, Jun Hoe__ | Jun. 2019 | Ph. D. | k-junhoi(a)korea.ac.kr |
+| __Kim, Leehyeon__ | Jul. 2022 | Ph. D. | leehyeon(a)korea.ac.kr |
 |----
 | __Ko, Jin Young__ | Aug. 2008 | MS | Kojy(a)ckdpharm.com |
 | __Lee, Myeong-Ryeol__ | Feb. 2010 | MS | ilvanin(a)amorepacific.com |
