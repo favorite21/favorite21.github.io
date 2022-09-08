@@ -23,8 +23,8 @@ comments: false
 | ![ex_screenshot](/assets/img/kmk.jpg) | __Kim, Min Ki__ | MS/Ph. D. student | viva2kmg(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/hjh.jpg) | __Han, Juhyun__ | MS/Ph. D. student | hanju828(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/kms.jpg) | __Kim, Min Sang__ | MS student | mandufighting(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/lhj.jpg) | __Lee, Hyeon Jeong__ | MS/Ph. D. student | hyeon4867(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/shj.jpg) | __Shin, He Jeong__ | MS/Ph. D. student | shinhj-1014(a)naver.com |
+| ![ex_screenshot](/assets/img/lhj2.jpg) | __Lee, Hyeon Jeong__ | MS/Ph. D. student | hyeon4867(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/shj.jpg) | __Shin, He Jeong__ | MS/Ph. D. student | kdc0141(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/lsh.jpg) | __Lee, So Hae__ | Undergraduated student | 99shhanmail(a)naver.com |
 |----
 | |
