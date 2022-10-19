@@ -11,6 +11,8 @@ comments: false
 
 ## 2022
 
+<a href="/assets/pdf/138_PNAS_KBH.pdf"> <strong>(138) "Crystal structure of the Ate1 arginyl-tRNA-protein transferase and arginylation of N-degron substrates"</strong> </a> <br/> Bong Heon Kim, Min Kyung Kim, Sun Joo Oh, Kha The Nguyen, Jun Hoe Kim, Alexander Varshavsky, Cheol-Sang Hwang, and Hyun Kyu Song. (2022) <br/> <em> PNAS </em> Pages 119(31) e2209597119. https://doi.org/10.1073/pnas.2209597119
+
 <a href="/assets/pdf/137_KLH_EMBO.pdf"> <strong>(137) "Structural insights into ClpP protease side exit pore‐opening by a pH drop coupled with substrate hydrolysis"</strong> </a> <br/> Leehyeon Kim, Byung‐Gil Lee, Minki Kim, Min Kyung Kim, Do Hoon Kwon, Hyunmin Kim, Heike Brötz‐Oesterhelt, Soung‐Hun Roh, Hyun Kyu Song. (2022) <br/> <em> EMBO J.</em> Pages e109755. https://doi.org/10.15252/embj.2021109755
 
 <strong>(136) "Mitochondrial protease ClpP supplementation ameliorates diet-induced NASH in mice"</strong> </a> <br/> Sung-E Choi, Yoonjung Hwang, Soo-Jin Lee, Hyunkyung Jung, Tae Hwan Shin, Youngho Son, Seokho Park, Seung Jin Han, Hae Jin Kim, Kwan Woo Lee, Gwang Lee, Jongsook Kim Kemper, Hyun Kyu Song, Yup Kang. (2022) <br/> <em> Journal of Hepatology.</em> ISSN 0168-8278. https://doi.org/10.1016/j.jhep.2022.03.034
