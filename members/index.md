@@ -14,12 +14,9 @@ comments: false
 |:--------:|:-------:|:--------:|:--------|
 | ![ex_screenshot](/assets/img/prof.jpg) | __Song, Hyun Kyu__ | Principal Investigator | hksong(a)korea.ac.kr |
 |----
-| ![ex_screenshot](/assets/img/psh.jpg) | __Park, Si Hoon__ | Post doc. | solli(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/sjs.jpg) | __Shin, Jin Seok__ | Post doc. | faceofblack89(a)gmail.com |
-|----
 | ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | MS/Ph. D. candidate | qhd0207(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/yws.jpg) | __Yang, Woo Seok__ | Ph. D. student | favorite21(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/kbk.jpg) | __Kim, Bokyung__ | MS student | bkim7513(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/yws.jpg) | __Yang, Woo Seok__ | Ph. D. candidate | favorite21(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/kbk.jpg) | __Kim, Bokyung__ | MS researcher | bkim7513(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/kmk.jpg) | __Kim, Min Ki__ | MS/Ph. D. student | viva2kmg(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/hjh.jpg) | __Han, Juhyun__ | MS/Ph. D. student | hanju828(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/kms.jpg) | __Kim, Min Sang__ | MS student | mandufighting(a)korea.ac.kr |
@@ -46,6 +43,7 @@ comments: false
 | __Kwon, Do Hoon__ | Feb. 2019 | Ph. D. | dohoon.kwon(a)duke.edu |
 | __Kim, Jun Hoe__ | Jun. 2019 | Ph. D. | k-junhoi(a)korea.ac.kr |
 | __Kim, Leehyeon__ | Jul. 2022 | Ph. D. | leehyeon(a)korea.ac.kr |
+| __Park, Si Hoon__ | Oct. 2022 | Ph. D. | solli(a)korea.ac.kr |
 |----
 | __Ko, Jin Young__ | Aug. 2008 | MS | Kojy(a)ckdpharm.com |
 | __Lee, Myeong-Ryeol__ | Feb. 2010 | MS | ilvanin(a)amorepacific.com |
@@ -63,6 +61,7 @@ comments: false
 | __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77(a)hotmail.com |
 | __Kim, Hyung-Wook__ | Aug. 2004 | Researcher | parsons(a)unitel.co.kr |
 | __Jung, Yang Ouk__ | Oct. 2018 | Researcher | yojung(a)korea.ac.kr |
+| __Shin, Jin Seok__ | Sep. 2022 | Researcher | faceofblack89(a)gmail.com |
 |----
 | __Peggy C. Stolt__ | Aug. 2004 | Visiting student | peggy.stolt(a)csf.ac.at |
 | __Shelby Brooks__ | Aug. 2017 | Visiting student | sgbrooks(a)crimson.ua.edu |
