@@ -16,7 +16,7 @@ logo: assets/img/logo.jpg
 background: assets/img/background.jpg
 tiled_bg: false
 locale: en_US
-url: https://favorite21.github.io/
+url: https://song.korea.ac.kr
 permalink: "/:title/"
 markdown: kramdown
 highlighter: rouge
