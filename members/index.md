@@ -55,8 +55,8 @@ comments: false
 | __Park, Mi Rae__ | Jan. 2020 | MS |  mirae1620(a)korea.ac.kr |
 | __Heo, Ji Won__ | Jun. 2020 | MS | heoji94(a)korea.ac.kr |
 | __Lee, Ha Yeong__ | Jul. 2021 | MS | vvetha75(a)korea.ac.kr |
-| __Kim, Bokyung__ | MS | Jan.2023 | bkim7513(a)korea.ac.kr |
-| __Kim, Min Ki__ | MS | Feb.2023 | viva2kmg(a)korea.ac.kr |
+| __Kim, Bokyung__ | Jan.2023 | MS | bkim7513(a)korea.ac.kr |
+| __Kim, Min Ki__ | Feb.2023 | MS | viva2kmg(a)korea.ac.kr |
 
 |----
 | __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77(a)hotmail.com |
