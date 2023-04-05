@@ -57,7 +57,6 @@ comments: false
 | __Lee, Ha Yeong__ | Jul. 2021 | MS | vvetha75(a)korea.ac.kr |
 | __Kim, Bokyung__ | Jan.2023 | MS | bkim7513(a)korea.ac.kr |
 | __Kim, Min Ki__ | Feb.2023 | MS | viva2kmg(a)korea.ac.kr |
-
 |----
 | __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77(a)hotmail.com |
 | __Kim, Hyung-Wook__ | Aug. 2004 | Researcher | parsons(a)unitel.co.kr |
@@ -68,4 +67,3 @@ comments: false
 | __Shelby Brooks__ | Aug. 2017 | Visiting student | sgbrooks(a)crimson.ua.edu |
 |=====
 {: rules="groups"}
-
