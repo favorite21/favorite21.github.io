@@ -11,23 +11,20 @@ comments: false
 
 ## 2023
 
-<a href="assets/pdf/143_2023_Structure and Activation of the RING E3 ubiquitin Ligase TRIM72 on the Membrane.pdf"> <strong>(143) "Structure and activation of the RING E3 ubiquitin ligase TRIM72 on the membrane"</strong> </a> <br/> Si Hoon Park, Juhyun Han, Byung-Cheon Jeong, Ju Han Song, Se Hwan Jang, Hyeongseop Jeong, Bong Heon Kim, Young-Gyu Ko, Zee-Yong Park, Kyung Eun Lee, Jaekyung Hyun, Hyun Kyu Song. (2023) <br/> <em> Nat Struct Mol Biol </em> 30, 1695–1706 
-https://doi.org/10.1038/s41594-023-01111-7
+<a href="assets/pdf/143_2023_NSMB.pdf"> <strong>(143) "Structure and activation of the RING E3 ubiquitin ligase TRIM72 on the membrane"</strong> </a> <br/> Si Hoon Park, Juhyun Han, Byung-Cheon Jeong, Ju Han Song, Se Hwan Jang, Hyeongseop Jeong, Bong Heon Kim, Young-Gyu Ko, Zee-Yong Park, Kyung Eun Lee, Jaekyung Hyun, Hyun Kyu Song. (2023) <br/> <em> Nat Struct Mol Biol </em> 30, 1695–1706 https://doi.org/10.1038/s41594-023-01111-7
 
-<a href="assets/pdf/142_2023_A CRISPR activatioin Screen Identifies MUC-21 as Critical for Resistance to NK T Cell mediated cytotoxicity.pdf"> <strong>(142) "A CRISPR activation screen identifies MUC-21 as critical for resistance to NK and T cell-mediated cytotoxicity"</strong> </a> <br/> Dong-hee Lee, Hyejin Ahn, Hye-In Sim, Eunji Choi, Seunghyun Choi, Yunju Jo, Bohwan Yun, Hyun Kyu Song, Soo Jin Oh, Kaori Denda-Nagai, Chan-Sik Park, Tatsuro Irimura, Yoon Park, Hyung-seung Jin. (2023) <br/> <em> J Exp Clin Cancer Res </em> 42, 272. https://doi.org/10.1186/s13046-023-02840-9
+<a href="assets/pdf/142_2023_BMC.pdf"> <strong>(142) "A CRISPR activation screen identifies MUC-21 as critical for resistance to NK and T cell-mediated cytotoxicity"</strong> </a> <br/> Dong-hee Lee, Hyejin Ahn, Hye-In Sim, Eunji Choi, Seunghyun Choi, Yunju Jo, Bohwan Yun, Hyun Kyu Song, Soo Jin Oh, Kaori Denda-Nagai, Chan-Sik Park, Tatsuro Irimura, Yoon Park, Hyung-seung Jin. (2023) <br/> <em> J Exp Clin Cancer Res </em> 42, 272. https://doi.org/10.1186/s13046-023-02840-9
 
-<a href="assets/pdf/141_2023Development of new tools to study membrane-anchored mammalian Atg8 proteins.pdf"> <strong>(141) "Development of new tools to study membrane-anchored mammalian Atg8 proteins"</strong> </a> <br/> Sang-Won Park, Pureum Jeon, Akinori Yamasaki, Hye Eun Lee, Haneul Choi, Ji Young Mun, Yong-Woo Jun, Ju-Hui Park, Seung-Hwan Lee, Soo-Kyeong Lee, You-Kyung Lee, Hyun Kyu Song, Michael Lazarou, Dong-Hyong Cho, Masaaki Komatsu, Nobuo N Noda, Deok-Jin Jang, Jin-A Lee. (2023) <br/> <em> AUTOPHAGY </em> 2023, VOL. 19, NO. 5, 1424–1443
+<a href="assets/pdf/141_2023_Autophagy.pdf"> <strong>(141) "Development of new tools to study membrane-anchored mammalian Atg8 proteins"</strong> </a> <br/> Sang-Won Park, Pureum Jeon, Akinori Yamasaki, Hye Eun Lee, Haneul Choi, Ji Young Mun, Yong-Woo Jun, Ju-Hui Park, Seung-Hwan Lee, Soo-Kyeong Lee, You-Kyung Lee, Hyun Kyu Song, Michael Lazarou, Dong-Hyong Cho, Masaaki Komatsu, Nobuo N Noda, Deok-Jin Jang, Jin-A Lee. (2023) <br/> <em> AUTOPHAGY </em> 2023, VOL. 19, NO. 5, 1424–1443
 https://doi.org/10.1080/15548627.2022.2132040
 
-<a href="assets/pdf/140_2023_in vitro Productionof N-degron Fused Proteins and Its Application.pdf"> <strong>(140) "
-In vitro production of N-degron fused proteins and its application"</strong> </a> <br/> Bong Heon Kim, Do Hoon Kwon, Leehyeon Kim, Woo Seok Yang, Hyun Kyu Song. (2023) <br/> <em> Methods in Enzymology, 10 Mar 2023, 686:99-123 
-https://doi.org/10.1016/bs.mie.2023.02.002
+<a href="assets/pdf/140_2023_Methodinenzymeology.pdf"> <strong>(140) "In vitro production of N-degron fused proteins and its application"</strong> </a> <br/> Bong Heon Kim, Do Hoon Kwon, Leehyeon Kim, Woo Seok Yang, Hyun Kyu Song. (2023) <br/> <em> Methods in Enzymology, 10 Mar 2023, 686:99-123 https://doi.org/10.1016/bs.mie.2023.02.002
 
-<a href="assets/pdf/139_2023_MoleculesandCells_QuoVadisExperimentalStructuralBiology.pdf"> <strong>(139) "Quo Vadis Experimental Structural Biology?"</strong> </a> <br/> Hyun Kyu Song. (2023) <br/> <em> Molecules and Cells </em> 46(2): 71–73  https://doi.org/10.14348/molcells.2023.2197
+<a href="assets/pdf/139_2023_MoleculesandCells.pdf"> <strong>(139) "Quo Vadis Experimental Structural Biology?"</strong> </a> <br/> Hyun Kyu Song. (2023) <br/> <em> Molecules and Cells </em> 46(2): 71–73 https://doi.org/10.14348/molcells.2023.2197
 
 ## 2022
 
-<a href="assets/pdf/138 PNAS KBH.pdf"> <strong>(138) "Crystal structure of the Ate1 arginyl-tRNA-protein transferase and arginylation of N-degron substrates"</strong> </a> <br/> Bong Heon Kim, Min Kyung Kim, Sun Joo Oh, Kha The Nguyen, Jun Hoe Kim, Alexander Varshavsky, Cheol-Sang Hwang, and Hyun Kyu Song. (2022) <br/> <em> PNAS </em> Pages 119(31) e2209597119. https://doi.org/10.1073/pnas.2209597119
+<a href="assets/pdf/138_2023_PNAS_KBH.pdf"> <strong>(138) "Crystal structure of the Ate1 arginyl-tRNA-protein transferase and arginylation of N-degron substrates"</strong> </a> <br/> Bong Heon Kim, Min Kyung Kim, Sun Joo Oh, Kha The Nguyen, Jun Hoe Kim, Alexander Varshavsky, Cheol-Sang Hwang, and Hyun Kyu Song. (2022) <br/> <em> PNAS </em> Pages 119(31) e2209597119. https://doi.org/10.1073/pnas.2209597119
 
 <a href="/assets/pdf/137_KLH_EMBO.pdf"> <strong>(137) "Structural insights into ClpP protease side exit pore‐opening by a pH drop coupled with substrate hydrolysis"</strong> </a> <br/> Leehyeon Kim, Byung‐Gil Lee, Minki Kim, Min Kyung Kim, Do Hoon Kwon, Hyunmin Kim, Heike Brötz‐Oesterhelt, Soung‐Hun Roh, Hyun Kyu Song. (2022) <br/> <em> EMBO J.</em> Pages e109755. https://doi.org/10.15252/embj.2021109755
 
