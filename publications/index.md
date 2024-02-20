@@ -201,9 +201,9 @@ __(99) "Guidelines for the use and interpretation of assays for monitoring autop
 
 ## 2009
 
-<a href="/assets/pdf/twwhon-xtal-jac.pdf"> <strong>(63) "Biochemical and structural characterization of 5'-methylthioadenosine nucleosidases from <em>Arabidopsis thaliana</em>"</strong> </a> <br/> Whon, T. W., Lee, Y.-H., Lee, D.-S., Ah, Song, H. K. &amp; Kim, S.-G. (2009) <br/> <em>J. Applied Crystallogr. </em>42, 975-976. (International Union of Crystallography)
+<a href="/assets/pdf/twwhon-xtal-jac.pdf"> <strong>(63) "A simple technique to convert sitting-drop vapor diffusion into hanging-drop vapor diffusion by solidifying the reservoir solution with agarose"</strong> </a> <br/> Whon, T. W., Lee, Y.-H., Lee, D.-S., Ah, Song, H. K. &amp; Kim, S.-G. (2009) <br/> <em>J. Applied Crystallogr. </em>42, 975-976. (International Union of Crystallography)
 
-<a href="/assets/pdf/eypark-MTAN2-bbrc.pdf"> <strong>(62) "A simple technique to convert sitting-drop vapor diffusion into hanging-drop vapor diffusion by solidifying the reservoir solution with agarose"</strong> </a> <br/> Park, E. Y., Choi, W. S., Oh, S. I., Kim, K. N., Shin, J. S. &amp; Song, H. K. (2009) <br/> <em>Biochem. Biophys. Res. Commun. </em>381, 619-924. (Elsevier Inc.)
+<a href="/assets/pdf/eypark-MTAN2-bbrc.pdf"> <strong>(62) "Biochemical and structural characterization of 5'-methylthioadenosine nucleosidases from <em>Arabidopsis thaliana</em>"</strong> </a> <br/> Park, E. Y., Choi, W. S., Oh, S. I., Kim, K. N., Shin, J. S. &amp; Song, H. K. (2009) <br/> <em>Biochem. Biophys. Res. Commun. </em>381, 619-924. (Elsevier Inc.)
 
 <a href="/assets/pdf/yhhong-stam-febs.pdf"> <strong>(61) "Identification of a novel ubiquitin binding site of STAM1 VHS domain by NMR spectroscopy"</strong> </a> <br/> Hong, Y. H., Ahn, H. C., Lim, J., Kim, H. M., Ji, H. Y., Lee, S., Kim, J. H., Park, E. Y., Song, H. K. &amp; Lee, B. J. (2009) <br/> <em>FEBS Lett. </em>583, 287-292. (Federation of European Biochemical Societies)
 
