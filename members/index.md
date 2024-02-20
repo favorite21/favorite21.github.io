@@ -29,36 +29,36 @@ comments: false
 
 ## Alumnis
 
-| Name | Until | Degree | E-mail |
-|:--------|:-------:|:--------:|:--------|
-| __Kwon, Oh Yeun__ | Feb. 2009 | Ph. D. | enigmakwon(a)khidi.or.kr |
-| __Park, Eun Young__ | Feb. 2010 | Ph. D. | eunyoung(a)red.dfci.harvard.edu |
-| __Lee, Byung-Gil__ | Dec. 2012 | Ph. D. | blee(a)mrc-lmb.cam.ac.uk |
-| __Jeong, Byung-Cheon__ | Feb. 2013 | Ph. D. | Byung-Cheon.Jeong(a)UTSouthwestern.edu |
-| __Hong, Seung Beom__ | Sep. 2013 | Ph. D. | Seungbeom.Hong(a)nyumc.org |
-| __Sung, Kwang Hoon__ | Sep. 2014 | Ph. D. | sternen(a)gmail.com |
-| __Kim, Min Kyung__ | Jun. 2017 | Ph. D. | tara86(a)korea.ac.kr |
-| __Kim, Byeong-Won__ | Aug. 2017 | Ph. D. | kbw2010(a)crystal.harvard.edu |
-| __Kwon, Do Hoon__ | Feb. 2019 | Ph. D. | dohoon.kwon(a)duke.edu |
-| __Kim, Jun Hoe__ | Jun. 2019 | Ph. D. | k-junhoi(a)korea.ac.kr |
-| __Kim, Leehyeon__ | Jul. 2022 | Ph. D. | leehyeon(a)korea.ac.kr |
-| __Park, Si Hoon__ | Oct. 2022 | Ph. D. | solli(a)korea.ac.kr |
+| Name | Until | Degree | E-mail | Current Position |
+|:--------|:-------:|:--------:|:--------:|:--------|
+| __Kwon, Oh Yeun__ | Feb. 2009 | Ph. D. | enigmakwon(a)khidi.or.kr | - |
+| __Park, Eun Young__ | Feb. 2010 | Ph. D. | eunyoung(a)red.dfci.harvard.edu | - |
+| __Lee, Byung-Gil__ | Dec. 2012 | Ph. D. | blee(a)mrc-lmb.cam.ac.uk | - |
+| __Jeong, Byung-Cheon__ | Feb. 2013 | Ph. D. | Byung-Cheon.Jeong(a)UTSouthwestern.edu | - |
+| __Hong, Seung Beom__ | Sep. 2013 | Ph. D. | Seungbeom.Hong(a)nyumc.org | - |
+| __Sung, Kwang Hoon__ | Sep. 2014 | Ph. D. | sternen(a)gmail.com | - |
+| __Kim, Min Kyung__ | Jun. 2017 | Ph. D. | tara86(a)korea.ac.kr | - |
+| __Kim, Byeong-Won__ | Aug. 2017 | Ph. D. | kbw2010(a)crystal.harvard.edu | - |
+| __Kwon, Do Hoon__ | Feb. 2019 | Ph. D. | dohoon.kwon(a)duke.edu | - |
+| __Kim, Jun Hoe__ | Jun. 2019 | Ph. D. | k-junhoi(a)korea.ac.kr | - |
+| __Kim, Leehyeon__ | Jul. 2022 | Ph. D. | leehyeon(a)korea.ac.kr | - |
+| __Park, Si Hoon__ | Oct. 2022 | Ph. D. | solli(a)korea.ac.kr | - |
 |----
-| __Ko, Jin Young__ | Aug. 2008 | MS | Kojy(a)ckdpharm.com |
-| __Lee, Myeong-Ryeol__ | Feb. 2010 | MS | ilvanin(a)amorepacific.com |
-| __Choi, Woo Suk__ | Aug. 2010 | MS | woosuk.choi(a)stonybrook.edu |
-| __Lee, So Yeon__ | Feb. 2013 | MS | soyeon.verena(a)gmail.com |
-| __Lee, Ji Young__ | Sep. 2014 | MS | jiyounglee4831(a)gmail.com |
-| __Oh, Sun Joo__ | Feb. 2017 | MS |  sunjoo9359(a)korea.ac.kr |
-| __Kuk, Yong-Boo__ | Feb. 2018 | MS | ringx9(a)naver.com |
-| __Kang, Seung Yeon__ | Aug. 2019 | MS | seungyeon_-(a)korea.ac.kr |
-| __Sung, Eunji__ | Jan. 2020 | MS | sung0416(a)naver.com |
-| __Park, Mi Rae__ | Jan. 2020 | MS |  mirae1620(a)korea.ac.kr |
-| __Heo, Ji Won__ | Jun. 2020 | MS | heoji94(a)korea.ac.kr |
-| __Lee, Ha Yeong__ | Jul. 2021 | MS | vvetha75(a)korea.ac.kr |
-| __Kim, Bokyung__ | Jan.2023 | MS | bkim7513(a)korea.ac.kr |
-| __Kim, Min Ki__ | Feb.2023 | MS | viva2kmg(a)korea.ac.kr |
-| __Kim, Min Sang__ |Feb.2024 | MS | mandufighting(a)korea.ac.kr |
+| __Ko, Jin Young__ | Aug. 2008 | MS | Kojy(a)ckdpharm.com | - |
+| __Lee, Myeong-Ryeol__ | Feb. 2010 | MS | ilvanin(a)amorepacific.com | - |
+| __Choi, Woo Suk__ | Aug. 2010 | MS | woosuk.choi(a)stonybrook.edu | - |
+| __Lee, So Yeon__ | Feb. 2013 | MS | soyeon.verena(a)gmail.com | - |
+| __Lee, Ji Young__ | Sep. 2014 | MS | jiyounglee4831(a)gmail.com | - |
+| __Oh, Sun Joo__ | Feb. 2017 | MS |  sunjoo9359(a)korea.ac.kr | - |
+| __Kuk, Yong-Boo__ | Feb. 2018 | MS | ringx9(a)naver.com | - |
+| __Kang, Seung Yeon__ | Aug. 2019 | MS | seungyeon_-(a)korea.ac.kr | - |
+| __Sung, Eunji__ | Jan. 2020 | MS | sung0416(a)naver.com | - |
+| __Park, Mi Rae__ | Jan. 2020 | MS |  mirae1620(a)korea.ac.kr | - |
+| __Heo, Ji Won__ | Jun. 2020 | MS | heoji94(a)korea.ac.kr | - |
+| __Lee, Ha Yeong__ | Jul. 2021 | MS | vvetha75(a)korea.ac.kr | Samsung Biologics |
+| __Kim, Bokyung__ | Jan.2023 | MS | bkim7513(a)korea.ac.kr | - |
+| __Kim, Min Ki__ | Feb.2023 | MS | viva2kmg(a)korea.ac.kr | - |
+| __Kim, Min Sang__ |Feb.2024 | MS | mandufighting(a)korea.ac.kr | - |
 |----
 | __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77(a)hotmail.com |
 | __Kim, Hyung-Wook__ | Aug. 2004 | Researcher | parsons(a)unitel.co.kr |
