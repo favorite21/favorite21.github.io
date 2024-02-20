@@ -17,7 +17,6 @@ comments: false
 | ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | MS/Ph. D. candidate | qhd0207(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/yws.jpg) | __Yang, Woo Seok__ | Ph. D. candidate | favorite21(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/hjh.jpg) | __Han, Juhyun__ | MS/Ph. D. student | hanju828(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/kms.jpg) | __Kim, Min Sang__ | MS student | mandufighting(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/lhj2.jpg) | __Lee, Hyeon Jeong__ | MS/Ph. D. student | hyeon4867(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/shj.jpg) | __Shin, He Jeong__ | MS/Ph. D. student | kdc0141(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/lsh.jpg) | __Lee, So Hae__ | MS student | 99shhanmail(a)naver.com |
@@ -59,6 +58,7 @@ comments: false
 | __Lee, Ha Yeong__ | Jul. 2021 | MS | vvetha75(a)korea.ac.kr |
 | __Kim, Bokyung__ | Jan.2023 | MS | bkim7513(a)korea.ac.kr |
 | __Kim, Min Ki__ | Feb.2023 | MS | viva2kmg(a)korea.ac.kr |
+| __Kim, Min Sang__ |Feb.2024 | MS | mandufighting(a)korea.ac.kr |
 |----
 | __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77(a)hotmail.com |
 | __Kim, Hyung-Wook__ | Aug. 2004 | Researcher | parsons(a)unitel.co.kr |
