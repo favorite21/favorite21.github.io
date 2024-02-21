@@ -34,6 +34,12 @@ https://doi.org/10.1080/15548627.2022.2132040
 
 <strong>(136) "Mitochondrial protease ClpP supplementation ameliorates diet-induced NASH in mice"</strong> </a> <br/> Sung-E Choi, Yoonjung Hwang, Soo-Jin Lee, Hyunkyung Jung, Tae Hwan Shin, Youngho Son, Seokho Park, Seung Jin Han, Hae Jin Kim, Kwan Woo Lee, Gwang Lee, Jongsook Kim Kemper, Hyun Kyu Song, Yup Kang. (2022) <br/> <em> Journal of Hepatology.</em> ISSN 0168-8278. https://doi.org/10.1016/j.jhep.2022.03.034
 
+<strong>(136) "LAG-3xPD-L1 bispecific antibody potentiates antitumor responses of T cells through dendritic cell activation"</strong> </a> <br/> Eunsil Sung, Minkyung Ko, Ju-young Won, Yunju Jo, Eunyoung Park, Hyunjoo Kim, Eunji Choi, Ui-jung Jung, Jaehyoung Jeon, Youngkwang Kim, Hyejin Ahn, Da-som Choi, Seunghyun Choi, Youngeun Hong, Hyeyoung Park, Hanbyul Lee, Yong-Gyu Son, Kyeongsu Park, Jonghwa Won, Soo Jin Oh, Seonmin Lee, Kyu-pyo Kim, Changhoon Yoo, Hyun Kyu Song, Hyung-seung Jin, Jaeho Jung, Yoon Park. (2022) <br/> <em> Molecular Therapy 30 (8), 2800-2816. https://doi.org/10.1016/j.ymthe.2022.05.003
+
+<strong>(136) "One-pot conversion of engineered poplar into biochemicals and biofuels using biocompatible deep eutectic solvents"</strong> </a> <br/> Kwang Ho Kim, Yaseen Mottiar, Keunhong Jeong, Phuong Hoang Nguyen Tran, Ngoc Tuan Tran, Jingshun Zhuang, Chang Soo Kim, Hyunjoo Lee, Gyeongtaek Gong, Ja Kyong Ko, Sun-Mi Lee, So Young Kim, Ji Yeon Shin, Hanseob Jeong, Hyun Kyu Song, Chang Geun Yoo, Nak-Kyoon Kim, Shawn D Mansfield. (2022) <br/> <em> Green Chemistry 24 (23), 9055-9068 DOI: 10.1039/D2GC02774G
+
+<strong>(136) "Potential of colostrum-derived exosomes for promoting hair regeneration through the transition from telogen to anagen phase"</strong> </a> <br/> Hyosuk Kim, Yeongji Jang, Eun Hye Kim, Hochung Jang, Haeun Cho, Geonhee Han, Hyun Kyu Song, Sun Hwa Kim, Yoosoo Yang. (2022) <br/> <em> Frontiers in Cell and Developmental Biology 10, 815205. https://doi.org/10.3389/fcell.2022.815205
+
 <strong>(135) "LC3B is an RNA-binding protein to trigger rapid mRNA degradation during autophagy"</strong> </a> <br/> Hyun Jung Hwang, Hongseok Ha, Ban Seok Lee, Bong Heon Kim, Hyun Kyu Song & Yoon Ki Kim. (2022) <br/> <em> Nature Communications.</em> Vol. 13, 1436, Pages 1-17. https://doi.org/10.1038/s41467-022-29139-1
 
 ## 2021
