@@ -9,6 +9,10 @@ feature: "/assets/img/sspb.png"
 comments: false
 ---
 
+## 2024
+(144) "Polymorphic Self-Assembly with Procedural Flexibility for Monodisperse Quaternary Protein Structures of DegQ Enzymes"</strong> </a> <br/> Hanul Jeon, Ah-Reum Han, Sangmin Oh, Jin-Gyeong Park, Myeong Namkoong, Kyeong-Mi Bang, Ho Min Kim, Nak-Kyoon Kim, Kwang Yeon Hwang, Kahyun Hur, Bong-Jin Lee, Jeongyun Heo, Sehoon Kim, Hyun Kyu Song, Hyesung Cho, In-Gyun Lee. (2024) <br/> <em> Advanced Materials </em> https://doi.org/10.1002/adma.202308837
+
+
 ## 2023
 
 <a href="assets/pdf/143_2023_NSMB.pdf"> <strong>(143) "Structure and activation of the RING E3 ubiquitin ligase TRIM72 on the membrane"</strong> </a> <br/> Si Hoon Park, Juhyun Han, Byung-Cheon Jeong, Ju Han Song, Se Hwan Jang, Hyeongseop Jeong, Bong Heon Kim, Young-Gyu Ko, Zee-Yong Park, Kyung Eun Lee, Jaekyung Hyun, Hyun Kyu Song. (2023) <br/> <em> Nat Struct Mol Biol </em> 30, 1695–1706 https://doi.org/10.1038/s41594-023-01111-7
