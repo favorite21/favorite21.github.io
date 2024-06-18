@@ -6,7 +6,7 @@ excerpt: "Congratulation! Dr.Lee Byung-Gil Appointed as professor at Gachon Univ
 comments: true
 ---
 
-![ex_screenshot](assets/img/LeeByungGIl.png)
+![ex_screenshot](assets/img/LeeByungGIl.jpg)
 
 <br/>
 구조생물학 연구실 졸업생 이병길 박사님께서 가천대학교 의예과 조교수로 부임하셨습니다. 축하드립니다!
