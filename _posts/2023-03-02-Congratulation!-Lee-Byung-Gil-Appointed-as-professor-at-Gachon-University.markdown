@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Congratulation! Lee Byung-Gil Appointed as professor at Gachon University"
+title: "Congratulation! Dr.Lee Byung-Gil Appointed as professor at Gachon University"
 date: 2023-03-02
-excerpt: "Congratulation! Lee Byung-Gil Appointed as professor at Gachon University"
+excerpt: "Congratulation! Dr.Lee Byung-Gil Appointed as professor at Gachon University"
 comments: true
 ---
 
