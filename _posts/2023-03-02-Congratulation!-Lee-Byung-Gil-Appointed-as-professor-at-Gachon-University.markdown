@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Congratulation! Dr.Lee Byung-Gil Appointed as professor at Gachon University"
+title: "축하합니다! 이병길 박사님께서 가천대학교 의예과에 임용되셨습니다 (2023. 03 임용)"
 date: 2023-03-02
-excerpt: "Congratulation! Dr.Lee Byung-Gil Appointed as professor at Gachon University"
+excerpt: "축하합니다! 이병길 박사님께서 가천대학교 의예과에 임용되셨습니다 (2023. 03 임용)"
 comments: true
 ---
 
