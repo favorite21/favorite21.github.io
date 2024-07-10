@@ -62,7 +62,7 @@ comments: false
 |----
 | __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77(a)hotmail.com | - |
 | __Kim, Hyung-Wook__ | Aug. 2004 | Researcher | hwkim(a)ezpat.com | EZ International Patent & Trademark, Korea |
-| __Jung, Yang Ouk__ | Oct. 2018 | Postdoc | yojung78(a)gmail.com | Samsung Epis, Korea |
+| __Jung, Yang Ouk__ | Oct. 2018 | Postdoc | yojung78(a)gmail.com | Samsung BioEpis, Korea |
 | __Shin, Jin Seok__ | Sep. 2022 | Researcher | faceofblack89(a)gmail.com | - |
 |----
 | __Peggy C. Stolt__ | Aug. 2004 | Visiting student | peggy.stolt(a)csf.ac.at |
