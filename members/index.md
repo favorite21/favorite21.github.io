@@ -31,11 +31,11 @@ comments: false
 
 | Name | Until | Degree | E-mail | Current Position |
 |:--------|:-------:|:--------:|:--------:|:--------|
-| __Kwon, Oh Yeun__ | Feb. 2009 | Ph.D. | enigmakwon(a)khidi.or.kr | - |
+| __Kwon, Oh Yeun__ | Feb. 2009 | Ph.D. | enigmakwon(a)khidi.or.kr | Korea Health Industry Development Institute |
 | __Park, Eun Young__ | Feb. 2010 | Ph.D. | cryoman99(a)gmail.com | Principal Scientist, SyntheX, San Francisco, USA |
 | __Lee, Byung-Gil__ | Dec. 2012 | Ph.D. | bgfold(a)gachon.ac.kr | Assistant Professor, College of Medicine, Gachon University |
 | __Jeong, Byung-Cheon__ | Feb. 2013 | Ph.D. | lovejbc(a)gmail.com | Investigator II, CSL Seqirus, Waltham, USA |
-| __Hong, Seung Beom__ | Sep. 2013 | Ph.D. | Seungbeom.Hong(a)nyumc.org | - |
+| __Hong, Seung Beom__ | Sep. 2013 | Ph.D. | Seungbeom.Hong(a)nyumc.org | Researcher, King Abdullah University of Science and Technology (KAUST), Saudi Arabia |
 | __Sung, Kwang Hoon__ | Sep. 2014 | Ph.D. | sternen(a)gmail.com | CEO, ProteinStimmer, Korea |
 | __Kim, Min Kyung__ | Jun. 2017 | Ph.D. | minkim(a)gachon.ac.kr | Assistant Professor, College of Pharmacy, Gachon University |
 | __Kim, Byeong-Won__ | Aug. 2017 | Ph.D. | kbw2010(a)crystal.harvard.edu | Senior Scientist, KBIOhealth, Korea |
@@ -47,12 +47,13 @@ comments: false
 | __Ko, Jin Young__ | Aug. 2008 | MS | Kojy(a)ckdpharm.com | Principal Scientist, Chong Kun Dang Parma, Korea |
 | __Lee, Myeong-Ryeol__ | Feb. 2010 | MS | ilvanin(a)amorepacific.com | Amorepacific Inc., Korea |
 | __Choi, Woo Suk__ | Aug. 2010 | MS | woosuk.choi(a)stonybrook.edu | Scientist, Johnson & Johnson, San Diego, USA |
+| __Whon, Tae Woong__ | Aug. 2010 | MS | twwhon@wikim.re.kr | Senior Researcher, Kimchi Functionality Research Group, World Institute of Kimchi (WIKIM), Korea |
 | __Lee, So Yeon__ | Feb. 2013 | MS | soyeon.verena(a)gmail.com | - |
-| __Lee, Ji Young__ | Sep. 2014 | MS | jiyounglee4831(a)gmail.com | - |
-| __Oh, Sun Joo__ | Feb. 2017 | MS |  sunjoo9359(a)korea.ac.kr | - |
+| __Lee, Ji Young__ | Sep. 2014 | MS | jiyounglee4831(a)gmail.com | Gyeonggido Office of Education |
+| __Oh, Sun Joo__ | Feb. 2017 | MS |  sunjoo9359(a)korea.ac.kr | CEO, SlowBowls, Korea |
 | __Kuk, Yong-Boo__ | Feb. 2018 | MS | ringx9(a)naver.com | Scientist, Arkgenbioscions, Korea |
 | __Kang, Seung Yeon__ | Aug. 2019 | MS | syeon_kang95(a)naver.com | Principal Scientist, Chong Kun Dang Parma, Korea |
-| __Sung, Eunji__ | Jan. 2020 | MS | sung0416(a)naver.com | - |
+| __Sung, Eunji__ | Jan. 2020 | MS | sung0416(a)naver.com | Researcher, Samsung Biologics, Korea |
 | __Park, Mi Rae__ | Jan. 2020 | MS |  mirae1620(a)korea.ac.kr | College of Dentistry, Kyung Hee University |
 | __Heo, Ji Won__ | Jun. 2020 | MS | heoji94(a)korea.ac.kr | Patent Attorney |
 | __Lee, Ha Yeong__ | Jul. 2021 | MS | vvetha75(a)korea.ac.kr | Samsung Biologics, Korea |
