@@ -35,7 +35,7 @@ comments: false
 | __Park, Eun Young__ | Feb. 2010 | Ph.D. | cryoman99(a)gmail.com | Principal Scientist, SyntheX, San Francisco, USA |
 | __Lee, Byung-Gil__ | Dec. 2012 | Ph.D. | bgfold(a)gachon.ac.kr | Assistant Professor, College of Medicine, Gachon University |
 | __Jeong, Byung-Cheon__ | Feb. 2013 | Ph.D. | lovejbc(a)gmail.com | Investigator II, CSL Seqirus, Waltham, USA |
-| __Hong, Seung Beom__ | Sep. 2013 | Ph.D. | Seungbeom.Hong(a)nyumc.org | Researcher, King Abdullah University of Science and Technology (KAUST), Saudi Arabia |
+| __Hong, Seung Beom__ | Sep. 2013 | Ph.D. | Seungbeom.Hong(a)nyumc.org   | Researcher, King Abdullah University of Science and Technology (KAUST), Saudi Arabia |
 | __Sung, Kwang Hoon__ | Sep. 2014 | Ph.D. | sternen(a)gmail.com | CEO, ProteinStimmer, Korea |
 | __Kim, Min Kyung__ | Jun. 2017 | Ph.D. | minkim(a)gachon.ac.kr | Assistant Professor, College of Pharmacy, Gachon University |
 | __Kim, Byeong-Won__ | Aug. 2017 | Ph.D. | kbw2010(a)crystal.harvard.edu | Senior Scientist, KBIOhealth, Korea |
