@@ -64,7 +64,7 @@ comments: false
 | __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77(a)hotmail.com | - |
 | __Kim, Hyung-Wook__ | Aug. 2004 | Researcher | hwkim(a)ezpat.com | EZ International Patent & Trademark, Korea |
 | __Jung, Yang Ouk__ | Oct. 2018 | Postdoc | yojung78(a)gmail.com | Principal Scientist, Samsung Biospis, Korea |
-| __Shin, Jin Seok__ | Sep. 2022 | Researcher | faceofblack89(a)gmail.com | - |
+| __Shin, Jin Seok__ | Sep. 2022 | Postdoc | faceofblack89(a)gmail.com | Principal Scientist, Sartorius, Korea |
 |----
 | __Peggy C. Stolt__ | Aug. 2004 | Visiting student | peggy.stolt(a)csf.ac.at | Principal Scientist, Boehringer Ingelheim |
 | __Shelby Brooks__ | Aug. 2017 | Visiting student | sgbrooks(a)crimson.ua.edu | Staff Scientist, Glycosyn LLC, USA |
