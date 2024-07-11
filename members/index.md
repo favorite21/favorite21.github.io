@@ -31,7 +31,6 @@ comments: false
 
 | Name | Until | Degree | E-mail | Current Position |
 |:--------|:-------:|:--------:|:--------:|:--------|
-| __Kwon, Oh Yeun__ | Feb. 2009 | Ph.D. | enigmakwon(a)khidi.or.kr | Korea Health Industry Development Institute |
 | __Park, Eun Young__ | Feb. 2010 | Ph.D. | cryoman99(a)gmail.com | Principal Scientist, SyntheX, San Francisco, USA |
 | __Lee, Byung-Gil__ | Dec. 2012 | Ph.D. | bgfold(a)gachon.ac.kr | Assistant Professor, College of Medicine, Gachon University |
 | __Jeong, Byung-Cheon__ | Feb. 2013 | Ph.D. | lovejbc(a)gmail.com | Investigator II, CSL Seqirus, Waltham, USA |
