@@ -48,7 +48,7 @@ comments: false
 | __Lee, Myeong-Ryeol__ | Feb. 2010 | MS | ilvanin(a)amorepacific.com | Amorepacific Inc., Korea |
 | __Choi, Woo Suk__ | Aug. 2010 | MS | woosuk.choi(a)stonybrook.edu | Scientist, Johnson & Johnson, San Diego, USA |
 | __Whon, Tae Woong__ | Aug. 2010 | MS | twwhon@wikim.re.kr | Senior Researcher, Kimchi Functionality Research Group, World Institute of Kimchi (WIKIM), Korea |
-| __Young Jee Jeong__ | Feb. 2012 | MS | galateria@hanmail.net | Dong-A Pharm. KoreaDong-A Pharm. Korea |
+| __Jeong, Young Jee__ | Feb. 2012 | MS | galateria@hanmail.net | Dong-A Pharm. KoreaDong-A Pharm. Korea |
 | __Lee, So Yeon__ | Feb. 2013 | MS | soyeon.verena(a)gmail.com | - |
 | __Lee, Ji Young__ | Sep. 2014 | MS | jiyounglee4831(a)gmail.com | Gyeonggido Office of Education |
 | __Oh, Sun Joo__ | Feb. 2017 | MS |  sunjoo9359(a)korea.ac.kr | CEO, SlowBowls, Korea |
