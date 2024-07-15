@@ -27,7 +27,7 @@ comments: false
 |=====
 {: rules="groups"}
 
-## Alumnis
+## Alumnus
 
 | Name | Until | Degree | E-mail | Current Position |
 |:--------|:-------:|:--------:|:--------:|:--------|
