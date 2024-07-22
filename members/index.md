@@ -22,7 +22,7 @@ comments: false
 | ![ex_screenshot](/assets/img/lsh.jpg) | __Lee, So Hae__ | MS student | 99shhanmail(a)naver.com |
 | ![ex_screenshot](/assets/img/LJY.png) | __Lee, Ju Yeon__ | MS student | 324dlwndus(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/LRS.png) | __Lee, Ryun Seok__ | MS/Ph. D. student | rs0912(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/KHK.jpg) | __Kim, Hea Kyoung__ | Office manager | entoko8@naver.com |
+| ![ex_screenshot](/assets/img/KHK2.jpg) | __Kim, Hea Kyoung__ | Office manager | entoko8@naver.com |
 |----
 | |
 |=====
