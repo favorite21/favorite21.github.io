@@ -14,13 +14,14 @@ comments: false
 |:--------:|:-------:|:--------:|:--------|
 | ![ex_screenshot](/assets/img/prof.jpg) | __Song, Hyun Kyu__ | Principal Investigator | hksong(a)korea.ac.kr |
 |----
-| ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | MS/Ph. D. candidate | qhd0207(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | Researcher | qhd0207(a)korea.ac.kr |
+|----
 | ![ex_screenshot](/assets/img/yws.jpg) | __Yang, Woo Seok__ | Ph. D. candidate | favorite21(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/hjh.jpg) | __Han, Juhyun__ | MS student | hanju828(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/lhj2.jpg) | __Lee, Hyeon Jeong__ | MS/Ph. D. student | hyeon4867(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/shj.jpg) | __Shin, He Jeong__ | MS/Ph. D. student | kdc0141(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/lhj2.jpg) | __Lee, Hyun-Jeong__ | MS/Ph. D. student | hyun4867(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/shj.jpg) | __Shin, Hejeong__ | MS/Ph. D. student | kdc0141(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/lsh.jpg) | __Lee, So Hae__ | MS student | 99shhanmail(a)naver.com |
-| ![ex_screenshot](/assets/img/LJY.png) | __Lee, Ju Yeon__ | MS student | 324dlwndus(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/LJY.png) | __Lee, Juyeon__ | MS student | 324dlwndus(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/LRS.png) | __Lee, Ryun Seok__ | MS/Ph. D. student | rs0912(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/KHK2.jpg) | __Kim, Hea Kyoung__ | Office manager | entoko8@naver.com |
 |----
