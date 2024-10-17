@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "축하합니다! 송현규 교수님께서 KSMCB life science award를 수상하셨습니다 (2024. 10 수상)"
-date: 2024-03-02
+date: 2024-10-14
 excerpt: "축하합니다! 송현규 교수님께서 KSMCB life science award를 수상하셨습니다 (2024. 10 수상)"
 comments: true
 ---
@@ -12,6 +12,3 @@ comments: true
 <br/>
 Professor Hyun Kyu Song has been awarded the KSMCB Life Science Award. This is a momentous recognition of his groundbreaking research and dedication over the past 20 years. His remarkable achievements have made a profound impact on the academic world, and we look forward to seeing him continue to pave the way for new horizons.
 <br/>
-<br/>
-
-`첨부링크.` 
