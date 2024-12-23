@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "try "
+title: "try"
 date: 2024-10-14
-excerpt: "try "
+excerpt: "try"
 comments: false
 ---
 
