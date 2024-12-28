@@ -60,7 +60,7 @@ comments: false
 | __Heo, Ji Won__ | Jun. 2020 | MS | heoji94(a)korea.ac.kr | Patent Attorney |
 | __Lee, Ha Yeong__ | Jul. 2021 | MS | vvetha75(a)korea.ac.kr | Samsung Biologics, Korea |
 | __Kim, Bokyung__ | Jan.2023 | MS | bokim(a)gmail.com | PhD student, Scripps Research Institute, USA |
-| __Kim, Min Ki__ | Feb.2023 | MS | viva2kmg(a)korea.ac.kr | TiUM Bio, Korea |
+| __Kim, Min Ki__ | Feb.2023 | MS | viva2kmg(a)gmail.com | TiUM Bio, Korea |
 | __Kim, Min Sang__ |Feb.2024 | MS | mandufighting(a)korea.ac.kr | Amyloid Solution, Korea|
 |----
 | __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77(a)hotmail.com | - |
