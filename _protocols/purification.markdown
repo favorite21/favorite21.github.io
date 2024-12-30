@@ -13,4 +13,4 @@ This document is part of the protocol followed in our laboratory. Our research f
 <br/>
 <br/>
 
-`첨부파일.` [논문](/assets/1-s2.0-S0076687923000587.pdf)
+`첨부파일.` [In vitro production of N-degron fused proteins and its application](/assets/1-s2.0-S0076687923000587.pdf)
