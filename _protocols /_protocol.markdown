@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: protocol
 title: "In vitro production of N-degron fused proteins and its application "
 date: 2024-12-28
 excerpt: "please"
