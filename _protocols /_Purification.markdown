@@ -2,7 +2,7 @@
 layout: post
 title: "In vitro production of N-degron fused proteins and its application"
 date: 2024-12-28
-excerpt: "please"
+excerpt: "In vitro production of N-degron fused proteins and its application"
 comments: true
 ---
 
@@ -12,4 +12,4 @@ This document is part of the protocol followed in our laboratory. Our research f
 <br/>
 <br/>
 
-`첨부파일.` [발송공문03. 제8회 생화학분자생물학회장상 수상자 선정안내](/assets/1-s2.0-S0076687923000587.pdf.pdf)
+`첨부파일.` [논문](/assets/1-s2.0-S0076687923000587.pdf)
