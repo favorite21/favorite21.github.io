@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Protocol] In vitro production of N-degron fused proteins and its application "
+title: "In vitro production of N-degron fused proteins and its application "
 date: 2024-12-28
 excerpt: "please"
 comments: true
@@ -10,4 +10,4 @@ comments: true
 <br/>
 This document is part of the protocol followed in our laboratory. Our research focuses on elucidating protein structures and uncovering their functions through various assays. For further details, please refer to the attached file.<br/>
 
-`첨부파일.` [논문.In vitro production of N-degron fused proteins and its application](/assets/In vitro production of N-degron fused proteins and its application.pdf)
+`첨부파일.` [논문.In vitro production of N-degron fused proteins and its application](/assets/1-s2.0-S0076687923000587-main (1).pdf)
