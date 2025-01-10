@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Professor Song Hyun-kyu delivered the Rose Lecture at the KSMCB Winter Conference. Sincere congratulations!"
+title: "송현규 교수님께서 KSMCB 동계 학술대회에서 Rose Lecture를 진행하셨습니다. 진심으로 축하드립니다!"
 date: 2025-01-06
-excerpt: "Professor Song Hyun-kyu delivered the Rose Lecture at the KSMCB Winter Conference. Sincere congratulations!"
+excerpt: "송현규 교수님께서 KSMCB 동계 학술대회에서 Rose Lecture를 진행하셨습니다. 진심으로 축하드립니다!"
 comments: true
 ---
 
