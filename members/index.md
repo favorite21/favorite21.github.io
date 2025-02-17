@@ -41,7 +41,7 @@ comments: false
 | __Sung, Kwang Hoon__ | Sep. 2014 | Ph.D. | sternen(a)gmail.com | CEO, ProteinStimmer, Korea |
 | __Kim, Min Kyung__ | Jun. 2017 | Ph.D. | minkim(a)gachon.ac.kr | Assistant Professor, College of Pharmacy, Gachon University |
 | __Kim, Byeong-Won__ | Aug. 2017 | Ph.D. | kbw2010(a)crystal.harvard.edu | Senior Scientist, KBIOhealth, Korea |
-| __Kwon, Do Hoon__ | Feb. 2019 | Ph.D. | dohoon.kwon(a)duke.edu | Postdoc, Duke Medical School, USA |
+| __Kwon, Do Hoon__ | Feb. 2019 | Ph.D. | dhkwon@postech.ac.kr | Assistant Professor, Postech |
 | __Kim, Jun Hoe__ | Jun. 2019 | Ph.D. | kimjunh(a)ohsu.edu | Postdoctoral Fellow, Vollum Institute, Oregon Health & Science University, USA |
 | __Kim, Leehyeon__ | Jul. 2022 | Ph.D. | kiml7(a)mskcc.org | Postdoctoral Fellow, Memorial Sloan Kettering Cancer Center, USA |
 | __Park, Si Hoon__ | Oct. 2022 | Ph.D. | si-hoon.park(a)fmi.ch | Research Associate, Friedrich Miescher Institute for Biomedical Research, Basel, Switzerland |
