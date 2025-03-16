@@ -20,7 +20,6 @@ comments: false
 | ![ex_screenshot](/assets/img/hjh.jpg) | __Han, Juhyun__ | MS student | hanju828(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/lhj2.jpg) | __Lee, Hyun-Jeong__ | MS/Ph. D. student | hyun4867(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/shj.jpg) | __Shin, Hejeong__ | MS/Ph. D. student | kdc0141(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/lsh.jpg) | __Lee, So Hae__ | MS student | 99shhanmail(a)naver.com |
 | ![ex_screenshot](/assets/img/LJY.png) | __Lee, Juyeon__ | MS student | 324dlwndus(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/LRS.png) | __Lee, Ryun Seok__ | MS/Ph. D. student | rs0912(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/KSE.jpg) | __Kim, Si Eun__ | MS student | eunsikim1101(a)gmail.com |
@@ -63,10 +62,11 @@ comments: false
 | __Kim, Bokyung__ | Jan.2023 | MS | bokim(a)gmail.com | PhD student, Scripps Research Institute, USA |
 | __Kim, Min Ki__ | Feb.2023 | MS | viva2kmg(a)gmail.com | TiUM Bio, Korea |
 | __Kim, Min Sang__ |Feb.2024 | MS | mandufighting(a)korea.ac.kr | Amyloid Solution, Korea|
+| __Lee, So Hae__ |Feb.2025 | MS | 99shhanmail(a)naver.com | Samsung Bioepis, Korea|
 |----
 | __Kim, Jeom-A__ | Aug. 2004 | Researcher | littletree77(a)hotmail.com | - |
 | __Kim, Hyung-Wook__ | Aug. 2004 | Researcher | hwkim(a)ezpat.com | EZ International Patent & Trademark, Korea |
-| __Jung, Yang Ouk__ | Oct. 2018 | Postdoc | yojung78(a)gmail.com | Principal Scientist, Samsung Biospis, Korea |
+| __Jung, Yang Ouk__ | Oct. 2018 | Postdoc | yojung78(a)gmail.com | Principal Scientist, Samsung Bioepis, Korea |
 | __Shin, Jin Seok__ | Sep. 2022 | Postdoc | faceofblack89(a)gmail.com | Principal Scientist, Sartorius, Korea |
 |----
 | __Peggy C. Stolt__ | Aug. 2004 | Visiting student | peggy.stolt(a)csf.ac.at | Principal Scientist, Boehringer Ingelheim |
