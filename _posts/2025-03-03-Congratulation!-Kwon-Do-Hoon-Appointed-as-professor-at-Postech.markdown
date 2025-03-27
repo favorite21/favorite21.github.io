@@ -6,7 +6,7 @@ excerpt: "축하합니다! 권도훈 박사님께서 포항공과대학교 화�
 comments: true
 ---
 
-![ex_screenshot](assets/img/prof_Dohoon kwon.png)
+![ex_screenshot](/assets/img/prof_Dohoon kwon.png)
 
 <br/>
 구조생물학 연구실 졸업생 권도훈 박사님께서 포항공과대학교 화학과 조교수로 부임하셨습니다. 축하드립니다!
