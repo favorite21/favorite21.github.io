@@ -9,6 +9,11 @@ feature: "/assets/img/sspb.png"
 comments: false
 ---
 
+## 2025
+
+<a href="assets/pdf/Protein_Science_KBK.pdf"> <strong>(145) "Revisiting the structure of UBR box from human UBR6"</strong> </a> <br/> Bokyung Kim, Sohae Lee, Bong Heon Kim, Leehyeon Kim, Hyun Kyu Song. (2025) <br/> <em> Protein Science </em> 34(4):e70092. https://doi.org/10.1002/pro.70092
+
+
 ## 2024
 (144) "Polymorphic Self-Assembly with Procedural Flexibility for Monodisperse Quaternary Protein Structures of DegQ Enzymes"</strong> </a> <br/> Hanul Jeon, Ah-Reum Han, Sangmin Oh, Jin-Gyeong Park, Myeong Namkoong, Kyeong-Mi Bang, Ho Min Kim, Nak-Kyoon Kim, Kwang Yeon Hwang, Kahyun Hur, Bong-Jin Lee, Jeongyun Heo, Sehoon Kim, Hyun Kyu Song, Hyesung Cho, In-Gyun Lee. (2024) <br/> <em> Advanced Materials </em> https://doi.org/10.1002/adma.202308837
 
