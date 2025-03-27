@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Juyeon Lee has won an award the Samsung Bioepis Research Note Competition"
-date: 2018-02-12
+date: 2025-02-20
 excerpt: "Juyeon Lee has won an award the Samsung Bioepis Research Note Competition"
 comments: true
 ---
