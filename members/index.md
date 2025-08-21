@@ -22,7 +22,8 @@ comments: false
 | ![ex_screenshot](/assets/img/LRS.png) | __Lee, Ryun Seok__ | MS/Ph. D. student | rs0912(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/KSE.jpg) | __Kim, Si Eun__ | MS student | eunsikim1101(a)gmail.com |
 | ![ex_screenshot](/assets/img/lsm.jpg) | __Lee, Seong Min__ | MS/Ph.D. student | rhcp0502(a)naver.com |
-| ![ex_screenshot](/assets/img/KHK2.jpg) | __Kim, Hea Kyoung__ | Office manager | entoko8@naver.com |
+| ![ex_screenshot](/assets/img/YDH2.jpg) | __Yoon, Dae Ho__ | MS student | dbsleolgh(a)naver.com |
+| ![ex_screenshot](/assets/img/KHK2.jpg) | __Kim, Hea Kyoung__ | Office manager | entoko8(a)naver.com |
 |----
 | |
 |=====
