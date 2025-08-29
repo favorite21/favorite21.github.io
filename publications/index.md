@@ -10,6 +10,8 @@ comments: false
 ---
 
 ## 2025
+<a href="assets/pdf/147_2025_Science_.pdf"> <strong>(147) "Architecture of the UBR4 complex, a giant E4 ligase central to eukaryotic protein quality control"</strong> </a> <br/> Daniel B. Grabarczyk, Julian F. Ehrmann, Paul Murphy, Woo Seok Yang, Robert Kurzbauer, Lillie E. Bell, Luiza Deszcz, Jana Neuhold, Alexander Schleiffer, Alexandra Shulkina, Juyeon Lee, Jin Seok Shin, Anton Meinhart, Gijs A. Versteeg, Eszter Zavodszky, Hyun Kyu Song, Ramanujan S. Hegde, and Tim Clausen. (2025) <br/> <em> Science </em> 389,909-914. 10.1126/science.adv9309
+
 <a href="assets/pdf/146_2025_Natcom_YWS.pdf"> <strong>(146) "Structural basis for the recognition and ubiquitylation of type-2 N-degron substrate by PRT1 plant N-recognin"</strong> </a> <br/> Woo Seok Yang, Seu Ha Kim, Minsang Kim, Hejeong Shin, Juyeon Lee, Alexander Sandmann, Ohkmae K. Park, Nico Dissmeyer & Hyun Kyu Song. (2025) <br/> <em> Nature Communications </em> 16, 7817. https://doi.org/10.1038/s41467-025-63282-9
 
 <a href="assets/pdf/Protein_Science_KBK.pdf"> <strong>(145) "Revisiting the structure of UBR box from human UBR6"</strong> </a> <br/> Bokyung Kim, Sohae Lee, Bong Heon Kim, Leehyeon Kim, Hyun Kyu Song. (2025) <br/> <em> Protein Science </em> 34(4):e70092. https://doi.org/10.1002/pro.70092
