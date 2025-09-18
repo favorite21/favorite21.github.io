@@ -18,7 +18,15 @@ comments: false
 
 
 ## 2024
-(144) "Polymorphic Self-Assembly with Procedural Flexibility for Monodisperse Quaternary Protein Structures of DegQ Enzymes"</strong> </a> <br/> Hanul Jeon, Ah-Reum Han, Sangmin Oh, Jin-Gyeong Park, Myeong Namkoong, Kyeong-Mi Bang, Ho Min Kim, Nak-Kyoon Kim, Kwang Yeon Hwang, Kahyun Hur, Bong-Jin Lee, Jeongyun Heo, Sehoon Kim, Hyun Kyu Song, Hyesung Cho, In-Gyun Lee. (2024) <br/> <em> Advanced Materials </em> https://doi.org/10.1002/adma.202308837
+<a href="assets/pdf/NS1.pdf"> <strong>(148) "NS1 binding protein regulates stress granule dynamics and clearance by inhibiting p62 ubiquitination"</strong> </a> <br/> Pureum Jeon, Hyun-Ji Ham, Haneul Choi, Semin Park, Jae-Woo Jang, Sang-Won Park, Dong-Hyung Cho, Hyun-Jeong Lee, Hyun Kyu Song, Masaaki Komatsu, Dohyun Han, Deok-Jin Jang & Jin-A Lee. (2024) <br/> <em> Nature Communications </em> 15, 10925. https://doi.org/10.1038/s41467-024-55446-w
+
+<a href="assets/pdf/Seoha Kim.pdf"> <strong>(147) "The N-degron pathway governs autophagy to promote thermotolerance in Arabidopsis"</strong> </a> <br/> Seu Ha Kim, Jun Seok Park, Myoung-Hoon Lee, Joongyu Seo, Jaekwan Kim, Woo Seok Yang, Jihye Park, Kwangmin Yoo, Jungmin Choi, Jong-Bok Seo, Hyun Kyu Song & Ohkmae K. Park. (2024) <br/> <em> Nature Communications </em> 16, 5889. https://doi.org/10.1038/s41467-025-61191-5
+
+<a href="assets/pdf/IAMP29.pdf"> <strong>(146) "The inflammasome-activating poxvirus peptide IAMP29 promotes antimicrobial and anticancer responses"</strong> </a> <br/> Taylor Roh, Wonhyoung Seo, Minho Won, Woo Seok Yang, Asmita Sapkota, Eun-Jin Park, Sung-Ho Yun, Sang Min Jeon, Kyung Tae Kim, Bomi Lee, Gyoungah Ryu, Sang-Hee Lee, Jung-Min Shin, Hyo Jung Shin, Young Jae Kim, Young Lee, Chaeuk Chung, Ik-Chan Song, Hyun Kyu Song & Eun-Kyeong Jo. (2024) <br/> <em> Experimental & Molecular Medicine </em> 56, pages2475–2490. https://doi.org/10.1038/s12276-024-01339-3
+
+<a href="assets/pdf/DegQ.pdf"> <strong>(145) "Polymorphic Self-Assembly with Procedural Flexibility for Monodisperse Quaternary Protein Structures of DegQ Enzymes"</strong> </a> <br/> Hanul Jeon, Ah-reum Han, Sangmin Oh, Jin-Gyeong Park, Myeong Namkoong, Kyeong-Mi Bang, Ho Min Kim, Nak-Kyoon Kim, Kwang Yeon Hwang, Kahyun Hur, Bong-Jin Lee, Jeongyun Heo, Sehoon Kim, Hyun Kyu Song, Hyesung Cho, In-Gyun Lee. (2024) <br/> <em> Advanced Materials </em> 36, 2308837. https://doi.org/10.1002/adma.202308837
+
+<a href="assets/pdf/SIRT1.pdf"> <strong>(144) "SIRT1 ISGylation accelerates tumor progression by unleashing SIRT1 from the inactive state to promote its deacetylase activity"</strong> </a> <br/> Ji An Kang, Yoon Jung Kim, Kyu Yun Jang, Hye Won Moon, Haeseung Lee, Seonjeong Lee, Hyun Kyu Song, Sang Woo Cho, Yoon Sun Yoo, Hye Gyeong Han, Min-Ju Kim, Myoung Ja Chung, Cheol Yong Choi, Cheolju Lee, Chaeuk Chung, Gang Min Hur, You-Sun Kim & Young Joo Jeon. (2024) <br/> <em> Experimental & Molecular Medicine </em> 56, 656–673 https://doi.org/10.1038/s12276-024-01194-2
 
 
 ## 2023
