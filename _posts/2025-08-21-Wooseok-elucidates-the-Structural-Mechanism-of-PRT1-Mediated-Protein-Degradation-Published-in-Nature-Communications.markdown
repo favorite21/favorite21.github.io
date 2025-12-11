@@ -9,7 +9,7 @@ comments: true
 양우석 학생이 식물 기관의 크기를 조절하는 빅브라더 단백질이 PRT1 효소에 의해 분해되는 원리를 세계 최초로 규명하여, 국제 학술지인 Nature Communications (IF = 15.7)에 논문을 출판하였습니다.<br/> 
 양우석 학생의 우수한 연구 성취를 진심으로 축하하며, 앞으로도 더욱 빛나는 연구 활동을 이어가기를 기대합니다.<br/>
 
-![ex_screenshot](/assets/img/YWS Pic.png)
+![ex_screenshot](/assets/img/YWS_Pic.png)
 <br/>
 ![ex_screenshot](/assets/img/YWS_Prt1.png)
 
