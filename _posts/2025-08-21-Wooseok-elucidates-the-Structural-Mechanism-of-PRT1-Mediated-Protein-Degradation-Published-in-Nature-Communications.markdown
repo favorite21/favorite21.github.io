@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "양우석 학생이 PRT1 기반 단백질 분해의 구조적 원리를 규명하여 Nature Communications에 게재하였습니다."
+title: "축하합니다! 양우석 학생이 PRT1 기반 단백질 분해의 구조적 원리를 규명하여 Nature Communications에 논문을 게재하였습니다."
 date: 2025-08-21
-excerpt: "양우석 학생이 PRT1 기반 단백질 분해의 구조적 원리를 규명하여 Nature Communications에 게재하였습니다."
+excerpt: "축하합니다! 양우석 학생이 PRT1 기반 단백질 분해의 구조적 원리를 규명하여 Nature Communications에 논문을 게재하였습니다."
 comments: true
 ---
 
