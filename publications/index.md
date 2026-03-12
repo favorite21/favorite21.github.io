@@ -10,6 +10,10 @@ comments: false
 ---
 
 ## 2025
+<a href="/assets/pdf/157_Iktae.pdf"> <strong>(157) "Structural investigation of human U6 snRNA recognition by spliceosomal recycling factor SART3 RNA recognition motifs"</strong> </a> <br/> Iktae Kim, Kyeong-Mi Bang, So Young An, Changkon Park, Ji-Yeon Shin, Youngim Kim, Hyun Kyu Song, Jeong-Yong Suh, Nak-Kyoon Kim. (2025) <br/> <em> FEBS J </em> 293: 1323-1340. https://doi.org/10.1111/febs.70275
+
+<a href="/assets/pdf/156_YJJang.pdf"> <strong>(156) "Peptide/Antibody–Drug Conjugates for Therapeutic Applications in Inflammatory Disease"</strong> </a> <br/> Yeongji Jang, Jiwoong Choi, Youngri Ryu, Hyun Kyu Song, Man Kyu Shim, Yoosoo Yang. (2025) <br/> <em> Adv. NanoBiomed Res </em> 5, e2500150. https://doi.org/10.1002/anbr.202500150
+
 <a href="/assets/pdf/147_2025_Science_.pdf"> <strong>(155) "Architecture of the UBR4 complex, a giant E4 ligase central to eukaryotic protein quality control"</strong> </a> <br/> Daniel B. Grabarczyk, Julian F. Ehrmann, Paul Murphy, Woo Seok Yang, Robert Kurzbauer, Lillie E. Bell, Luiza Deszcz, Jana Neuhold, Alexander Schleiffer, Alexandra Shulkina, Juyeon Lee, Jin Seok Shin, Anton Meinhart, Gijs A. Versteeg, Eszter Zavodszky, Hyun Kyu Song, Ramanujan S. Hegde, and Tim Clausen. (2025) <br/> <em> Science </em> 389,909-914. 10.1126/science.adv9309
 
 <a href="/assets/pdf/146_2025_Natcom_YWS.pdf"> <strong>(154) "Structural basis for the recognition and ubiquitylation of type-2 N-degron substrate by PRT1 plant N-recognin"</strong> </a> <br/> Woo Seok Yang, Seu Ha Kim, Minsang Kim, Hejeong Shin, Juyeon Lee, Alexander Sandmann, Ohkmae K. Park, Nico Dissmeyer & Hyun Kyu Song. (2025) <br/> <em> Nature Communications </em> 16, 7817. https://doi.org/10.1038/s41467-025-63282-9
