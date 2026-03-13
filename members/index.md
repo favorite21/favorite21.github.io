@@ -23,7 +23,9 @@ comments: false
 | ![ex_screenshot](/assets/img/KSE.jpg) | __Kim, Si Eun__ | MS student | eunsikim1101(a)gmail.com |
 | ![ex_screenshot](/assets/img/lsm.jpg) | __Lee, Seong Min__ | MS/Ph.D. student | rhcp0502(a)naver.com |
 | ![ex_screenshot](/assets/img/YDH2.jpg) | __Yoon, Dae Ho__ | MS student | dbsleolgh(a)naver.com |
-| ![ex_screenshot]() | __Lim, Tae Jun__ | MS student | steven329(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/LTJ.jpg) | __Lim, Tae Jun__ | MS student | steven329(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/NHS.jpg) | __Nam, Ho Sung__ | MS student | dbsleolgh(a)naver.com |
+| ![ex_screenshot](/assets/img/LKK.jpg) | __Lee, Kyung Kyu__ | MS student | dbsleolgh(a)naver.com |
 | ![ex_screenshot](/assets/img/KHK2.jpg) | __Kim, Hea Kyoung__ | Office manager | entoko8(a)naver.com |
 |----
 | |
