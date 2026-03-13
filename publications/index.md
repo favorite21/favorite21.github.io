@@ -10,6 +10,8 @@ comments: false
 ---
 
 ## 2025
+<a href="assets/pdf/158_SHPark.pdf"> <strong>(158) "Insights into the membrane repair mechanism by the coiled-coil-mediated oligomerization of TRIM72"</strong> </a> <br/> Si Hoon Park, Georg Kempf, Hyun Kyu Song. (2025) <br/> <em> Biochemistry and Biophysics Reports </em> Volume 44,2025,102308,ISSN 2405-5808,https://doi.org/10.1016/j.bbrep.2025.102308.
+
 <a href="/assets/pdf/157_Iktae.pdf"> <strong>(157) "Structural investigation of human U6 snRNA recognition by spliceosomal recycling factor SART3 RNA recognition motifs"</strong> </a> <br/> Iktae Kim, Kyeong-Mi Bang, So Young An, Changkon Park, Ji-Yeon Shin, Youngim Kim, Hyun Kyu Song, Jeong-Yong Suh, Nak-Kyoon Kim. (2025) <br/> <em> FEBS J </em> 293: 1323-1340. https://doi.org/10.1111/febs.70275
 
 <a href="/assets/pdf/156_YJJang.pdf"> <strong>(156) "Peptide/Antibody–Drug Conjugates for Therapeutic Applications in Inflammatory Disease"</strong> </a> <br/> Yeongji Jang, Jiwoong Choi, Youngri Ryu, Hyun Kyu Song, Man Kyu Shim, Yoosoo Yang. (2025) <br/> <em> Adv. NanoBiomed Res </em> 5, e2500150. https://doi.org/10.1002/anbr.202500150
