@@ -9,7 +9,7 @@ feature: "/assets/img/sspb.png"
 comments: false
 ---
 ## 2026
-<a href="assets/pdf/159_hks_MDPI.pdf"> <strong>(158) "Functionalized Lipid Nanoparticles for Targeted RNA Delivery in Immune and Inflammatory Diseases"</strong> </a> <br/> Yeongji Jang, Hyun Kyu Song, Man Kyu Shim, Yoosoo Yang. (2026) <br/> <em> Biomedicines </em> 14(5), 957; https://doi.org/10.3390/biomedicines14050957
+<a href="assets/pdf/159_hks_MDPI.pdf"> <strong>(159) "Functionalized Lipid Nanoparticles for Targeted RNA Delivery in Immune and Inflammatory Diseases"</strong> </a> <br/> Yeongji Jang, Hyun Kyu Song, Man Kyu Shim, Yoosoo Yang. (2026) <br/> <em> Biomedicines </em> 14(5), 957; https://doi.org/10.3390/biomedicines14050957
 
 ## 2025
 <a href="assets/pdf/158_SHPark.pdf"> <strong>(158) "Insights into the membrane repair mechanism by the coiled-coil-mediated oligomerization of TRIM72"</strong> </a> <br/> Si Hoon Park, Georg Kempf, Hyun Kyu Song. (2025) <br/> <em> Biochemistry and Biophysics Reports </em> Volume 44,2025,102308,ISSN 2405-5808,https://doi.org/10.1016/j.bbrep.2025.102308.
