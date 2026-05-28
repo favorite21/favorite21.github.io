@@ -14,7 +14,7 @@ comments: false
 |:--------:|:-------:|:--------:|:--------|
 | ![ex_screenshot](/assets/img/prof.jpg) | __Song, Hyun Kyu__ | Principal Investigator | hksong(a)korea.ac.kr |
 |----
-| ![ex_screenshot](/assets/img/강미선박사님.png) | __Kang, Misun__ | Researcher | kms8410@gmail.com |
+| ![ex_screenshot](/assets/img/강미선박사님.png) | __Kang, Misun__ | Researcher | kms8410(a)gmail.com |
 | ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | Researcher | qhd0207(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/yws.jpg) | __Yang, Woo Seok__ | Researcher | favorite21(a)korea.ac.kr |
 |----
