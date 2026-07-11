@@ -12,7 +12,7 @@ comments: false
 
 | Picture | Name | Job Role | E-mail |
 |:--------:|:-------:|:--------:|:--------|
-| ![ex_screenshot](/assets/img/교수님 사진 260711 크기조정.jpeg) | __Song, Hyun Kyu__ | Principal Investigator | hksong(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/교수님 사진 260711 2.jpeg) | __Song, Hyun Kyu__ | Principal Investigator | hksong(a)korea.ac.kr |
 |----
 | ![ex_screenshot](/assets/img/강미선박사님.png) | __Kang, Misun__ | Researcher | kms8410(a)gmail.com |
 | ![ex_screenshot](/assets/img/kbh.jpg) | __Kim, Bong Heon__ | Researcher | qhd0207(a)korea.ac.kr |
