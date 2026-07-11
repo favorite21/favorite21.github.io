@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "축하합니다! 김봉헌 박사와 이현정 학생이 FEBS Workshop ‘Protein termini 2026: From mechanisms to biological Impact’에서 travel grants애 선정되었습니다!"
+title: "축하합니다! 김봉헌 박사와 이현정 학생이 FEBS Workshop ‘Protein termini 2026: From mechanisms to biological Impact’에서 travel grants에 선정되었습니다!"
 date: 2026-06-06
-excerpt: "축하합니다! 김봉헌 박사와 이현정 학생이 FEBS Workshop ‘Protein termini 2026: From mechanisms to biological Impact’에서 travel grants애 선정되었습니다!"
+excerpt: "축하합니다! 김봉헌 박사와 이현정 학생이 FEBS Workshop ‘Protein termini 2026: From mechanisms to biological Impact’에서 travel grants에 선정되었습니다!"
 comments: true
 ---
 
@@ -10,7 +10,8 @@ comments: true
 <br/>
 ![ex_screenshot](/assets/img/ANG_0096.jpg)
 
-김봉헌 박사와 이현정 학생이 travel grant에 선정되었습니다! 꾸준한 노력과 꼼꼼한 연구 기록이 빛을 발한 순간입니다. 앞으로도 멋진 연구 성과를 기대하겠습니다!<br/>
+김봉헌 박사와 이현정 학생이 travel grant에 선정되었습니다! 꾸준한 노력과 꼼꼼한 연구 기록이 빛을 발한 순간입니다. 앞으로도 멋진 연구 성과를 기대하겠습니다!
+<br/>
 선정을 진심으로 축하합니다!
 
 <br/>
