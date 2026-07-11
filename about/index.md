@@ -12,7 +12,7 @@ comments: false
 <center>"Introduce our laboratory!!"</center>
 
 
-![ex_screenshot](/assets/img/prof.jpg) <center>Prof. Hyun Kyu Song</center>
+![ex_screenshot](/assets/img/prof20260711.png) <center>Prof. Hyun Kyu Song</center>
 
 ## PI Introduction
 Education and Training
