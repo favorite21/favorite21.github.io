@@ -25,8 +25,9 @@ comments: false
 | ![ex_screenshot](/assets/img/lsm.jpg) | __Lee, Seong Min__ | MS/Ph.D. student | rhcp0502(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/YDH2.jpg) | __Yoon, Dae Ho__ | MS student | dbsleolgh(a)naver.com |
 | ![ex_screenshot](/assets/img/LTJ.jpg) | __Lim, Tae Jun__ | MS student | steven329(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/LKK.jpg) | __Lee, Gyung Gyu__ | Undergraduate Student | lkk6056(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/NHS.jpg) | __Nam, Ho Sung__ | Undergraduate Student | myrechall(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/LKK.jpg) | __Lee, Gyung Gyu__ | MS student | lkk6056(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/NHS.jpg) | __Nam, Ho Sung__ | MS/Ph. D. student | myrechall(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/20260818 정상민 128 160.jpeg) | __Jung, Sangmin__ | Undergraduate Student | jsm030701@korea.ac.kr |
 | ![ex_screenshot](/assets/img/KHK2.jpg) | __Kim, Hea Kyoung__ | Office manager | entoko8(a)naver.com |
 |----
 | |
