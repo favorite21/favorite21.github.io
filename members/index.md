@@ -21,7 +21,7 @@ comments: false
 | ![ex_screenshot](/assets/img/lhj2.jpg) | __Lee, Hyun-Jeong__ | MS/Ph. D. student | hyun4867(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/shj.jpg) | __Shin, Hejeong__ | MS/Ph. D. student | kdc0141(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/LRS.png) | __Lee, Ryun Seok__ | MS/Ph. D. student | rs0912(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/KSE.jpg) | __Kim, Si Eun__ | MS student | eunsikim1101(a)gmail.com |
+| ![ex_screenshot](/assets/img/KSE.jpg) | __Kim, Sieun__ | MS student | eunsikim1101(a)gmail.com |
 | ![ex_screenshot](/assets/img/lsm.jpg) | __Lee, Seong Min__ | MS/Ph.D. student | rhcp0502(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/YDH2.jpg) | __Yoon, Dae Ho__ | MS student | dbsleolgh(a)naver.com |
 | ![ex_screenshot](/assets/img/LTJ.jpg) | __Lim, Tae Jun__ | MS student | steven329(a)korea.ac.kr |
