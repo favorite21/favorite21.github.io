@@ -30,7 +30,7 @@ comments: false
 | ![ex_screenshot](/assets/img/20260818_JSM.png) | __Jung, Sangmin__ | Undergraduate Student | jsm030701(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/LSH.png) | __Lee, Seongho__ | Undergraduate Student | skystar1230(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/KYS.png) | __Kim, Yunsang__ | Undergraduate Student | yskiww(a)korea.ac.kr |
-| ![ex_screenshot](/assets/img/AEH.png) | __Ahn, eonha__ | Undergraduate Student | 21491h(a)korea.ac.kr |
+| ![ex_screenshot](/assets/img/AEH.png) | __Ahn, Eonha__ | Undergraduate Student | 21491h(a)korea.ac.kr |
 | ![ex_screenshot](/assets/img/KHK2.jpg) | __Kim, Hea Kyoung__ | Office manager | entoko8(a)naver.com |
 |----
 | |
